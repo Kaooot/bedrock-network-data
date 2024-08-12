@@ -1,0 +1,330 @@
+{
+    "ARG": {
+        "description": "unknown",
+        "id": 26
+    },
+    "ARGS": {
+        "description": "unknown",
+        "id": 25
+    },
+    "BLOCK_STATE": {
+        "description": "unknown",
+        "id": 74
+    },
+    "BLOCK_STATE_ARRAY": {
+        "description": "block states",
+        "id": 78
+    },
+    "BLOCK_STATE_ARRAY_CONT": {
+        "description": "unknown",
+        "id": 79
+    },
+    "BLOCK_STATE_KEY": {
+        "description": "unknown",
+        "id": 75
+    },
+    "BLOCK_STATE_VALUE": {
+        "description": "unknown",
+        "id": 76
+    },
+    "BLOCK_STATE_VALUES": {
+        "description": "unknown",
+        "id": 77
+    },
+    "COMMAND": {
+        "description": "unknown",
+        "id": 80
+    },
+    "COMPAREOPERATOR": {
+        "description": "compare operator",
+        "id": 7
+    },
+    "COORD_X_FLOAT": {
+        "description": "unknown",
+        "id": 55
+    },
+    "COORD_X_INT": {
+        "description": "unknown",
+        "id": 52
+    },
+    "COORD_Y_FLOAT": {
+        "description": "unknown",
+        "id": 56
+    },
+    "COORD_Y_INT": {
+        "description": "unknown",
+        "id": 53
+    },
+    "COORD_Z_FLOAT": {
+        "description": "unknown",
+        "id": 57
+    },
+    "COORD_Z_INT": {
+        "description": "unknown",
+        "id": 54
+    },
+    "EQUIPMENTSLOTENUM": {
+        "description": "equipment slots",
+        "id": 43
+    },
+    "FAMILYARG": {
+        "description": "unknown",
+        "id": 31
+    },
+    "FLOAT": {
+        "description": "unknown",
+        "id": 2
+    },
+    "FULLINTEGERRANGE": {
+        "description": "integer range",
+        "id": 23
+    },
+    "HASITEMARG": {
+        "description": "unknown",
+        "id": 40
+    },
+    "HASITEMARGS": {
+        "description": "unknown",
+        "id": 41
+    },
+    "HASITEMELEMENT": {
+        "description": "unknown",
+        "id": 38
+    },
+    "HASITEMELEMENTS": {
+        "description": "unknown",
+        "id": 39
+    },
+    "HASITEMSELECTOR": {
+        "description": "unknown",
+        "id": 42
+    },
+    "HASPROPERTYARG": {
+        "description": "unknown",
+        "id": 45
+    },
+    "HASPROPERTYARGS": {
+        "description": "unknown",
+        "id": 46
+    },
+    "HASPROPERTYELEMENT": {
+        "description": "unknown",
+        "id": 47
+    },
+    "HASPROPERTYELEMENTS": {
+        "description": "unknown",
+        "id": 48
+    },
+    "HASPROPERTYPARAMENUMVALUE": {
+        "description": "unknown",
+        "id": 44
+    },
+    "HASPROPERTYSELECTOR": {
+        "description": "unknown",
+        "id": 49
+    },
+    "ID": {
+        "description": "string",
+        "id": 50
+    },
+    "IDCONT": {
+        "description": "unknown",
+        "id": 51
+    },
+    "INT": {
+        "description": "int",
+        "id": 1
+    },
+    "INTEGERRANGE": {
+        "description": "unknown",
+        "id": 22
+    },
+    "INTEGERRANGEPOSTVAL": {
+        "description": "unknown",
+        "id": 21
+    },
+    "INTEGERRANGEVAL": {
+        "description": "unknown",
+        "id": 20
+    },
+    "JSON_ARRAY": {
+        "description": "unknown",
+        "id": 71
+    },
+    "JSON_ARRAY_CONT": {
+        "description": "unknown",
+        "id": 73
+    },
+    "JSON_ARRAY_VALUES": {
+        "description": "unknown",
+        "id": 72
+    },
+    "JSON_FIELD": {
+        "description": "unknown",
+        "id": 67
+    },
+    "JSON_OBJECT": {
+        "description": "json",
+        "id": 68
+    },
+    "JSON_OBJECT_CONT": {
+        "description": "unknown",
+        "id": 70
+    },
+    "JSON_OBJECT_FIELDS": {
+        "description": "unknown",
+        "id": 69
+    },
+    "JSON_VALUE": {
+        "description": "unknown",
+        "id": 66
+    },
+    "MARG": {
+        "description": "unknown",
+        "id": 27
+    },
+    "MESSAGE": {
+        "description": "unknown",
+        "id": 61
+    },
+    "MESSAGEEXP": {
+        "description": "unknown",
+        "id": 60
+    },
+    "MESSAGE_ROOT": {
+        "description": "message",
+        "id": 62
+    },
+    "MVALUE": {
+        "description": "unknown",
+        "id": 28
+    },
+    "NAMEARG": {
+        "description": "unknown",
+        "id": 29
+    },
+    "NONIDSELECTION": {
+        "description": "unknown",
+        "id": 11
+    },
+    "OPERATOR": {
+        "description": "operator",
+        "id": 6
+    },
+    "PATHCOMMAND": {
+        "description": "filepath",
+        "id": 17
+    },
+    "PATHCOMMANDCONT": {
+        "description": "unknown",
+        "id": 19
+    },
+    "PATHCOMMANDVAL": {
+        "description": "unknown",
+        "id": 18
+    },
+    "PERMISSIONARG": {
+        "description": "unknown",
+        "id": 32
+    },
+    "PERMISSIONARGS": {
+        "description": "unknown",
+        "id": 33
+    },
+    "PERMISSIONELEMENT": {
+        "description": "unknown",
+        "id": 35
+    },
+    "PERMISSIONELEMENTS": {
+        "description": "unknown",
+        "id": 36
+    },
+    "PERMISSIONSELECTOR": {
+        "description": "unknown",
+        "id": 34
+    },
+    "POSITION": {
+        "description": "x y z",
+        "id": 58
+    },
+    "POSITION_FLOAT": {
+        "description": "x y z",
+        "id": 59
+    },
+    "POSTSELECTOR": {
+        "description": "unknown",
+        "id": 63
+    },
+    "RAWTEXT": {
+        "description": "text",
+        "id": 64
+    },
+    "RAWTEXTCONT": {
+        "description": "unknown",
+        "id": 65
+    },
+    "RVAL": {
+        "description": "value",
+        "id": 4
+    },
+    "SCORESARG": {
+        "description": "unknown",
+        "id": 12
+    },
+    "SCORESARGS": {
+        "description": "unknown",
+        "id": 13
+    },
+    "SCORESELECTOR": {
+        "description": "unknown",
+        "id": 15
+    },
+    "SCORESELECTPARAM": {
+        "description": "unknown",
+        "id": 14
+    },
+    "SELARGS": {
+        "description": "unknown",
+        "id": 24
+    },
+    "SELECTION": {
+        "description": "target",
+        "id": 8
+    },
+    "SLASHCOMMAND": {
+        "description": "command",
+        "id": 81
+    },
+    "STANDALONESELECTION": {
+        "description": "unknown",
+        "id": 9
+    },
+    "TAGARG": {
+        "description": "unknown",
+        "id": 37
+    },
+    "TAGSELECTOR": {
+        "description": "unknown",
+        "id": 16
+    },
+    "TYPEARG": {
+        "description": "unknown",
+        "id": 30
+    },
+    "VAL": {
+        "description": "float",
+        "id": 3
+    },
+    "WILDCARDINT": {
+        "description": "wildcard int",
+        "id": 5
+    },
+    "WILDCARDSELECTION": {
+        "description": "target",
+        "id": 10
+    },
+    "eps": {
+        "description": "unknown",
+        "id": 0
+    }
+}
