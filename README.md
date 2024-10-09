@@ -7,10 +7,3 @@ This repository contains network protocol data that is essential for the operati
 * [Releases](release/release-versions.md)
 
 * [Previews](preview/preview-versions.md)
-
-### Notice
-
-Since version 1.21.10.22 (v704) the block palette is not in the correct
-order. You can only use the hashed runtime ids specified in the block palette itself
-and ``StartGamePacket#blockNetworkIdsAreHashes``must be set to true to use the block palette. This should not
-be a problem as since version 1.19.80 (v582) hashed runtime identifiers should be used instead of a runtime id counter.
