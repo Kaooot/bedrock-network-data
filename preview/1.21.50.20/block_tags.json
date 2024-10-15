@@ -1,0 +1,3876 @@
+{
+  "minecraft:pink_tulip": [
+    "fertilize_area"
+  ],
+  "minecraft:budding_amethyst": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:light_blue_concrete_powder": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:gravel": [
+    "minecraft:is_shovel_item_destructible",
+    "gravel"
+  ],
+  "minecraft:detector_rail": [
+    "minecraft:is_pickaxe_item_destructible",
+    "rail"
+  ],
+  "minecraft:cyan_terracotta": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:hard_pink_stained_glass": [
+  ],
+  "minecraft:light_gray_candle": [
+  ],
+  "minecraft:nether_gold_ore": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:polished_basalt": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:blue_candle": [
+  ],
+  "minecraft:dark_oak_wood": [
+    "minecraft:is_axe_item_destructible",
+    "wood"
+  ],
+  "minecraft:tuff_brick_wall": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:yellow_candle_cake": [
+  ],
+  "minecraft:sticky_piston": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:zombie_head": [
+  ],
+  "minecraft:acacia_wall_sign": [
+    "minecraft:is_axe_item_destructible",
+    "text_sign",
+    "wood"
+  ],
+  "minecraft:bamboo_pressure_plate": [
+    "minecraft:is_axe_item_destructible",
+    "wood"
+  ],
+  "minecraft:melon_block": [
+    "minecraft:is_axe_item_destructible"
+  ],
+  "minecraft:red_wool": [
+  ],
+  "minecraft:gold_ore": [
+    "minecraft:is_pickaxe_item_destructible",
+    "minecraft:iron_tier_destructible",
+    "iron_pick_diggable",
+    "diamond_pick_diggable"
+  ],
+  "minecraft:birch_standing_sign": [
+    "minecraft:is_axe_item_destructible",
+    "text_sign",
+    "wood"
+  ],
+  "minecraft:element_93": [
+  ],
+  "minecraft:waxed_cut_copper_stairs": [
+    "minecraft:is_pickaxe_item_destructible",
+    "minecraft:stone_tier_destructible",
+    "stone_pick_diggable"
+  ],
+  "minecraft:cornflower": [
+    "fertilize_area"
+  ],
+  "minecraft:red_nether_brick": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:oxidized_cut_copper_stairs": [
+    "minecraft:is_pickaxe_item_destructible",
+    "minecraft:stone_tier_destructible",
+    "stone_pick_diggable"
+  ],
+  "minecraft:warped_door": [
+    "one_way_collidable",
+    "minecraft:is_axe_item_destructible"
+  ],
+  "minecraft:polished_granite_stairs": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:red_mushroom_block": [
+    "minecraft:is_axe_item_destructible"
+  ],
+  "minecraft:element_30": [
+  ],
+  "minecraft:dead_bubble_coral_wall_fan": [
+  ],
+  "minecraft:blue_carpet": [
+  ],
+  "minecraft:pale_oak_fence_gate": [
+    "one_way_collidable",
+    "minecraft:is_axe_item_destructible",
+    "wood"
+  ],
+  "minecraft:bamboo_block": [
+    "minecraft:is_axe_item_destructible"
+  ],
+  "minecraft:deepslate_bricks": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:waxed_copper": [
+    "minecraft:is_pickaxe_item_destructible",
+    "minecraft:stone_tier_destructible",
+    "stone_pick_diggable"
+  ],
+  "minecraft:white_wool": [
+  ],
+  "minecraft:wooden_door": [
+    "one_way_collidable",
+    "minecraft:is_axe_item_destructible",
+    "wood"
+  ],
+  "minecraft:piston_arm_collision": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:vine": [
+    "minecraft:is_axe_item_destructible"
+  ],
+  "minecraft:waxed_oxidized_chiseled_copper": [
+    "minecraft:is_pickaxe_item_destructible",
+    "minecraft:stone_tier_destructible",
+    "stone_pick_diggable"
+  ],
+  "minecraft:calcite": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:gray_terracotta": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:cyan_carpet": [
+  ],
+  "minecraft:cyan_stained_glass": [
+  ],
+  "minecraft:dark_oak_button": [
+    "minecraft:is_axe_item_destructible",
+    "wood"
+  ],
+  "minecraft:diorite_wall": [
+    "minecraft:is_pickaxe_item_destructible",
+    "stone"
+  ],
+  "minecraft:tuff": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:wet_sponge": [
+    "minecraft:is_hoe_item_destructible"
+  ],
+  "minecraft:pale_moss_carpet": [
+    "minecraft:is_hoe_item_destructible"
+  ],
+  "minecraft:bamboo_mosaic_slab": [
+    "minecraft:is_axe_item_destructible"
+  ],
+  "minecraft:bamboo_fence": [
+    "minecraft:is_axe_item_destructible"
+  ],
+  "minecraft:dark_prismarine_slab": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:prismarine_bricks_stairs": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:brick_slab": [
+    "minecraft:is_pickaxe_item_destructible",
+    "stone"
+  ],
+  "minecraft:mushroom_stem": [
+    "minecraft:is_axe_item_destructible"
+  ],
+  "minecraft:end_stone_brick_wall": [
+    "minecraft:is_pickaxe_item_destructible",
+    "stone"
+  ],
+  "minecraft:white_tulip": [
+    "fertilize_area"
+  ],
+  "minecraft:granite": [
+    "minecraft:is_pickaxe_item_destructible",
+    "stone"
+  ],
+  "minecraft:creaking_heart": [
+    "minecraft:is_axe_item_destructible"
+  ],
+  "minecraft:polished_tuff_slab": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:brown_mushroom": [
+  ],
+  "minecraft:cut_copper_stairs": [
+    "minecraft:is_pickaxe_item_destructible",
+    "minecraft:stone_tier_destructible",
+    "stone_pick_diggable"
+  ],
+  "minecraft:blue_stained_glass_pane": [
+  ],
+  "minecraft:element_0": [
+  ],
+  "minecraft:blackstone_double_slab": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:spruce_standing_sign": [
+    "minecraft:is_axe_item_destructible",
+    "text_sign",
+    "wood"
+  ],
+  "minecraft:element_118": [
+  ],
+  "minecraft:fence_gate": [
+    "one_way_collidable",
+    "minecraft:is_axe_item_destructible",
+    "wood"
+  ],
+  "minecraft:deepslate_tile_slab": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:powder_snow": [
+  ],
+  "minecraft:magenta_candle": [
+  ],
+  "minecraft:deepslate_tile_double_slab": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:deepslate_copper_ore": [
+    "minecraft:is_pickaxe_item_destructible",
+    "minecraft:stone_tier_destructible",
+    "stone_pick_diggable"
+  ],
+  "minecraft:stone_brick_stairs": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:waxed_oxidized_cut_copper_slab": [
+    "minecraft:is_pickaxe_item_destructible",
+    "minecraft:stone_tier_destructible",
+    "stone_pick_diggable"
+  ],
+  "minecraft:warped_wall_sign": [
+    "minecraft:is_axe_item_destructible",
+    "text_sign"
+  ],
+  "minecraft:ladder": [
+    "wood",
+    "minecraft:is_axe_item_destructible"
+  ],
+  "minecraft:chiseled_stone_bricks": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:spruce_pressure_plate": [
+    "minecraft:is_axe_item_destructible",
+    "wood"
+  ],
+  "minecraft:diamond_ore": [
+    "minecraft:is_pickaxe_item_destructible",
+    "minecraft:iron_tier_destructible",
+    "diamond_pick_diggable",
+    "iron_pick_diggable"
+  ],
+  "minecraft:waxed_oxidized_cut_copper": [
+    "minecraft:is_pickaxe_item_destructible",
+    "minecraft:stone_tier_destructible",
+    "stone_pick_diggable"
+  ],
+  "minecraft:dead_horn_coral_wall_fan": [
+  ],
+  "minecraft:gray_concrete": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:pale_oak_double_slab": [
+    "minecraft:is_axe_item_destructible"
+  ],
+  "minecraft:element_73": [
+  ],
+  "minecraft:cobblestone_slab": [
+    "minecraft:is_pickaxe_item_destructible",
+    "stone"
+  ],
+  "minecraft:green_terracotta": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:hard_purple_stained_glass_pane": [
+  ],
+  "minecraft:waxed_copper_trapdoor": [
+    "trapdoors",
+    "one_way_collidable",
+    "minecraft:is_pickaxe_item_destructible",
+    "minecraft:stone_tier_destructible"
+  ],
+  "minecraft:nether_brick_stairs": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:hard_blue_stained_glass_pane": [
+  ],
+  "minecraft:yellow_shulker_box": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:chiseled_copper": [
+    "minecraft:is_pickaxe_item_destructible",
+    "minecraft:stone_tier_destructible",
+    "stone_pick_diggable"
+  ],
+  "minecraft:green_concrete_powder": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:lime_stained_glass": [
+  ],
+  "minecraft:oxidized_copper_bulb": [
+    "minecraft:is_pickaxe_item_destructible",
+    "minecraft:stone_tier_destructible",
+    "stone_pick_diggable"
+  ],
+  "minecraft:cobbled_deepslate_stairs": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:deprecated_purpur_block_1": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:element_16": [
+  ],
+  "minecraft:waxed_exposed_copper": [
+    "minecraft:is_pickaxe_item_destructible",
+    "minecraft:stone_tier_destructible",
+    "stone_pick_diggable"
+  ],
+  "minecraft:stripped_acacia_wood": [
+    "minecraft:is_axe_item_destructible",
+    "wood"
+  ],
+  "minecraft:jungle_button": [
+    "minecraft:is_axe_item_destructible",
+    "wood"
+  ],
+  "minecraft:dead_bubble_coral_fan": [
+  ],
+  "minecraft:powered_repeater": [
+  ],
+  "minecraft:spruce_stairs": [
+    "minecraft:is_axe_item_destructible",
+    "wood"
+  ],
+  "minecraft:loom": [
+    "minecraft:is_axe_item_destructible"
+  ],
+  "minecraft:yellow_stained_glass": [
+  ],
+  "minecraft:hard_green_stained_glass_pane": [
+  ],
+  "minecraft:element_104": [
+  ],
+  "minecraft:oxidized_double_cut_copper_slab": [
+    "minecraft:is_pickaxe_item_destructible",
+    "minecraft:stone_tier_destructible"
+  ],
+  "minecraft:jungle_door": [
+    "one_way_collidable",
+    "minecraft:is_axe_item_destructible",
+    "wood"
+  ],
+  "minecraft:diorite": [
+    "minecraft:is_pickaxe_item_destructible",
+    "stone"
+  ],
+  "minecraft:darkoak_wall_sign": [
+    "minecraft:is_axe_item_destructible",
+    "text_sign",
+    "wood"
+  ],
+  "minecraft:info_update2": [
+  ],
+  "minecraft:dripstone_block": [
+    "minecraft:is_pickaxe_item_destructible",
+    "stone"
+  ],
+  "minecraft:gray_candle_cake": [
+  ],
+  "minecraft:exposed_copper_trapdoor": [
+    "trapdoors",
+    "one_way_collidable",
+    "minecraft:is_pickaxe_item_destructible",
+    "minecraft:stone_tier_destructible"
+  ],
+  "minecraft:blue_terracotta": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:hanging_roots": [
+  ],
+  "minecraft:smooth_sandstone": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:polished_blackstone_button": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:stripped_birch_wood": [
+    "minecraft:is_axe_item_destructible",
+    "wood"
+  ],
+  "minecraft:red_candle_cake": [
+  ],
+  "minecraft:mossy_stone_bricks": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:hard_light_blue_stained_glass_pane": [
+  ],
+  "minecraft:cherry_pressure_plate": [
+    "minecraft:is_axe_item_destructible",
+    "wood"
+  ],
+  "minecraft:hard_brown_stained_glass": [
+  ],
+  "minecraft:cherry_hanging_sign": [
+    "minecraft:is_axe_item_destructible",
+    "text_sign",
+    "wood"
+  ],
+  "minecraft:yellow_wool": [
+  ],
+  "minecraft:black_candle_cake": [
+  ],
+  "minecraft:crimson_wall_sign": [
+    "minecraft:is_axe_item_destructible",
+    "text_sign"
+  ],
+  "minecraft:polished_blackstone_brick_stairs": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:light_block_1": [
+  ],
+  "minecraft:yellow_stained_glass_pane": [
+  ],
+  "minecraft:dark_oak_slab": [
+    "minecraft:is_axe_item_destructible",
+    "wood"
+  ],
+  "minecraft:honeycomb_block": [
+  ],
+  "minecraft:end_gateway": [
+  ],
+  "minecraft:azure_bluet": [
+    "fertilize_area"
+  ],
+  "minecraft:stone_stairs": [
+    "minecraft:is_pickaxe_item_destructible",
+    "stone"
+  ],
+  "minecraft:beacon": [
+  ],
+  "minecraft:polished_blackstone_brick_wall": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:brick_wall": [
+    "minecraft:is_pickaxe_item_destructible",
+    "stone"
+  ],
+  "minecraft:soul_sand": [
+    "minecraft:is_shovel_item_destructible"
+  ],
+  "minecraft:cobbled_deepslate_double_slab": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:hard_pink_stained_glass_pane": [
+  ],
+  "minecraft:snow_layer": [
+    "snow",
+    "minecraft:is_shovel_item_destructible"
+  ],
+  "minecraft:brick_double_slab": [
+    "minecraft:is_pickaxe_item_destructible",
+    "stone"
+  ],
+  "minecraft:white_carpet": [
+  ],
+  "minecraft:black_candle": [
+  ],
+  "minecraft:cactus": [
+  ],
+  "minecraft:glow_frame": [
+  ],
+  "minecraft:creeper_head": [
+  ],
+  "minecraft:mud_brick_double_slab": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:red_sandstone_wall": [
+    "minecraft:is_pickaxe_item_destructible",
+    "stone"
+  ],
+  "minecraft:pale_oak_hanging_sign": [
+    "minecraft:is_axe_item_destructible",
+    "text_sign",
+    "wood"
+  ],
+  "minecraft:mycelium": [
+    "minecraft:is_shovel_item_destructible",
+    "dirt"
+  ],
+  "minecraft:diorite_slab": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:red_concrete": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:crimson_hyphae": [
+    "minecraft:is_axe_item_destructible"
+  ],
+  "minecraft:black_terracotta": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:stripped_dark_oak_log": [
+    "minecraft:is_axe_item_destructible",
+    "wood"
+  ],
+  "minecraft:hard_orange_stained_glass_pane": [
+  ],
+  "minecraft:hard_red_stained_glass_pane": [
+  ],
+  "minecraft:underwater_tnt": [
+  ],
+  "minecraft:oxidized_copper_grate": [
+    "minecraft:is_pickaxe_item_destructible",
+    "minecraft:stone_tier_destructible",
+    "stone_pick_diggable"
+  ],
+  "minecraft:jungle_log": [
+    "minecraft:is_axe_item_destructible",
+    "wood",
+    "log",
+    "jungle"
+  ],
+  "minecraft:bubble_coral_fan": [
+  ],
+  "minecraft:red_sandstone_slab": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:dark_prismarine_stairs": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:end_bricks": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:sculk_shrieker": [
+    "minecraft:is_hoe_item_destructible"
+  ],
+  "minecraft:bamboo_mosaic_stairs": [
+    "minecraft:is_axe_item_destructible"
+  ],
+  "minecraft:granite_stairs": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:gray_wool": [
+  ],
+  "minecraft:bamboo_slab": [
+    "minecraft:is_axe_item_destructible"
+  ],
+  "minecraft:lit_redstone_ore": [
+    "minecraft:is_pickaxe_item_destructible",
+    "minecraft:iron_tier_destructible",
+    "diamond_pick_diggable",
+    "iron_pick_diggable"
+  ],
+  "minecraft:nether_wart": [
+  ],
+  "minecraft:orange_stained_glass_pane": [
+  ],
+  "minecraft:stripped_mangrove_wood": [
+    "minecraft:is_axe_item_destructible",
+    "wood"
+  ],
+  "minecraft:cut_red_sandstone": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:lime_shulker_box": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:hard_black_stained_glass_pane": [
+  ],
+  "minecraft:element_46": [
+  ],
+  "minecraft:smooth_sandstone_slab": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:gray_carpet": [
+  ],
+  "minecraft:dark_oak_door": [
+    "one_way_collidable",
+    "minecraft:is_axe_item_destructible",
+    "wood"
+  ],
+  "minecraft:wheat": [
+    "minecraft:crop"
+  ],
+  "minecraft:grindstone": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:oak_fence": [
+    "minecraft:is_axe_item_destructible",
+    "wood"
+  ],
+  "minecraft:smooth_red_sandstone": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:lily_of_the_valley": [
+    "fertilize_area"
+  ],
+  "minecraft:blue_orchid": [
+    "fertilize_area"
+  ],
+  "minecraft:lime_glazed_terracotta": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:trapdoor": [
+    "trapdoors",
+    "one_way_collidable",
+    "minecraft:is_axe_item_destructible",
+    "wood"
+  ],
+  "minecraft:hard_glass_pane": [
+  ],
+  "minecraft:dead_brain_coral_fan": [
+  ],
+  "minecraft:acacia_standing_sign": [
+    "minecraft:is_axe_item_destructible",
+    "text_sign",
+    "wood"
+  ],
+  "minecraft:undyed_shulker_box": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:quartz_ore": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:info_update": [
+  ],
+  "minecraft:seagrass": [
+  ],
+  "minecraft:tube_coral_fan": [
+  ],
+  "minecraft:unknown": [
+  ],
+  "minecraft:cherry_stairs": [
+    "minecraft:is_axe_item_destructible"
+  ],
+  "minecraft:barrel": [
+    "minecraft:is_axe_item_destructible",
+    "wood"
+  ],
+  "minecraft:big_dripleaf": [
+    "minecraft:is_axe_item_destructible"
+  ],
+  "minecraft:quartz_slab": [
+    "minecraft:is_pickaxe_item_destructible",
+    "stone"
+  ],
+  "minecraft:fire_coral_block": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:waxed_exposed_cut_copper_slab": [
+    "minecraft:is_pickaxe_item_destructible",
+    "minecraft:stone_tier_destructible"
+  ],
+  "minecraft:dead_horn_coral": [
+  ],
+  "minecraft:infested_mossy_stone_bricks": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:element_68": [
+  ],
+  "minecraft:redstone_lamp": [
+  ],
+  "minecraft:mossy_cobblestone": [
+    "minecraft:is_pickaxe_item_destructible",
+    "stone"
+  ],
+  "minecraft:element_113": [
+  ],
+  "minecraft:blue_stained_glass": [
+  ],
+  "minecraft:cake": [
+  ],
+  "minecraft:dark_oak_double_slab": [
+    "minecraft:is_axe_item_destructible",
+    "wood"
+  ],
+  "minecraft:stripped_crimson_hyphae": [
+    "minecraft:is_axe_item_destructible"
+  ],
+  "minecraft:dark_oak_hanging_sign": [
+    "minecraft:is_axe_item_destructible",
+    "text_sign",
+    "wood"
+  ],
+  "minecraft:green_concrete": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:deepslate": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:stripped_oak_wood": [
+    "minecraft:is_axe_item_destructible",
+    "wood"
+  ],
+  "minecraft:purpur_slab": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:magenta_carpet": [
+  ],
+  "minecraft:pitcher_crop": [
+    "minecraft:crop",
+    "plant"
+  ],
+  "minecraft:brown_wool": [
+  ],
+  "minecraft:pink_wool": [
+  ],
+  "minecraft:ender_chest": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:waxed_exposed_chiseled_copper": [
+    "minecraft:is_pickaxe_item_destructible",
+    "minecraft:stone_tier_destructible",
+    "stone_pick_diggable"
+  ],
+  "minecraft:tuff_slab": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:redstone_wire": [
+  ],
+  "minecraft:warped_pressure_plate": [
+    "minecraft:is_axe_item_destructible"
+  ],
+  "minecraft:green_candle_cake": [
+  ],
+  "minecraft:diamond_block": [
+    "minecraft:is_pickaxe_item_destructible",
+    "minecraft:iron_tier_destructible"
+  ],
+  "minecraft:exposed_copper_bulb": [
+    "minecraft:is_pickaxe_item_destructible",
+    "minecraft:stone_tier_destructible",
+    "stone_pick_diggable"
+  ],
+  "minecraft:element_58": [
+  ],
+  "minecraft:bamboo_mosaic_double_slab": [
+    "minecraft:is_axe_item_destructible"
+  ],
+  "minecraft:dark_prismarine_double_slab": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:crying_obsidian": [
+    "minecraft:is_pickaxe_item_destructible",
+    "minecraft:diamond_tier_destructible"
+  ],
+  "minecraft:oak_stairs": [
+    "minecraft:is_axe_item_destructible",
+    "wood"
+  ],
+  "minecraft:hard_gray_stained_glass": [
+  ],
+  "minecraft:oak_log": [
+    "minecraft:is_axe_item_destructible",
+    "wood",
+    "log",
+    "oak"
+  ],
+  "minecraft:waxed_weathered_cut_copper": [
+    "minecraft:is_pickaxe_item_destructible",
+    "minecraft:stone_tier_destructible",
+    "stone_pick_diggable"
+  ],
+  "minecraft:andesite": [
+    "minecraft:is_pickaxe_item_destructible",
+    "stone"
+  ],
+  "minecraft:brown_stained_glass_pane": [
+  ],
+  "minecraft:sculk_vein": [
+    "minecraft:is_hoe_item_destructible"
+  ],
+  "minecraft:pink_stained_glass_pane": [
+  ],
+  "minecraft:exposed_double_cut_copper_slab": [
+    "minecraft:is_pickaxe_item_destructible",
+    "minecraft:stone_tier_destructible"
+  ],
+  "minecraft:magenta_shulker_box": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:purple_terracotta": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:smooth_quartz": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:packed_ice": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:iron_bars": [
+    "minecraft:is_pickaxe_item_destructible",
+    "metal"
+  ],
+  "minecraft:oxidized_cut_copper": [
+    "minecraft:is_pickaxe_item_destructible",
+    "minecraft:stone_tier_destructible",
+    "stone_pick_diggable"
+  ],
+  "minecraft:polished_granite": [
+    "minecraft:is_pickaxe_item_destructible",
+    "stone"
+  ],
+  "minecraft:element_39": [
+  ],
+  "minecraft:light_blue_stained_glass": [
+  ],
+  "minecraft:fern": [
+  ],
+  "minecraft:packed_mud": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:light_blue_candle_cake": [
+  ],
+  "minecraft:element_1": [
+  ],
+  "minecraft:poppy": [
+    "fertilize_area"
+  ],
+  "minecraft:moss_carpet": [
+    "minecraft:is_hoe_item_destructible"
+  ],
+  "minecraft:crimson_stairs": [
+    "minecraft:is_axe_item_destructible"
+  ],
+  "minecraft:green_stained_glass_pane": [
+  ],
+  "minecraft:warped_fungus": [
+  ],
+  "minecraft:element_102": [
+  ],
+  "minecraft:stone_brick_double_slab": [
+    "minecraft:is_pickaxe_item_destructible",
+    "stone"
+  ],
+  "minecraft:copper_ore": [
+    "minecraft:is_pickaxe_item_destructible",
+    "minecraft:stone_tier_destructible",
+    "stone_pick_diggable"
+  ],
+  "minecraft:pale_moss_block": [
+    "minecraft:is_hoe_item_destructible",
+    "fertilize_area",
+    "dirt"
+  ],
+  "minecraft:gray_candle": [
+  ],
+  "minecraft:polished_deepslate_slab": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:bamboo_door": [
+    "one_way_collidable",
+    "minecraft:is_axe_item_destructible"
+  ],
+  "minecraft:black_concrete_powder": [
+    "minecraft:is_shovel_item_destructible"
+  ],
+  "minecraft:melon_stem": [
+  ],
+  "minecraft:amethyst_block": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:stripped_oak_log": [
+    "minecraft:is_axe_item_destructible",
+    "wood"
+  ],
+  "minecraft:gold_block": [
+    "minecraft:is_pickaxe_item_destructible",
+    "minecraft:iron_tier_destructible",
+    "metal"
+  ],
+  "minecraft:flower_pot": [
+  ],
+  "minecraft:chiseled_bookshelf": [
+    "minecraft:is_axe_item_destructible",
+    "not_feature_replaceable"
+  ],
+  "minecraft:jungle_fence": [
+    "minecraft:is_axe_item_destructible",
+    "wood"
+  ],
+  "minecraft:spruce_log": [
+    "minecraft:is_axe_item_destructible",
+    "wood",
+    "log",
+    "spruce"
+  ],
+  "minecraft:polished_deepslate_stairs": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:hard_lime_stained_glass": [
+  ],
+  "minecraft:short_grass": [
+  ],
+  "minecraft:lapis_block": [
+    "minecraft:is_pickaxe_item_destructible",
+    "minecraft:stone_tier_destructible"
+  ],
+  "minecraft:weathered_chiseled_copper": [
+    "minecraft:is_pickaxe_item_destructible",
+    "minecraft:stone_tier_destructible",
+    "stone_pick_diggable"
+  ],
+  "minecraft:coarse_dirt": [
+    "minecraft:is_shovel_item_destructible",
+    "grass",
+    "dirt"
+  ],
+  "minecraft:small_amethyst_bud": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:activator_rail": [
+    "minecraft:is_pickaxe_item_destructible",
+    "rail"
+  ],
+  "minecraft:podzol": [
+    "minecraft:is_shovel_item_destructible",
+    "dirt"
+  ],
+  "minecraft:mangrove_button": [
+    "minecraft:is_axe_item_destructible",
+    "wood"
+  ],
+  "minecraft:iron_trapdoor": [
+    "trapdoors",
+    "one_way_collidable",
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:large_amethyst_bud": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:potatoes": [
+    "minecraft:crop"
+  ],
+  "minecraft:muddy_mangrove_roots": [
+    "minecraft:is_shovel_item_destructible",
+    "dirt"
+  ],
+  "minecraft:pale_oak_pressure_plate": [
+    "minecraft:is_axe_item_destructible",
+    "wood"
+  ],
+  "minecraft:hard_light_blue_stained_glass": [
+  ],
+  "minecraft:trial_spawner": [
+    "not_feature_replaceable"
+  ],
+  "minecraft:stripped_jungle_wood": [
+    "minecraft:is_axe_item_destructible",
+    "wood"
+  ],
+  "minecraft:dead_tube_coral_block": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:noteblock": [
+    "minecraft:is_axe_item_destructible"
+  ],
+  "minecraft:reserved6": [
+  ],
+  "minecraft:soul_torch": [
+  ],
+  "minecraft:quartz_bricks": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:mangrove_log": [
+    "minecraft:is_axe_item_destructible",
+    "wood"
+  ],
+  "minecraft:netherite_block": [
+    "minecraft:is_pickaxe_item_destructible",
+    "minecraft:diamond_tier_destructible"
+  ],
+  "minecraft:pale_oak_fence": [
+    "minecraft:is_axe_item_destructible"
+  ],
+  "minecraft:pale_oak_leaves": [
+    "minecraft:is_hoe_item_destructible"
+  ],
+  "minecraft:sandstone_slab": [
+    "minecraft:is_pickaxe_item_destructible",
+    "stone"
+  ],
+  "minecraft:white_shulker_box": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:birch_wood": [
+    "minecraft:is_axe_item_destructible",
+    "wood"
+  ],
+  "minecraft:pale_oak_planks": [
+    "minecraft:is_axe_item_destructible"
+  ],
+  "minecraft:polished_blackstone_pressure_plate": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:mossy_stone_brick_slab": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:raw_gold_block": [
+    "minecraft:is_pickaxe_item_destructible",
+    "minecraft:iron_tier_destructible",
+    "iron_pick_diggable",
+    "diamond_pick_diggable"
+  ],
+  "minecraft:allium": [
+    "fertilize_area"
+  ],
+  "minecraft:cracked_polished_blackstone_bricks": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:mob_spawner": [
+    "minecraft:is_pickaxe_item_destructible",
+    "mob_spawner",
+    "not_feature_replaceable"
+  ],
+  "minecraft:copper_grate": [
+    "minecraft:is_pickaxe_item_destructible",
+    "minecraft:stone_tier_destructible",
+    "stone_pick_diggable"
+  ],
+  "minecraft:weathered_double_cut_copper_slab": [
+    "minecraft:is_pickaxe_item_destructible",
+    "minecraft:stone_tier_destructible"
+  ],
+  "minecraft:deepslate_tiles": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:black_wool": [
+  ],
+  "minecraft:acacia_fence_gate": [
+    "one_way_collidable",
+    "minecraft:is_axe_item_destructible",
+    "wood"
+  ],
+  "minecraft:lava": [
+    "minecraft:is_pickaxe_item_destructible",
+    "minecraft:diamond_tier_destructible",
+    "diamond_pick_diggable"
+  ],
+  "minecraft:light_block_14": [
+  ],
+  "minecraft:cyan_candle_cake": [
+  ],
+  "minecraft:orange_candle": [
+  ],
+  "minecraft:scaffolding": [
+    "minecraft:is_axe_item_destructible"
+  ],
+  "minecraft:stripped_pale_oak_wood": [
+    "minecraft:is_axe_item_destructible",
+    "wood"
+  ],
+  "minecraft:cyan_candle": [
+  ],
+  "minecraft:red_nether_brick_wall": [
+    "minecraft:is_pickaxe_item_destructible",
+    "stone"
+  ],
+  "minecraft:powered_comparator": [
+  ],
+  "minecraft:light_block_8": [
+  ],
+  "minecraft:spruce_sapling": [
+    "plant"
+  ],
+  "minecraft:cut_sandstone_slab": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:blast_furnace": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:cut_sandstone_double_slab": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:spruce_fence": [
+    "minecraft:is_axe_item_destructible",
+    "wood"
+  ],
+  "minecraft:hard_yellow_stained_glass_pane": [
+  ],
+  "minecraft:hard_green_stained_glass": [
+  ],
+  "minecraft:dark_oak_sapling": [
+    "plant"
+  ],
+  "minecraft:sandstone_double_slab": [
+    "minecraft:is_pickaxe_item_destructible",
+    "stone"
+  ],
+  "minecraft:pale_oak_sapling": [
+  ],
+  "minecraft:hard_magenta_stained_glass": [
+  ],
+  "minecraft:pale_oak_wall_sign": [
+    "minecraft:is_axe_item_destructible",
+    "text_sign",
+    "wood"
+  ],
+  "minecraft:exposed_cut_copper": [
+    "minecraft:is_pickaxe_item_destructible",
+    "minecraft:stone_tier_destructible",
+    "stone_pick_diggable"
+  ],
+  "minecraft:pink_petals": [
+  ],
+  "minecraft:soul_fire": [
+  ],
+  "minecraft:pink_carpet": [
+  ],
+  "minecraft:mangrove_double_slab": [
+    "minecraft:is_axe_item_destructible"
+  ],
+  "minecraft:brown_carpet": [
+  ],
+  "minecraft:green_candle": [
+  ],
+  "minecraft:purple_stained_glass_pane": [
+  ],
+  "minecraft:smooth_quartz_double_slab": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:oxidized_copper_trapdoor": [
+    "trapdoors",
+    "one_way_collidable",
+    "minecraft:is_pickaxe_item_destructible",
+    "minecraft:stone_tier_destructible"
+  ],
+  "minecraft:light_gray_stained_glass": [
+  ],
+  "minecraft:brain_coral": [
+  ],
+  "minecraft:obsidian": [
+    "minecraft:is_pickaxe_item_destructible",
+    "minecraft:diamond_tier_destructible",
+    "diamond_pick_diggable"
+  ],
+  "minecraft:chest": [
+    "minecraft:is_axe_item_destructible",
+    "not_feature_replaceable"
+  ],
+  "minecraft:dead_bubble_coral_block": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:light_gray_stained_glass_pane": [
+  ],
+  "minecraft:blackstone_slab": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:glowingobsidian": [
+    "minecraft:is_pickaxe_item_destructible",
+    "minecraft:diamond_tier_destructible"
+  ],
+  "minecraft:deepslate_brick_wall": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:darkoak_standing_sign": [
+    "minecraft:is_axe_item_destructible",
+    "text_sign",
+    "wood"
+  ],
+  "minecraft:cauldron": [
+    "minecraft:is_pickaxe_item_destructible",
+    "metal"
+  ],
+  "minecraft:stripped_spruce_wood": [
+    "minecraft:is_axe_item_destructible",
+    "wood"
+  ],
+  "minecraft:tube_coral_block": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:waxed_exposed_copper_grate": [
+    "minecraft:is_pickaxe_item_destructible",
+    "minecraft:stone_tier_destructible",
+    "stone_pick_diggable"
+  ],
+  "minecraft:acacia_planks": [
+    "minecraft:is_axe_item_destructible",
+    "wood"
+  ],
+  "minecraft:element_85": [
+  ],
+  "minecraft:jungle_wall_sign": [
+    "minecraft:is_axe_item_destructible",
+    "text_sign",
+    "wood"
+  ],
+  "minecraft:end_brick_stairs": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:polished_blackstone_double_slab": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:orange_carpet": [
+  ],
+  "minecraft:exposed_copper": [
+    "minecraft:is_pickaxe_item_destructible",
+    "minecraft:stone_tier_destructible",
+    "stone_pick_diggable"
+  ],
+  "minecraft:polished_deepslate_double_slab": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:nether_brick_slab": [
+    "minecraft:is_pickaxe_item_destructible",
+    "stone"
+  ],
+  "minecraft:heavy_weighted_pressure_plate": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:element_89": [
+  ],
+  "minecraft:stone_button": [
+    "minecraft:is_pickaxe_item_destructible",
+    "stone"
+  ],
+  "minecraft:stone": [
+    "minecraft:is_pickaxe_item_destructible",
+    "stone"
+  ],
+  "minecraft:red_nether_brick_double_slab": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:pitcher_plant": [
+    "plant"
+  ],
+  "minecraft:element_101": [
+  ],
+  "minecraft:waxed_copper_bulb": [
+    "minecraft:is_pickaxe_item_destructible",
+    "minecraft:stone_tier_destructible",
+    "stone_pick_diggable"
+  ],
+  "minecraft:andesite_stairs": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:sponge": [
+    "minecraft:is_hoe_item_destructible"
+  ],
+  "minecraft:bone_block": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:normal_stone_stairs": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:warped_hanging_sign": [
+    "minecraft:is_axe_item_destructible",
+    "text_sign",
+    "wood"
+  ],
+  "minecraft:green_stained_glass": [
+  ],
+  "minecraft:diorite_double_slab": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:gray_stained_glass_pane": [
+  ],
+  "minecraft:end_stone_brick_slab": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:frame": [
+  ],
+  "minecraft:smoker": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:hardened_clay": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:birch_hanging_sign": [
+    "minecraft:is_axe_item_destructible",
+    "text_sign",
+    "wood"
+  ],
+  "minecraft:polished_tuff_wall": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:unlit_redstone_torch": [
+  ],
+  "minecraft:stripped_jungle_log": [
+    "minecraft:is_axe_item_destructible",
+    "wood"
+  ],
+  "minecraft:lapis_ore": [
+    "minecraft:is_pickaxe_item_destructible",
+    "minecraft:stone_tier_destructible",
+    "iron_pick_diggable",
+    "diamond_pick_diggable"
+  ],
+  "minecraft:hard_blue_stained_glass": [
+  ],
+  "minecraft:polished_granite_slab": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:light_block_9": [
+  ],
+  "minecraft:oxidized_cut_copper_slab": [
+    "minecraft:is_pickaxe_item_destructible",
+    "minecraft:stone_tier_destructible"
+  ],
+  "minecraft:beehive": [
+    "minecraft:is_axe_item_destructible"
+  ],
+  "minecraft:light_block_7": [
+  ],
+  "minecraft:cherry_double_slab": [
+    "minecraft:is_axe_item_destructible"
+  ],
+  "minecraft:light_block_6": [
+  ],
+  "minecraft:light_block_5": [
+  ],
+  "minecraft:waxed_oxidized_cut_copper_stairs": [
+    "minecraft:is_pickaxe_item_destructible",
+    "minecraft:stone_tier_destructible",
+    "stone_pick_diggable"
+  ],
+  "minecraft:light_block_4": [
+  ],
+  "minecraft:warped_roots": [
+  ],
+  "minecraft:small_dripleaf_block": [
+  ],
+  "minecraft:green_wool": [
+  ],
+  "minecraft:lime_candle_cake": [
+  ],
+  "minecraft:mangrove_leaves": [
+    "minecraft:is_hoe_item_destructible"
+  ],
+  "minecraft:light_block_3": [
+  ],
+  "minecraft:acacia_leaves": [
+    "minecraft:is_hoe_item_destructible"
+  ],
+  "minecraft:barrier": [
+  ],
+  "minecraft:light_block_2": [
+  ],
+  "minecraft:light_block_0": [
+  ],
+  "minecraft:acacia_slab": [
+    "minecraft:is_axe_item_destructible",
+    "wood"
+  ],
+  "minecraft:polished_andesite_slab": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:pale_oak_door": [
+    "one_way_collidable",
+    "minecraft:is_axe_item_destructible"
+  ],
+  "minecraft:stonecutter": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:andesite_double_slab": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:unpowered_repeater": [
+  ],
+  "minecraft:oak_sapling": [
+    "plant"
+  ],
+  "minecraft:light_gray_terracotta": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:pink_stained_glass": [
+  ],
+  "minecraft:hard_magenta_stained_glass_pane": [
+  ],
+  "minecraft:brown_stained_glass": [
+  ],
+  "minecraft:fire_coral": [
+  ],
+  "minecraft:cobbled_deepslate": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:element_99": [
+  ],
+  "minecraft:birch_log": [
+    "minecraft:is_axe_item_destructible",
+    "wood",
+    "log",
+    "birch"
+  ],
+  "minecraft:orange_stained_glass": [
+  ],
+  "minecraft:orange_wool": [
+  ],
+  "minecraft:polished_blackstone_brick_double_slab": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:bubble_coral_block": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:crimson_double_slab": [
+    "minecraft:is_axe_item_destructible"
+  ],
+  "minecraft:kelp": [
+  ],
+  "minecraft:underwater_torch": [
+  ],
+  "minecraft:respawn_anchor": [
+    "minecraft:is_pickaxe_item_destructible",
+    "minecraft:diamond_tier_destructible"
+  ],
+  "minecraft:dead_fire_coral_wall_fan": [
+  ],
+  "minecraft:light_gray_concrete": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:birch_planks": [
+    "minecraft:is_axe_item_destructible",
+    "wood"
+  ],
+  "minecraft:sea_pickle": [
+  ],
+  "minecraft:red_sandstone_double_slab": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:element_74": [
+  ],
+  "minecraft:red_sand": [
+    "minecraft:is_shovel_item_destructible",
+    "sand"
+  ],
+  "minecraft:hay_block": [
+    "minecraft:is_hoe_item_destructible"
+  ],
+  "minecraft:red_stained_glass": [
+  ],
+  "minecraft:purple_shulker_box": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:polished_tuff_double_slab": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:suspicious_gravel": [
+    "minecraft:is_shovel_item_destructible",
+    "gravel"
+  ],
+  "minecraft:heavy_core": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:jungle_wood": [
+    "minecraft:is_axe_item_destructible",
+    "wood"
+  ],
+  "minecraft:oxidized_copper_door": [
+    "one_way_collidable",
+    "minecraft:is_pickaxe_item_destructible",
+    "minecraft:stone_tier_destructible"
+  ],
+  "minecraft:waxed_weathered_copper": [
+    "minecraft:is_pickaxe_item_destructible",
+    "minecraft:stone_tier_destructible",
+    "stone_pick_diggable"
+  ],
+  "minecraft:chiseled_quartz_block": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:infested_cracked_stone_bricks": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:light_blue_terracotta": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:deepslate_brick_slab": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:flowering_azalea": [
+  ],
+  "minecraft:invisible_bedrock": [
+  ],
+  "minecraft:oak_leaves": [
+    "minecraft:is_hoe_item_destructible"
+  ],
+  "minecraft:brain_coral_fan": [
+  ],
+  "minecraft:bamboo_stairs": [
+    "minecraft:is_axe_item_destructible"
+  ],
+  "minecraft:torch": [
+  ],
+  "minecraft:mud_brick_wall": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:honey_block": [
+  ],
+  "minecraft:cherry_trapdoor": [
+    "trapdoors",
+    "one_way_collidable",
+    "minecraft:is_axe_item_destructible",
+    "wood"
+  ],
+  "minecraft:brown_concrete": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:lit_pumpkin": [
+    "minecraft:is_axe_item_destructible",
+    "pumpkin"
+  ],
+  "minecraft:pink_concrete": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:yellow_glazed_terracotta": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:smooth_basalt": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:warped_planks": [
+    "minecraft:is_axe_item_destructible"
+  ],
+  "minecraft:piston": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:cherry_fence": [
+    "minecraft:is_axe_item_destructible"
+  ],
+  "minecraft:stripped_pale_oak_log": [
+    "minecraft:is_axe_item_destructible",
+    "wood"
+  ],
+  "minecraft:mangrove_planks": [
+    "minecraft:is_axe_item_destructible"
+  ],
+  "minecraft:hard_light_gray_stained_glass_pane": [
+  ],
+  "minecraft:red_terracotta": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:water": [
+    "water"
+  ],
+  "minecraft:weathered_copper_trapdoor": [
+    "trapdoors",
+    "one_way_collidable",
+    "minecraft:is_pickaxe_item_destructible",
+    "minecraft:stone_tier_destructible"
+  ],
+  "minecraft:element_77": [
+  ],
+  "minecraft:weathered_copper_grate": [
+    "minecraft:is_pickaxe_item_destructible",
+    "minecraft:stone_tier_destructible",
+    "stone_pick_diggable"
+  ],
+  "minecraft:spruce_button": [
+    "minecraft:is_axe_item_destructible",
+    "wood"
+  ],
+  "minecraft:wall_banner": [
+    "minecraft:is_axe_item_destructible"
+  ],
+  "minecraft:dead_fire_coral_block": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:magenta_wool": [
+  ],
+  "minecraft:waxed_weathered_copper_grate": [
+    "minecraft:is_pickaxe_item_destructible",
+    "minecraft:stone_tier_destructible",
+    "stone_pick_diggable"
+  ],
+  "minecraft:waxed_weathered_copper_bulb": [
+    "minecraft:is_pickaxe_item_destructible",
+    "minecraft:stone_tier_destructible",
+    "stone_pick_diggable"
+  ],
+  "minecraft:verdant_froglight": [
+  ],
+  "minecraft:mossy_cobblestone_slab": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:magenta_glazed_terracotta": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:purple_stained_glass": [
+  ],
+  "minecraft:quartz_double_slab": [
+    "minecraft:is_pickaxe_item_destructible",
+    "stone"
+  ],
+  "minecraft:mangrove_slab": [
+    "minecraft:is_axe_item_destructible"
+  ],
+  "minecraft:wall_sign": [
+    "minecraft:is_axe_item_destructible",
+    "text_sign",
+    "wood"
+  ],
+  "minecraft:infested_deepslate": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:orange_glazed_terracotta": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:client_request_placeholder_block": [
+  ],
+  "minecraft:hard_brown_stained_glass_pane": [
+  ],
+  "minecraft:torchflower": [
+  ],
+  "minecraft:colored_torch_red": [
+  ],
+  "minecraft:spore_blossom": [
+  ],
+  "minecraft:waterlily": [
+  ],
+  "minecraft:emerald_block": [
+    "minecraft:is_pickaxe_item_destructible",
+    "minecraft:iron_tier_destructible"
+  ],
+  "minecraft:conduit": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:anvil": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:suspicious_sand": [
+    "minecraft:is_shovel_item_destructible",
+    "sand"
+  ],
+  "minecraft:ancient_debris": [
+    "minecraft:is_pickaxe_item_destructible",
+    "minecraft:diamond_tier_destructible"
+  ],
+  "minecraft:dark_oak_planks": [
+    "minecraft:is_axe_item_destructible",
+    "wood"
+  ],
+  "minecraft:jungle_leaves": [
+    "minecraft:is_hoe_item_destructible"
+  ],
+  "minecraft:brown_candle_cake": [
+  ],
+  "minecraft:pink_candle_cake": [
+  ],
+  "minecraft:quartz_block": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:mossy_cobblestone_wall": [
+    "minecraft:is_pickaxe_item_destructible",
+    "stone"
+  ],
+  "minecraft:redstone_torch": [
+  ],
+  "minecraft:lightning_rod": [
+    "minecraft:is_pickaxe_item_destructible",
+    "minecraft:stone_tier_destructible"
+  ],
+  "minecraft:nether_brick_fence": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:black_stained_glass_pane": [
+  ],
+  "minecraft:magenta_concrete": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:cobblestone_wall": [
+    "minecraft:is_pickaxe_item_destructible",
+    "stone"
+  ],
+  "minecraft:light_blue_stained_glass_pane": [
+  ],
+  "minecraft:deepslate_brick_double_slab": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:tube_coral_wall_fan": [
+  ],
+  "minecraft:spruce_double_slab": [
+    "minecraft:is_axe_item_destructible",
+    "wood"
+  ],
+  "minecraft:red_sandstone": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:oak_planks": [
+    "minecraft:is_axe_item_destructible",
+    "wood"
+  ],
+  "minecraft:dark_oak_log": [
+    "minecraft:is_axe_item_destructible",
+    "wood",
+    "log",
+    "dark_oak"
+  ],
+  "minecraft:redstone_ore": [
+    "minecraft:is_pickaxe_item_destructible",
+    "minecraft:iron_tier_destructible",
+    "diamond_pick_diggable",
+    "iron_pick_diggable"
+  ],
+  "minecraft:acacia_hanging_sign": [
+    "minecraft:is_axe_item_destructible",
+    "text_sign",
+    "wood"
+  ],
+  "minecraft:light_block_13": [
+  ],
+  "minecraft:ochre_froglight": [
+  ],
+  "minecraft:polished_blackstone_stairs": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:tuff_wall": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:mangrove_pressure_plate": [
+    "minecraft:is_axe_item_destructible",
+    "wood"
+  ],
+  "minecraft:observer": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:pink_glazed_terracotta": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:yellow_terracotta": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:brown_glazed_terracotta": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:birch_leaves": [
+    "minecraft:is_hoe_item_destructible"
+  ],
+  "minecraft:silver_glazed_terracotta": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:cyan_concrete_powder": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:oxidized_copper": [
+    "minecraft:is_pickaxe_item_destructible",
+    "minecraft:stone_tier_destructible",
+    "stone_pick_diggable"
+  ],
+  "minecraft:element_19": [
+  ],
+  "minecraft:birch_pressure_plate": [
+    "minecraft:is_axe_item_destructible",
+    "wood"
+  ],
+  "minecraft:sandstone_stairs": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:stripped_bamboo_block": [
+    "minecraft:is_axe_item_destructible"
+  ],
+  "minecraft:cracked_stone_bricks": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:birch_fence_gate": [
+    "one_way_collidable",
+    "minecraft:is_axe_item_destructible",
+    "wood"
+  ],
+  "minecraft:sculk_catalyst": [
+    "minecraft:is_hoe_item_destructible"
+  ],
+  "minecraft:element_115": [
+  ],
+  "minecraft:cobblestone": [
+    "minecraft:is_pickaxe_item_destructible",
+    "stone"
+  ],
+  "minecraft:horn_coral": [
+  ],
+  "minecraft:white_concrete_powder": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:yellow_concrete": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:oak_double_slab": [
+    "minecraft:is_axe_item_destructible",
+    "wood"
+  ],
+  "minecraft:stripped_warped_stem": [
+    "minecraft:is_axe_item_destructible"
+  ],
+  "minecraft:daylight_detector": [
+    "minecraft:is_axe_item_destructible"
+  ],
+  "minecraft:smooth_sandstone_stairs": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:jungle_pressure_plate": [
+    "minecraft:is_axe_item_destructible",
+    "wood"
+  ],
+  "minecraft:hard_white_stained_glass": [
+  ],
+  "minecraft:double_cut_copper_slab": [
+    "minecraft:is_pickaxe_item_destructible",
+    "minecraft:stone_tier_destructible"
+  ],
+  "minecraft:birch_button": [
+    "minecraft:is_axe_item_destructible",
+    "wood"
+  ],
+  "minecraft:crimson_planks": [
+    "minecraft:is_axe_item_destructible"
+  ],
+  "minecraft:sandstone": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:blackstone_wall": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:light_weighted_pressure_plate": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:polished_blackstone": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:bamboo": [
+    "minecraft:is_axe_item_destructible"
+  ],
+  "minecraft:element_17": [
+  ],
+  "minecraft:waxed_weathered_chiseled_copper": [
+    "minecraft:is_pickaxe_item_destructible",
+    "minecraft:stone_tier_destructible",
+    "stone_pick_diggable"
+  ],
+  "minecraft:sticky_piston_arm_collision": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:element_51": [
+  ],
+  "minecraft:gray_stained_glass": [
+  ],
+  "minecraft:exposed_cut_copper_slab": [
+    "minecraft:is_pickaxe_item_destructible",
+    "minecraft:stone_tier_destructible"
+  ],
+  "minecraft:element_52": [
+  ],
+  "minecraft:warped_stairs": [
+    "minecraft:is_axe_item_destructible"
+  ],
+  "minecraft:bedrock": [
+    "not_feature_replaceable"
+  ],
+  "minecraft:smithing_table": [
+    "minecraft:is_axe_item_destructible",
+    "wood"
+  ],
+  "minecraft:player_head": [
+  ],
+  "minecraft:light_block_10": [
+  ],
+  "minecraft:tuff_brick_slab": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:rose_bush": [
+    "plant"
+  ],
+  "minecraft:green_carpet": [
+  ],
+  "minecraft:purple_candle_cake": [
+  ],
+  "minecraft:prismarine_brick_slab": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:cyan_concrete": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:stone_pressure_plate": [
+    "minecraft:is_pickaxe_item_destructible",
+    "stone"
+  ],
+  "minecraft:compound_creator": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:redstone_block": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:polished_blackstone_wall": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:quartz_pillar": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:waxed_exposed_cut_copper": [
+    "minecraft:is_pickaxe_item_destructible",
+    "minecraft:stone_tier_destructible",
+    "stone_pick_diggable"
+  ],
+  "minecraft:gilded_blackstone": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:jungle_hanging_sign": [
+    "minecraft:is_axe_item_destructible",
+    "text_sign",
+    "wood"
+  ],
+  "minecraft:blue_concrete_powder": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:cherry_wood": [
+    "minecraft:is_axe_item_destructible",
+    "wood"
+  ],
+  "minecraft:birch_slab": [
+    "minecraft:is_axe_item_destructible",
+    "wood"
+  ],
+  "minecraft:end_stone": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:crimson_door": [
+    "one_way_collidable",
+    "minecraft:is_axe_item_destructible"
+  ],
+  "minecraft:jungle_slab": [
+    "minecraft:is_axe_item_destructible",
+    "wood"
+  ],
+  "minecraft:glowstone": [
+  ],
+  "minecraft:waxed_exposed_cut_copper_stairs": [
+    "minecraft:is_pickaxe_item_destructible",
+    "minecraft:stone_tier_destructible",
+    "stone_pick_diggable"
+  ],
+  "minecraft:hard_lime_stained_glass_pane": [
+  ],
+  "minecraft:mud_brick_slab": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:cracked_deepslate_tiles": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:farmland": [
+    "minecraft:is_shovel_item_destructible",
+    "dirt"
+  ],
+  "minecraft:dead_brain_coral_wall_fan": [
+  ],
+  "minecraft:pink_candle": [
+  ],
+  "minecraft:normal_stone_double_slab": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:brown_candle": [
+  ],
+  "minecraft:light_block_12": [
+  ],
+  "minecraft:rail": [
+    "minecraft:is_pickaxe_item_destructible",
+    "rail"
+  ],
+  "minecraft:soul_lantern": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:carrots": [
+    "minecraft:crop"
+  ],
+  "minecraft:acacia_trapdoor": [
+    "trapdoors",
+    "one_way_collidable",
+    "minecraft:is_axe_item_destructible",
+    "wood"
+  ],
+  "minecraft:stone_bricks": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:mossy_cobblestone_stairs": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:pink_terracotta": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:waxed_weathered_copper_door": [
+    "one_way_collidable",
+    "minecraft:is_pickaxe_item_destructible",
+    "minecraft:stone_tier_destructible"
+  ],
+  "minecraft:dark_prismarine": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:infested_cobblestone": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:brain_coral_wall_fan": [
+  ],
+  "minecraft:mangrove_wood": [
+    "minecraft:is_axe_item_destructible",
+    "wood"
+  ],
+  "minecraft:crafting_table": [
+    "minecraft:is_axe_item_destructible"
+  ],
+  "minecraft:red_glazed_terracotta": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:dark_oak_fence_gate": [
+    "one_way_collidable",
+    "minecraft:is_axe_item_destructible",
+    "wood"
+  ],
+  "minecraft:pale_hanging_moss": [
+  ],
+  "minecraft:cherry_button": [
+    "minecraft:is_axe_item_destructible",
+    "wood"
+  ],
+  "minecraft:crimson_nylium": [
+    "minecraft:is_pickaxe_item_destructible",
+    "fertilize_area"
+  ],
+  "minecraft:warped_double_slab": [
+    "minecraft:is_axe_item_destructible"
+  ],
+  "minecraft:structure_void": [
+  ],
+  "minecraft:bamboo_fence_gate": [
+    "one_way_collidable",
+    "minecraft:is_axe_item_destructible",
+    "wood"
+  ],
+  "minecraft:purple_concrete": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:white_stained_glass_pane": [
+  ],
+  "minecraft:waxed_exposed_copper_bulb": [
+    "minecraft:is_pickaxe_item_destructible",
+    "minecraft:stone_tier_destructible",
+    "stone_pick_diggable"
+  ],
+  "minecraft:bubble_coral": [
+  ],
+  "minecraft:coal_ore": [
+    "minecraft:is_pickaxe_item_destructible",
+    "iron_pick_diggable",
+    "diamond_pick_diggable"
+  ],
+  "minecraft:polished_blackstone_brick_slab": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:normal_stone_slab": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:purple_candle": [
+  ],
+  "minecraft:snow": [
+    "minecraft:is_shovel_item_destructible"
+  ],
+  "minecraft:calibrated_sculk_sensor": [
+    "minecraft:is_hoe_item_destructible"
+  ],
+  "minecraft:oak_slab": [
+    "minecraft:is_axe_item_destructible",
+    "wood"
+  ],
+  "minecraft:sand": [
+    "minecraft:is_shovel_item_destructible",
+    "sand"
+  ],
+  "minecraft:mangrove_standing_sign": [
+    "minecraft:is_axe_item_destructible",
+    "text_sign",
+    "wood"
+  ],
+  "minecraft:sandstone_wall": [
+    "minecraft:is_pickaxe_item_destructible",
+    "stone"
+  ],
+  "minecraft:slime": [
+  ],
+  "minecraft:element_117": [
+  ],
+  "minecraft:jungle_stairs": [
+    "minecraft:is_axe_item_destructible",
+    "wood"
+  ],
+  "minecraft:mossy_stone_brick_double_slab": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:cut_red_sandstone_double_slab": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:azalea_leaves": [
+    "minecraft:is_hoe_item_destructible"
+  ],
+  "minecraft:smooth_stone_slab": [
+    "minecraft:is_pickaxe_item_destructible",
+    "stone"
+  ],
+  "minecraft:bamboo_double_slab": [
+    "minecraft:is_axe_item_destructible"
+  ],
+  "minecraft:chiseled_polished_blackstone": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:infested_chiseled_stone_bricks": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:brown_concrete_powder": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:pink_concrete_powder": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:cracked_deepslate_bricks": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:spruce_door": [
+    "one_way_collidable",
+    "minecraft:is_axe_item_destructible",
+    "wood"
+  ],
+  "minecraft:frosted_ice": [
+  ],
+  "minecraft:chiseled_sandstone": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:pale_oak_slab": [
+    "minecraft:is_axe_item_destructible"
+  ],
+  "minecraft:dead_tube_coral": [
+  ],
+  "minecraft:acacia_door": [
+    "one_way_collidable",
+    "minecraft:is_axe_item_destructible",
+    "wood"
+  ],
+  "minecraft:orange_shulker_box": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:nether_wart_block": [
+    "minecraft:is_hoe_item_destructible"
+  ],
+  "minecraft:light_blue_glazed_terracotta": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:prismarine_slab": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:prismarine_double_slab": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:light_block_11": [
+  ],
+  "minecraft:cherry_door": [
+    "one_way_collidable",
+    "minecraft:is_axe_item_destructible"
+  ],
+  "minecraft:mangrove_door": [
+    "one_way_collidable",
+    "minecraft:is_axe_item_destructible"
+  ],
+  "minecraft:colored_torch_blue": [
+  ],
+  "minecraft:weathered_cut_copper_stairs": [
+    "minecraft:is_pickaxe_item_destructible",
+    "minecraft:stone_tier_destructible",
+    "stone_pick_diggable"
+  ],
+  "minecraft:acacia_log": [
+    "minecraft:is_axe_item_destructible",
+    "wood",
+    "log",
+    "acacia"
+  ],
+  "minecraft:flowing_lava": [
+  ],
+  "minecraft:crimson_trapdoor": [
+    "trapdoors",
+    "one_way_collidable",
+    "minecraft:is_axe_item_destructible"
+  ],
+  "minecraft:blue_shulker_box": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:basalt": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:element_13": [
+  ],
+  "minecraft:hard_cyan_stained_glass": [
+  ],
+  "minecraft:waxed_weathered_copper_trapdoor": [
+    "trapdoors",
+    "one_way_collidable",
+    "minecraft:is_pickaxe_item_destructible",
+    "minecraft:stone_tier_destructible"
+  ],
+  "minecraft:polished_diorite": [
+    "minecraft:is_pickaxe_item_destructible",
+    "stone"
+  ],
+  "minecraft:cyan_glazed_terracotta": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:nether_brick_wall": [
+    "minecraft:is_pickaxe_item_destructible",
+    "stone"
+  ],
+  "minecraft:lit_redstone_lamp": [
+  ],
+  "minecraft:hard_purple_stained_glass": [
+  ],
+  "minecraft:medium_amethyst_bud": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:brown_shulker_box": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:pink_shulker_box": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:skeleton_skull": [
+  ],
+  "minecraft:deepslate_tile_stairs": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:light_blue_candle": [
+  ],
+  "minecraft:sculk_sensor": [
+    "minecraft:is_hoe_item_destructible"
+  ],
+  "minecraft:copper_bulb": [
+    "minecraft:is_pickaxe_item_destructible",
+    "minecraft:stone_tier_destructible",
+    "stone_pick_diggable"
+  ],
+  "minecraft:element_6": [
+  ],
+  "minecraft:element_97": [
+  ],
+  "minecraft:diorite_stairs": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:smooth_stone_double_slab": [
+    "minecraft:is_pickaxe_item_destructible",
+    "stone"
+  ],
+  "minecraft:spruce_leaves": [
+    "minecraft:is_hoe_item_destructible"
+  ],
+  "minecraft:red_stained_glass_pane": [
+  ],
+  "minecraft:frog_spawn": [
+  ],
+  "minecraft:element_111": [
+  ],
+  "minecraft:red_carpet": [
+  ],
+  "minecraft:smooth_sandstone_double_slab": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:red_shulker_box": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:dirt_with_roots": [
+    "minecraft:is_shovel_item_destructible",
+    "dirt"
+  ],
+  "minecraft:stripped_cherry_log": [
+    "minecraft:is_axe_item_destructible",
+    "wood"
+  ],
+  "minecraft:horn_coral_wall_fan": [
+  ],
+  "minecraft:copper_door": [
+    "one_way_collidable",
+    "minecraft:is_pickaxe_item_destructible",
+    "minecraft:stone_tier_destructible"
+  ],
+  "minecraft:crimson_button": [
+    "minecraft:is_axe_item_destructible"
+  ],
+  "minecraft:magenta_concrete_powder": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:prismarine_stairs": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:iron_door": [
+    "one_way_collidable",
+    "minecraft:is_pickaxe_item_destructible",
+    "metal"
+  ],
+  "minecraft:mangrove_trapdoor": [
+    "trapdoors",
+    "one_way_collidable",
+    "minecraft:is_axe_item_destructible",
+    "wood"
+  ],
+  "minecraft:daylight_detector_inverted": [
+    "minecraft:is_axe_item_destructible"
+  ],
+  "minecraft:jungle_planks": [
+    "minecraft:is_axe_item_destructible",
+    "wood"
+  ],
+  "minecraft:chorus_flower": [
+    "minecraft:is_axe_item_destructible"
+  ],
+  "minecraft:torchflower_crop": [
+    "minecraft:crop"
+  ],
+  "minecraft:cracked_nether_bricks": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:lab_table": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:pumpkin": [
+    "minecraft:is_axe_item_destructible",
+    "pumpkin"
+  ],
+  "minecraft:element_constructor": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:brick_block": [
+    "minecraft:is_pickaxe_item_destructible",
+    "stone"
+  ],
+  "minecraft:smooth_stone": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:granite_slab": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:lime_concrete": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:waxed_weathered_cut_copper_slab": [
+    "minecraft:is_pickaxe_item_destructible",
+    "minecraft:stone_tier_destructible"
+  ],
+  "minecraft:colored_torch_purple": [
+  ],
+  "minecraft:red_mushroom": [
+  ],
+  "minecraft:hard_yellow_stained_glass": [
+  ],
+  "minecraft:magenta_terracotta": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:black_carpet": [
+  ],
+  "minecraft:exposed_cut_copper_stairs": [
+    "minecraft:is_pickaxe_item_destructible",
+    "minecraft:stone_tier_destructible",
+    "stone_pick_diggable"
+  ],
+  "minecraft:mangrove_stairs": [
+    "minecraft:is_axe_item_destructible"
+  ],
+  "minecraft:polished_diorite_slab": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:red_sandstone_stairs": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:light_blue_concrete": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:mangrove_fence_gate": [
+    "one_way_collidable",
+    "minecraft:is_axe_item_destructible",
+    "wood"
+  ],
+  "minecraft:bubble_column": [
+  ],
+  "minecraft:sunflower": [
+    "plant"
+  ],
+  "minecraft:allow": [
+  ],
+  "minecraft:gray_concrete_powder": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:bamboo_hanging_sign": [
+    "minecraft:is_axe_item_destructible",
+    "text_sign",
+    "wood"
+  ],
+  "minecraft:wither_rose": [
+  ],
+  "minecraft:copper_block": [
+    "minecraft:is_pickaxe_item_destructible",
+    "minecraft:stone_tier_destructible",
+    "stone_pick_diggable"
+  ],
+  "minecraft:crimson_fence_gate": [
+    "one_way_collidable",
+    "minecraft:is_axe_item_destructible"
+  ],
+  "minecraft:warped_standing_sign": [
+    "minecraft:is_axe_item_destructible",
+    "text_sign"
+  ],
+  "minecraft:deadbush": [
+  ],
+  "minecraft:birch_double_slab": [
+    "minecraft:is_axe_item_destructible",
+    "wood"
+  ],
+  "minecraft:waxed_weathered_double_cut_copper_slab": [
+    "minecraft:is_pickaxe_item_destructible",
+    "minecraft:stone_tier_destructible"
+  ],
+  "minecraft:polished_blackstone_bricks": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:glow_lichen": [
+    "minecraft:is_axe_item_destructible"
+  ],
+  "minecraft:copper_trapdoor": [
+    "trapdoors",
+    "one_way_collidable",
+    "minecraft:is_pickaxe_item_destructible",
+    "minecraft:stone_tier_destructible"
+  ],
+  "minecraft:red_candle": [
+  ],
+  "minecraft:cut_copper": [
+    "minecraft:is_pickaxe_item_destructible",
+    "minecraft:stone_tier_destructible",
+    "stone_pick_diggable"
+  ],
+  "minecraft:red_nether_brick_slab": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:iron_ore": [
+    "minecraft:is_pickaxe_item_destructible",
+    "minecraft:stone_tier_destructible",
+    "iron_pick_diggable",
+    "diamond_pick_diggable"
+  ],
+  "minecraft:chipped_anvil": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:exposed_copper_door": [
+    "one_way_collidable",
+    "minecraft:is_pickaxe_item_destructible",
+    "minecraft:stone_tier_destructible"
+  ],
+  "minecraft:warped_trapdoor": [
+    "trapdoors",
+    "one_way_collidable",
+    "minecraft:is_axe_item_destructible"
+  ],
+  "minecraft:orange_concrete_powder": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:flowing_water": [
+    "water"
+  ],
+  "minecraft:hard_glass": [
+  ],
+  "minecraft:quartz_stairs": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:cave_vines": [
+  ],
+  "minecraft:magenta_stained_glass_pane": [
+  ],
+  "minecraft:white_terracotta": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:element_62": [
+  ],
+  "minecraft:light_blue_carpet": [
+  ],
+  "minecraft:oak_hanging_sign": [
+    "minecraft:is_axe_item_destructible",
+    "text_sign",
+    "wood"
+  ],
+  "minecraft:stripped_dark_oak_wood": [
+    "minecraft:is_axe_item_destructible",
+    "wood"
+  ],
+  "minecraft:white_stained_glass": [
+  ],
+  "minecraft:oak_wood": [
+    "minecraft:is_axe_item_destructible",
+    "wood"
+  ],
+  "minecraft:waxed_exposed_double_cut_copper_slab": [
+    "minecraft:is_pickaxe_item_destructible",
+    "minecraft:stone_tier_destructible"
+  ],
+  "minecraft:waxed_oxidized_copper_trapdoor": [
+    "trapdoors",
+    "one_way_collidable",
+    "minecraft:is_pickaxe_item_destructible",
+    "minecraft:stone_tier_destructible"
+  ],
+  "minecraft:jukebox": [
+    "minecraft:is_axe_item_destructible"
+  ],
+  "minecraft:stripped_cherry_wood": [
+    "minecraft:is_axe_item_destructible",
+    "wood"
+  ],
+  "minecraft:acacia_pressure_plate": [
+    "minecraft:is_axe_item_destructible",
+    "wood"
+  ],
+  "minecraft:smooth_red_sandstone_slab": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:jigsaw": [
+  ],
+  "minecraft:prismarine_wall": [
+    "minecraft:is_pickaxe_item_destructible",
+    "stone"
+  ],
+  "minecraft:border_block": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:shroomlight": [
+    "minecraft:is_hoe_item_destructible"
+  ],
+  "minecraft:yellow_candle": [
+  ],
+  "minecraft:dark_oak_stairs": [
+    "minecraft:is_axe_item_destructible",
+    "wood"
+  ],
+  "minecraft:deepslate_tile_wall": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:glass_pane": [
+  ],
+  "minecraft:chiseled_deepslate": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:cut_copper_slab": [
+    "minecraft:is_pickaxe_item_destructible",
+    "minecraft:stone_tier_destructible"
+  ],
+  "minecraft:blue_glazed_terracotta": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:pale_oak_wood": [
+    "minecraft:is_axe_item_destructible",
+    "wood"
+  ],
+  "minecraft:infested_stone_bricks": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:bamboo_trapdoor": [
+    "trapdoors",
+    "one_way_collidable",
+    "minecraft:is_axe_item_destructible",
+    "wood"
+  ],
+  "minecraft:oxidized_chiseled_copper": [
+    "minecraft:is_pickaxe_item_destructible",
+    "minecraft:stone_tier_destructible",
+    "stone_pick_diggable"
+  ],
+  "minecraft:mangrove_wall_sign": [
+    "minecraft:is_axe_item_destructible",
+    "text_sign",
+    "wood"
+  ],
+  "minecraft:beetroot": [
+    "minecraft:crop"
+  ],
+  "minecraft:raw_copper_block": [
+    "minecraft:is_pickaxe_item_destructible",
+    "minecraft:stone_tier_destructible",
+    "stone_pick_diggable"
+  ],
+  "minecraft:horn_coral_block": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:light_gray_candle_cake": [
+  ],
+  "minecraft:element_95": [
+  ],
+  "minecraft:white_candle": [
+  ],
+  "minecraft:golden_rail": [
+    "minecraft:is_pickaxe_item_destructible",
+    "rail"
+  ],
+  "minecraft:lit_furnace": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:cyan_wool": [
+  ],
+  "minecraft:petrified_oak_double_slab": [
+    "minecraft:is_pickaxe_item_destructible",
+    "stone"
+  ],
+  "minecraft:structure_block": [
+  ],
+  "minecraft:tinted_glass": [
+  ],
+  "minecraft:deprecated_anvil": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:gray_shulker_box": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:fire_coral_wall_fan": [
+  ],
+  "minecraft:jungle_fence_gate": [
+    "one_way_collidable",
+    "minecraft:is_axe_item_destructible",
+    "wood"
+  ],
+  "minecraft:exposed_copper_grate": [
+    "minecraft:is_pickaxe_item_destructible",
+    "minecraft:stone_tier_destructible",
+    "stone_pick_diggable"
+  ],
+  "minecraft:waxed_copper_grate": [
+    "minecraft:is_pickaxe_item_destructible",
+    "minecraft:stone_tier_destructible",
+    "stone_pick_diggable"
+  ],
+  "minecraft:dead_brain_coral": [
+  ],
+  "minecraft:jungle_trapdoor": [
+    "trapdoors",
+    "one_way_collidable",
+    "minecraft:is_axe_item_destructible",
+    "wood"
+  ],
+  "minecraft:spruce_wall_sign": [
+    "minecraft:is_axe_item_destructible",
+    "text_sign",
+    "wood"
+  ],
+  "minecraft:coal_block": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:warped_fence_gate": [
+    "one_way_collidable",
+    "minecraft:is_axe_item_destructible"
+  ],
+  "minecraft:composter": [
+    "minecraft:is_axe_item_destructible"
+  ],
+  "minecraft:element_44": [
+  ],
+  "minecraft:waxed_double_cut_copper_slab": [
+    "minecraft:is_pickaxe_item_destructible",
+    "minecraft:stone_tier_destructible"
+  ],
+  "minecraft:waxed_exposed_copper_door": [
+    "one_way_collidable",
+    "minecraft:is_pickaxe_item_destructible",
+    "minecraft:stone_tier_destructible"
+  ],
+  "minecraft:blue_wool": [
+  ],
+  "minecraft:clay": [
+    "minecraft:is_shovel_item_destructible"
+  ],
+  "minecraft:weeping_vines": [
+  ],
+  "minecraft:chorus_plant": [
+    "minecraft:is_axe_item_destructible"
+  ],
+  "minecraft:mud_brick_stairs": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:stone_brick_wall": [
+    "minecraft:is_pickaxe_item_destructible",
+    "stone"
+  ],
+  "minecraft:smooth_red_sandstone_stairs": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:element_100": [
+  ],
+  "minecraft:element_103": [
+  ],
+  "minecraft:element_105": [
+  ],
+  "minecraft:crimson_pressure_plate": [
+    "minecraft:is_axe_item_destructible"
+  ],
+  "minecraft:element_106": [
+  ],
+  "minecraft:element_107": [
+  ],
+  "minecraft:hard_gray_stained_glass_pane": [
+  ],
+  "minecraft:element_108": [
+  ],
+  "minecraft:element_109": [
+  ],
+  "minecraft:light_gray_shulker_box": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:element_112": [
+  ],
+  "minecraft:element_110": [
+  ],
+  "minecraft:element_116": [
+  ],
+  "minecraft:element_114": [
+  ],
+  "minecraft:element_47": [
+  ],
+  "minecraft:andesite_wall": [
+    "minecraft:is_pickaxe_item_destructible",
+    "stone"
+  ],
+  "minecraft:cobbled_deepslate_slab": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:white_glazed_terracotta": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:stripped_warped_hyphae": [
+    "minecraft:is_axe_item_destructible"
+  ],
+  "minecraft:element_50": [
+  ],
+  "minecraft:pumpkin_stem": [
+  ],
+  "minecraft:lever": [
+  ],
+  "minecraft:moving_block": [
+  ],
+  "minecraft:trapped_chest": [
+    "minecraft:is_axe_item_destructible"
+  ],
+  "minecraft:light_gray_concrete_powder": [
+    "minecraft:is_shovel_item_destructible"
+  ],
+  "minecraft:brain_coral_block": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:standing_sign": [
+    "minecraft:is_axe_item_destructible",
+    "text_sign",
+    "wood"
+  ],
+  "minecraft:purple_concrete_powder": [
+    "minecraft:is_shovel_item_destructible"
+  ],
+  "minecraft:bamboo_planks": [
+    "minecraft:is_axe_item_destructible"
+  ],
+  "minecraft:purpur_pillar": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:command_block": [
+  ],
+  "minecraft:twisting_vines": [
+  ],
+  "minecraft:acacia_double_slab": [
+    "minecraft:is_axe_item_destructible",
+    "wood"
+  ],
+  "minecraft:polished_andesite_double_slab": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:magma": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:dirt": [
+    "minecraft:is_shovel_item_destructible",
+    "grass",
+    "dirt"
+  ],
+  "minecraft:reeds": [
+  ],
+  "minecraft:deny": [
+  ],
+  "minecraft:bee_nest": [
+    "minecraft:is_axe_item_destructible"
+  ],
+  "minecraft:campfire": [
+    "minecraft:is_axe_item_destructible"
+  ],
+  "minecraft:soul_soil": [
+    "minecraft:is_shovel_item_destructible"
+  ],
+  "minecraft:element_8": [
+  ],
+  "minecraft:element_28": [
+  ],
+  "minecraft:dark_oak_pressure_plate": [
+    "minecraft:is_axe_item_destructible",
+    "wood"
+  ],
+  "minecraft:bed": [
+  ],
+  "minecraft:granite_wall": [
+    "minecraft:is_pickaxe_item_destructible",
+    "stone"
+  ],
+  "minecraft:spruce_hanging_sign": [
+    "minecraft:is_axe_item_destructible",
+    "text_sign",
+    "wood"
+  ],
+  "minecraft:reinforced_deepslate": [
+  ],
+  "minecraft:end_rod": [
+  ],
+  "minecraft:fletching_table": [
+    "minecraft:is_axe_item_destructible",
+    "wood"
+  ],
+  "minecraft:cherry_leaves": [
+    "minecraft:is_hoe_item_destructible"
+  ],
+  "minecraft:black_glazed_terracotta": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:dragon_head": [
+  ],
+  "minecraft:end_portal_frame": [
+    "not_feature_replaceable"
+  ],
+  "minecraft:stripped_acacia_log": [
+    "minecraft:is_axe_item_destructible",
+    "wood"
+  ],
+  "minecraft:sniffer_egg": [
+  ],
+  "minecraft:warped_fence": [
+    "minecraft:is_axe_item_destructible"
+  ],
+  "minecraft:cave_vines_body_with_berries": [
+  ],
+  "minecraft:cherry_standing_sign": [
+    "minecraft:is_axe_item_destructible",
+    "text_sign",
+    "wood"
+  ],
+  "minecraft:mangrove_hanging_sign": [
+    "minecraft:is_axe_item_destructible",
+    "text_sign",
+    "wood"
+  ],
+  "minecraft:waxed_exposed_copper_trapdoor": [
+    "trapdoors",
+    "one_way_collidable",
+    "minecraft:is_pickaxe_item_destructible",
+    "minecraft:stone_tier_destructible"
+  ],
+  "minecraft:mossy_stone_brick_stairs": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:crimson_stem": [
+    "minecraft:is_axe_item_destructible"
+  ],
+  "minecraft:element_18": [
+  ],
+  "minecraft:tuff_brick_double_slab": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:vault": [
+    "not_feature_replaceable"
+  ],
+  "minecraft:azalea_leaves_flowered": [
+    "minecraft:is_hoe_item_destructible"
+  ],
+  "minecraft:crimson_slab": [
+    "minecraft:is_axe_item_destructible"
+  ],
+  "minecraft:warped_hyphae": [
+    "minecraft:is_axe_item_destructible"
+  ],
+  "minecraft:oxeye_daisy": [
+    "fertilize_area"
+  ],
+  "minecraft:bamboo_button": [
+    "minecraft:is_axe_item_destructible",
+    "wood"
+  ],
+  "minecraft:warped_wart_block": [
+    "minecraft:is_hoe_item_destructible"
+  ],
+  "minecraft:tuff_stairs": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:yellow_carpet": [
+  ],
+  "minecraft:black_stained_glass": [
+  ],
+  "minecraft:waxed_oxidized_copper_door": [
+    "one_way_collidable",
+    "minecraft:is_pickaxe_item_destructible",
+    "minecraft:stone_tier_destructible"
+  ],
+  "minecraft:grass_block": [
+    "minecraft:is_shovel_item_destructible",
+    "grass",
+    "fertilize_area",
+    "dirt"
+  ],
+  "minecraft:tripwire_hook": [
+  ],
+  "minecraft:hard_black_stained_glass": [
+  ],
+  "minecraft:stripped_birch_log": [
+    "minecraft:is_axe_item_destructible",
+    "wood"
+  ],
+  "minecraft:red_tulip": [
+    "fertilize_area"
+  ],
+  "minecraft:cut_sandstone": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:lime_wool": [
+  ],
+  "minecraft:blue_candle_cake": [
+  ],
+  "minecraft:large_fern": [
+    "plant"
+  ],
+  "minecraft:sweet_berry_bush": [
+    "minecraft:crop"
+  ],
+  "minecraft:polished_blackstone_slab": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:black_shulker_box": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:piglin_head": [
+  ],
+  "minecraft:jungle_sapling": [
+    "plant"
+  ],
+  "minecraft:pale_oak_log": [
+    "minecraft:is_axe_item_destructible",
+    "wood"
+  ],
+  "minecraft:blue_concrete": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:jungle_standing_sign": [
+    "minecraft:is_axe_item_destructible",
+    "text_sign",
+    "wood"
+  ],
+  "minecraft:web": [
+    "minecraft:is_shears_item_destructible",
+    "minecraft:is_sword_item_destructible"
+  ],
+  "minecraft:weathered_cut_copper_slab": [
+    "minecraft:is_pickaxe_item_destructible",
+    "minecraft:stone_tier_destructible"
+  ],
+  "minecraft:cocoa": [
+    "minecraft:is_axe_item_destructible"
+  ],
+  "minecraft:dark_oak_leaves": [
+    "minecraft:is_hoe_item_destructible"
+  ],
+  "minecraft:fire": [
+  ],
+  "minecraft:purpur_double_slab": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:exposed_chiseled_copper": [
+    "minecraft:is_pickaxe_item_destructible",
+    "minecraft:stone_tier_destructible",
+    "stone_pick_diggable"
+  ],
+  "minecraft:infested_stone": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:prismarine": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:magenta_candle_cake": [
+  ],
+  "minecraft:deepslate_gold_ore": [
+    "minecraft:is_pickaxe_item_destructible",
+    "minecraft:iron_tier_destructible",
+    "iron_pick_diggable",
+    "diamond_pick_diggable"
+  ],
+  "minecraft:hard_orange_stained_glass": [
+  ],
+  "minecraft:glass": [
+  ],
+  "minecraft:moss_block": [
+    "minecraft:is_hoe_item_destructible",
+    "fertilize_area",
+    "dirt"
+  ],
+  "minecraft:nether_brick_double_slab": [
+    "minecraft:is_pickaxe_item_destructible",
+    "stone"
+  ],
+  "minecraft:prismarine_brick_double_slab": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:bookshelf": [
+    "minecraft:is_axe_item_destructible"
+  ],
+  "minecraft:waxed_weathered_cut_copper_stairs": [
+    "minecraft:is_pickaxe_item_destructible",
+    "minecraft:stone_tier_destructible",
+    "stone_pick_diggable"
+  ],
+  "minecraft:mangrove_roots": [
+    "minecraft:is_axe_item_destructible"
+  ],
+  "minecraft:acacia_stairs": [
+    "minecraft:is_axe_item_destructible",
+    "wood"
+  ],
+  "minecraft:polished_andesite_stairs": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:cherry_slab": [
+    "minecraft:is_axe_item_destructible"
+  ],
+  "minecraft:element_11": [
+  ],
+  "minecraft:smooth_red_sandstone_double_slab": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:lit_blast_furnace": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:sculk": [
+    "minecraft:is_hoe_item_destructible"
+  ],
+  "minecraft:tuff_brick_stairs": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:dead_fire_coral": [
+  ],
+  "minecraft:stone_brick_slab": [
+    "minecraft:is_pickaxe_item_destructible",
+    "stone"
+  ],
+  "minecraft:stripped_spruce_log": [
+    "minecraft:is_axe_item_destructible",
+    "wood"
+  ],
+  "minecraft:waxed_oxidized_copper_bulb": [
+    "minecraft:is_pickaxe_item_destructible",
+    "minecraft:stone_tier_destructible",
+    "stone_pick_diggable"
+  ],
+  "minecraft:deepslate_brick_stairs": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:warped_nylium": [
+    "minecraft:is_pickaxe_item_destructible",
+    "fertilize_area"
+  ],
+  "minecraft:deepslate_emerald_ore": [
+    "minecraft:is_pickaxe_item_destructible",
+    "minecraft:iron_tier_destructible",
+    "diamond_pick_diggable",
+    "iron_pick_diggable"
+  ],
+  "minecraft:stripped_crimson_stem": [
+    "minecraft:is_axe_item_destructible"
+  ],
+  "minecraft:acacia_sapling": [
+    "plant"
+  ],
+  "minecraft:andesite_slab": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:cyan_shulker_box": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:unpowered_comparator": [
+  ],
+  "minecraft:lime_candle": [
+  ],
+  "minecraft:target": [
+    "minecraft:is_hoe_item_destructible"
+  ],
+  "minecraft:wooden_button": [
+    "minecraft:is_axe_item_destructible",
+    "wood"
+  ],
+  "minecraft:end_stone_brick_double_slab": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:weathered_copper_door": [
+    "one_way_collidable",
+    "minecraft:is_pickaxe_item_destructible",
+    "minecraft:stone_tier_destructible"
+  ],
+  "minecraft:pearlescent_froglight": [
+  ],
+  "minecraft:tall_grass": [
+    "plant"
+  ],
+  "minecraft:light_block_15": [
+  ],
+  "minecraft:element_64": [
+  ],
+  "minecraft:nether_sprouts": [
+  ],
+  "minecraft:element_92": [
+  ],
+  "minecraft:cyan_stained_glass_pane": [
+  ],
+  "minecraft:dead_horn_coral_fan": [
+  ],
+  "minecraft:element_12": [
+  ],
+  "minecraft:dead_horn_coral_block": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:furnace": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:warped_slab": [
+    "minecraft:is_axe_item_destructible"
+  ],
+  "minecraft:warped_stem": [
+    "minecraft:is_axe_item_destructible"
+  ],
+  "minecraft:pale_oak_stairs": [
+    "minecraft:is_axe_item_destructible"
+  ],
+  "minecraft:netherrack": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:wither_skeleton_skull": [
+  ],
+  "minecraft:chain": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:horn_coral_fan": [
+  ],
+  "minecraft:green_shulker_box": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:brick_stairs": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:colored_torch_green": [
+  ],
+  "minecraft:purple_carpet": [
+  ],
+  "minecraft:fire_coral_fan": [
+  ],
+  "minecraft:element_69": [
+  ],
+  "minecraft:spruce_trapdoor": [
+    "trapdoors",
+    "one_way_collidable",
+    "minecraft:is_axe_item_destructible",
+    "wood"
+  ],
+  "minecraft:purple_glazed_terracotta": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:chain_command_block": [
+  ],
+  "minecraft:spruce_fence_gate": [
+    "one_way_collidable",
+    "minecraft:is_axe_item_destructible",
+    "wood"
+  ],
+  "minecraft:red_nether_brick_stairs": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:green_glazed_terracotta": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:deepslate_redstone_ore": [
+    "minecraft:is_pickaxe_item_destructible",
+    "minecraft:iron_tier_destructible",
+    "diamond_pick_diggable",
+    "iron_pick_diggable"
+  ],
+  "minecraft:dead_brain_coral_block": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:mangrove_fence": [
+    "minecraft:is_axe_item_destructible"
+  ],
+  "minecraft:birch_trapdoor": [
+    "trapdoors",
+    "one_way_collidable",
+    "minecraft:is_axe_item_destructible",
+    "wood"
+  ],
+  "minecraft:tuff_bricks": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:mud": [
+    "minecraft:is_shovel_item_destructible",
+    "dirt"
+  ],
+  "minecraft:ice": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:air": [
+  ],
+  "minecraft:light_blue_wool": [
+  ],
+  "minecraft:black_concrete": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:tnt": [
+  ],
+  "minecraft:dead_tube_coral_fan": [
+  ],
+  "minecraft:element_71": [
+  ],
+  "minecraft:pale_oak_standing_sign": [
+    "minecraft:is_axe_item_destructible",
+    "text_sign",
+    "wood"
+  ],
+  "minecraft:polished_diorite_stairs": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:element_83": [
+  ],
+  "minecraft:orange_concrete": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:netherreactor": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:lime_carpet": [
+  ],
+  "minecraft:dead_fire_coral_fan": [
+  ],
+  "minecraft:decorated_pot": [
+  ],
+  "minecraft:granite_double_slab": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:enchanting_table": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:bubble_coral_wall_fan": [
+  ],
+  "minecraft:orange_tulip": [
+    "fertilize_area"
+  ],
+  "minecraft:azalea": [
+  ],
+  "minecraft:bell": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:mud_bricks": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:birch_wall_sign": [
+    "minecraft:is_axe_item_destructible",
+    "text_sign",
+    "wood"
+  ],
+  "minecraft:bamboo_wall_sign": [
+    "minecraft:is_axe_item_destructible",
+    "text_sign",
+    "wood"
+  ],
+  "minecraft:acacia_wood": [
+    "minecraft:is_axe_item_destructible",
+    "wood"
+  ],
+  "minecraft:hopper": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:hard_red_stained_glass": [
+  ],
+  "minecraft:prismarine_bricks": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:lectern": [
+    "minecraft:is_axe_item_destructible"
+  ],
+  "minecraft:acacia_button": [
+    "minecraft:is_axe_item_destructible",
+    "wood"
+  ],
+  "minecraft:standing_banner": [
+    "minecraft:is_axe_item_destructible"
+  ],
+  "minecraft:waxed_oxidized_double_cut_copper_slab": [
+    "minecraft:is_pickaxe_item_destructible",
+    "minecraft:stone_tier_destructible",
+    "stone_pick_diggable"
+  ],
+  "minecraft:light_blue_shulker_box": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:mangrove_propagule": [
+  ],
+  "minecraft:polished_diorite_double_slab": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:mossy_cobblestone_double_slab": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:birch_stairs": [
+    "minecraft:is_axe_item_destructible",
+    "wood"
+  ],
+  "minecraft:spruce_slab": [
+    "minecraft:is_axe_item_destructible",
+    "wood"
+  ],
+  "minecraft:blackstone_stairs": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:blue_ice": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:lantern": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:dark_oak_fence": [
+    "minecraft:is_axe_item_destructible",
+    "wood"
+  ],
+  "minecraft:deprecated_purpur_block_2": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:birch_door": [
+    "one_way_collidable",
+    "minecraft:is_axe_item_destructible",
+    "wood"
+  ],
+  "minecraft:deepslate_lapis_ore": [
+    "minecraft:is_pickaxe_item_destructible",
+    "minecraft:stone_tier_destructible"
+  ],
+  "minecraft:crimson_hanging_sign": [
+    "minecraft:is_axe_item_destructible",
+    "text_sign",
+    "wood"
+  ],
+  "minecraft:deepslate_coal_ore": [
+    "minecraft:is_pickaxe_item_destructible",
+    "iron_pick_diggable",
+    "diamond_pick_diggable"
+  ],
+  "minecraft:weathered_cut_copper": [
+    "minecraft:is_pickaxe_item_destructible",
+    "minecraft:stone_tier_destructible",
+    "stone_pick_diggable"
+  ],
+  "minecraft:bamboo_standing_sign": [
+    "minecraft:is_axe_item_destructible",
+    "text_sign",
+    "wood"
+  ],
+  "minecraft:stripped_mangrove_log": [
+    "minecraft:is_axe_item_destructible",
+    "wood"
+  ],
+  "minecraft:polished_tuff": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:weathered_copper_bulb": [
+    "minecraft:is_pickaxe_item_destructible",
+    "minecraft:stone_tier_destructible",
+    "stone_pick_diggable"
+  ],
+  "minecraft:magenta_stained_glass": [
+  ],
+  "minecraft:hard_white_stained_glass_pane": [
+  ],
+  "minecraft:hard_cyan_stained_glass_pane": [
+  ],
+  "minecraft:chiseled_nether_bricks": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:warped_button": [
+    "minecraft:is_axe_item_destructible"
+  ],
+  "minecraft:red_concrete_powder": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:dead_bubble_coral": [
+  ],
+  "minecraft:cherry_sapling": [
+  ],
+  "minecraft:cherry_log": [
+    "minecraft:is_axe_item_destructible",
+    "wood"
+  ],
+  "minecraft:polished_tuff_stairs": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:dragon_egg": [
+  ],
+  "minecraft:nether_brick": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:deepslate_iron_ore": [
+    "minecraft:is_pickaxe_item_destructible",
+    "minecraft:stone_tier_destructible",
+    "iron_pick_diggable",
+    "diamond_pick_diggable"
+  ],
+  "minecraft:element_3": [
+  ],
+  "minecraft:element_2": [
+  ],
+  "minecraft:element_5": [
+  ],
+  "minecraft:element_4": [
+  ],
+  "minecraft:element_7": [
+  ],
+  "minecraft:element_9": [
+  ],
+  "minecraft:camera": [
+    "minecraft:is_axe_item_destructible"
+  ],
+  "minecraft:waxed_cut_copper": [
+    "minecraft:is_pickaxe_item_destructible",
+    "minecraft:stone_tier_destructible",
+    "stone_pick_diggable"
+  ],
+  "minecraft:lilac": [
+    "plant"
+  ],
+  "minecraft:pale_oak_trapdoor": [
+    "trapdoors",
+    "one_way_collidable",
+    "minecraft:is_axe_item_destructible",
+    "wood"
+  ],
+  "minecraft:crimson_standing_sign": [
+    "minecraft:is_axe_item_destructible",
+    "text_sign"
+  ],
+  "minecraft:emerald_ore": [
+    "minecraft:is_pickaxe_item_destructible",
+    "minecraft:iron_tier_destructible",
+    "diamond_pick_diggable",
+    "iron_pick_diggable"
+  ],
+  "minecraft:brown_mushroom_block": [
+    "minecraft:is_axe_item_destructible"
+  ],
+  "minecraft:petrified_oak_slab": [
+    "minecraft:is_pickaxe_item_destructible",
+    "stone"
+  ],
+  "minecraft:carved_pumpkin": [
+    "minecraft:is_axe_item_destructible",
+    "pumpkin"
+  ],
+  "minecraft:dropper": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:candle": [
+  ],
+  "minecraft:cobbled_deepslate_wall": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:pointed_dripstone": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:cut_red_sandstone_slab": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:pale_oak_button": [
+    "minecraft:is_axe_item_destructible",
+    "wood"
+  ],
+  "minecraft:chiseled_tuff_bricks": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:chemical_heat": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:trip_wire": [
+  ],
+  "minecraft:cave_vines_head_with_berries": [
+  ],
+  "minecraft:chiseled_red_sandstone": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:dead_tube_coral_wall_fan": [
+  ],
+  "minecraft:birch_sapling": [
+    "plant"
+  ],
+  "minecraft:dark_oak_trapdoor": [
+    "trapdoors",
+    "one_way_collidable",
+    "minecraft:is_axe_item_destructible",
+    "wood"
+  ],
+  "minecraft:orange_terracotta": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:waxed_oxidized_copper": [
+    "minecraft:is_pickaxe_item_destructible",
+    "minecraft:stone_tier_destructible",
+    "stone_pick_diggable"
+  ],
+  "minecraft:polished_andesite": [
+    "minecraft:is_pickaxe_item_destructible",
+    "stone"
+  ],
+  "minecraft:sea_lantern": [
+  ],
+  "minecraft:brewing_stand": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:bamboo_sapling": [
+  ],
+  "minecraft:raw_iron_block": [
+    "minecraft:is_pickaxe_item_destructible",
+    "minecraft:stone_tier_destructible",
+    "iron_pick_diggable",
+    "diamond_pick_diggable"
+  ],
+  "minecraft:dispenser": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:crimson_roots": [
+  ],
+  "minecraft:stonecutter_block": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:smooth_quartz_slab": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:yellow_concrete_powder": [
+    "minecraft:is_shovel_item_destructible"
+  ],
+  "minecraft:white_candle_cake": [
+  ],
+  "minecraft:candle_cake": [
+  ],
+  "minecraft:lime_stained_glass_pane": [
+  ],
+  "minecraft:end_portal": [
+  ],
+  "minecraft:jungle_double_slab": [
+    "minecraft:is_axe_item_destructible",
+    "wood"
+  ],
+  "minecraft:polished_granite_double_slab": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:spruce_wood": [
+    "minecraft:is_axe_item_destructible",
+    "wood"
+  ],
+  "minecraft:blackstone": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:lit_deepslate_redstone_ore": [
+    "minecraft:is_pickaxe_item_destructible",
+    "minecraft:iron_tier_destructible",
+    "diamond_pick_diggable",
+    "iron_pick_diggable"
+  ],
+  "minecraft:element_10": [
+  ],
+  "minecraft:element_14": [
+  ],
+  "minecraft:element_15": [
+  ],
+  "minecraft:element_36": [
+  ],
+  "minecraft:element_37": [
+  ],
+  "minecraft:element_34": [
+  ],
+  "minecraft:element_35": [
+  ],
+  "minecraft:element_32": [
+  ],
+  "minecraft:element_33": [
+  ],
+  "minecraft:element_31": [
+  ],
+  "minecraft:element_38": [
+  ],
+  "minecraft:element_29": [
+  ],
+  "minecraft:element_21": [
+  ],
+  "minecraft:element_20": [
+  ],
+  "minecraft:element_23": [
+  ],
+  "minecraft:element_22": [
+  ],
+  "minecraft:element_25": [
+  ],
+  "minecraft:element_24": [
+  ],
+  "minecraft:element_27": [
+  ],
+  "minecraft:element_26": [
+  ],
+  "minecraft:element_59": [
+  ],
+  "minecraft:element_54": [
+  ],
+  "minecraft:element_55": [
+  ],
+  "minecraft:element_56": [
+  ],
+  "minecraft:element_57": [
+  ],
+  "minecraft:element_53": [
+  ],
+  "minecraft:element_49": [
+  ],
+  "minecraft:element_48": [
+  ],
+  "minecraft:element_45": [
+  ],
+  "minecraft:element_43": [
+  ],
+  "minecraft:element_42": [
+  ],
+  "minecraft:element_41": [
+  ],
+  "minecraft:element_40": [
+  ],
+  "minecraft:element_72": [
+  ],
+  "minecraft:element_70": [
+  ],
+  "minecraft:element_76": [
+  ],
+  "minecraft:element_75": [
+  ],
+  "minecraft:element_78": [
+  ],
+  "minecraft:element_79": [
+  ],
+  "minecraft:element_65": [
+  ],
+  "minecraft:element_67": [
+  ],
+  "minecraft:polished_deepslate_wall": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:element_66": [
+  ],
+  "minecraft:element_61": [
+  ],
+  "minecraft:element_60": [
+  ],
+  "minecraft:element_63": [
+  ],
+  "minecraft:element_98": [
+  ],
+  "minecraft:element_90": [
+  ],
+  "minecraft:element_91": [
+  ],
+  "minecraft:element_94": [
+  ],
+  "minecraft:element_96": [
+  ],
+  "minecraft:element_88": [
+  ],
+  "minecraft:element_82": [
+  ],
+  "minecraft:element_81": [
+  ],
+  "minecraft:element_80": [
+  ],
+  "minecraft:element_87": [
+  ],
+  "minecraft:element_86": [
+  ],
+  "minecraft:element_84": [
+  ],
+  "minecraft:lit_smoker": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:smooth_quartz_stairs": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:light_gray_carpet": [
+  ],
+  "minecraft:purpur_block": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:cherry_wall_sign": [
+    "minecraft:is_axe_item_destructible",
+    "text_sign",
+    "wood"
+  ],
+  "minecraft:repeating_command_block": [
+  ],
+  "minecraft:crimson_fungus": [
+  ],
+  "minecraft:cherry_planks": [
+    "minecraft:is_axe_item_destructible"
+  ],
+  "minecraft:polished_deepslate": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:tuff_double_slab": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:purpur_stairs": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:tube_coral": [
+  ],
+  "minecraft:waxed_copper_door": [
+    "one_way_collidable",
+    "minecraft:is_pickaxe_item_destructible",
+    "minecraft:stone_tier_destructible"
+  ],
+  "minecraft:portal": [
+  ],
+  "minecraft:peony": [
+    "plant"
+  ],
+  "minecraft:crafter": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:spruce_planks": [
+    "minecraft:is_axe_item_destructible",
+    "wood"
+  ],
+  "minecraft:amethyst_cluster": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:waxed_chiseled_copper": [
+    "minecraft:is_pickaxe_item_destructible",
+    "minecraft:stone_tier_destructible",
+    "stone_pick_diggable"
+  ],
+  "minecraft:waxed_cut_copper_slab": [
+    "minecraft:is_pickaxe_item_destructible",
+    "minecraft:stone_tier_destructible"
+  ],
+  "minecraft:dried_kelp_block": [
+    "minecraft:is_hoe_item_destructible"
+  ],
+  "minecraft:hard_light_gray_stained_glass": [
+  ],
+  "minecraft:crimson_fence": [
+    "minecraft:is_axe_item_destructible"
+  ],
+  "minecraft:chiseled_tuff": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:lime_concrete_powder": [
+    "minecraft:is_shovel_item_destructible"
+  ],
+  "minecraft:birch_fence": [
+    "minecraft:is_axe_item_destructible",
+    "wood"
+  ],
+  "minecraft:turtle_egg": [
+  ],
+  "minecraft:brown_terracotta": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:cobblestone_double_slab": [
+    "minecraft:is_pickaxe_item_destructible",
+    "stone"
+  ],
+  "minecraft:deepslate_diamond_ore": [
+    "minecraft:is_pickaxe_item_destructible",
+    "minecraft:iron_tier_destructible",
+    "diamond_pick_diggable",
+    "iron_pick_diggable"
+  ],
+  "minecraft:light_gray_wool": [
+  ],
+  "minecraft:soul_campfire": [
+    "minecraft:is_axe_item_destructible"
+  ],
+  "minecraft:wooden_pressure_plate": [
+    "minecraft:is_axe_item_destructible",
+    "wood"
+  ],
+  "minecraft:waxed_oxidized_copper_grate": [
+    "minecraft:is_pickaxe_item_destructible",
+    "minecraft:stone_tier_destructible",
+    "stone_pick_diggable"
+  ],
+  "minecraft:damaged_anvil": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:white_concrete": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:material_reducer": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:acacia_fence": [
+    "minecraft:is_axe_item_destructible",
+    "wood"
+  ],
+  "minecraft:grass_path": [
+    "minecraft:is_shovel_item_destructible",
+    "grass"
+  ],
+  "minecraft:orange_candle_cake": [
+  ],
+  "minecraft:weathered_copper": [
+    "minecraft:is_pickaxe_item_destructible",
+    "minecraft:stone_tier_destructible",
+    "stone_pick_diggable"
+  ],
+  "minecraft:mossy_stone_brick_wall": [
+    "minecraft:is_pickaxe_item_destructible",
+    "stone"
+  ],
+  "minecraft:lime_terracotta": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:cherry_fence_gate": [
+    "one_way_collidable",
+    "minecraft:is_axe_item_destructible",
+    "wood"
+  ],
+  "minecraft:gray_glazed_terracotta": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:lodestone": [
+    "minecraft:is_pickaxe_item_destructible"
+  ],
+  "minecraft:bamboo_mosaic": [
+    "minecraft:is_axe_item_destructible"
+  ],
+  "minecraft:purple_wool": [
+  ],
+  "minecraft:iron_block": [
+    "minecraft:is_pickaxe_item_destructible",
+    "minecraft:stone_tier_destructible",
+    "metal"
+  ],
+  "minecraft:cartography_table": [
+    "minecraft:is_axe_item_destructible"
+  ],
+  "minecraft:dandelion": [
+    "fertilize_area"
+  ]
+}
