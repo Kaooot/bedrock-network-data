@@ -1,263 +1,743 @@
 {
-  "minecraft:milk_bucket": [
+  "minecraft:acacia_boat": [
+    "minecraft:boat",
+    "minecraft:boats"
   ],
-  "minecraft:red_sandstone_stairs": [
+  "minecraft:acacia_chest_boat": [
+    "minecraft:boat",
+    "minecraft:boats"
   ],
-  "minecraft:polished_diorite_slab": [
+  "minecraft:acacia_door": [
+    "minecraft:door"
   ],
-  "minecraft:dark_oak_planks": [
-    "minecraft:planks"
+  "minecraft:acacia_hanging_sign": [
+    "minecraft:hanging_sign",
+    "minecraft:sign"
   ],
-  "minecraft:jungle_leaves": [
-  ],
-  "minecraft:suspicious_sand": [
-  ],
-  "minecraft:ancient_debris": [
-  ],
-  "minecraft:scaffolding": [
-  ],
-  "minecraft:cyan_dye": [
-  ],
-  "minecraft:stripped_pale_oak_wood": [
+  "minecraft:acacia_log": [
     "minecraft:logs",
     "minecraft:logs_that_burn"
   ],
-  "minecraft:orange_candle": [
-  ],
-  "minecraft:tropical_fish_bucket": [
-  ],
-  "minecraft:light_block_14": [
-  ],
-  "minecraft:acacia_fence_gate": [
-  ],
-  "minecraft:sculk_catalyst": [
-  ],
-  "minecraft:honeycomb": [
-  ],
-  "minecraft:birch_fence_gate": [
-  ],
-  "minecraft:black_stained_glass_pane": [
-  ],
-  "minecraft:nether_brick_fence": [
-  ],
-  "minecraft:chiseled_tuff_bricks": [
-  ],
-  "minecraft:shears": [
-    "minecraft:is_shears"
-  ],
-  "minecraft:web": [
-  ],
-  "minecraft:blue_concrete": [
-  ],
-  "minecraft:field_masoned_banner_pattern": [
-  ],
-  "minecraft:waxed_cut_copper": [
-  ],
-  "minecraft:camel_spawn_egg": [
-    "minecraft:spawn_egg"
-  ],
-  "minecraft:stone_brick_slab": [
-  ],
-  "minecraft:gold_ingot": [
-    "minecraft:trim_materials"
-  ],
-  "minecraft:spruce_planks": [
+  "minecraft:acacia_planks": [
     "minecraft:planks"
   ],
-  "minecraft:wooden_pickaxe": [
-    "minecraft:digger",
-    "minecraft:is_pickaxe",
-    "minecraft:is_tool",
-    "minecraft:wooden_tier"
+  "minecraft:acacia_sign": [
+    "minecraft:sign"
   ],
-  "minecraft:cookie": [
+  "minecraft:acacia_slab": [
+    "minecraft:wooden_slabs"
+  ],
+  "minecraft:acacia_wood": [
+    "minecraft:logs",
+    "minecraft:logs_that_burn"
+  ],
+  "minecraft:allay_spawn_egg": [
+    "minecraft:spawn_egg"
+  ],
+  "minecraft:amethyst_shard": [
+    "minecraft:trim_materials"
+  ],
+  "minecraft:angler_pottery_sherd": [
+    "minecraft:decorated_pot_sherds"
+  ],
+  "minecraft:apple": [
     "minecraft:is_food"
   ],
-  "minecraft:light_block_10": [
+  "minecraft:archer_pottery_sherd": [
+    "minecraft:decorated_pot_sherds"
   ],
-  "minecraft:tuff_brick_slab": [
+  "minecraft:armadillo_spawn_egg": [
+    "minecraft:spawn_egg"
   ],
-  "minecraft:rose_bush": [
+  "minecraft:arms_up_pottery_sherd": [
+    "minecraft:decorated_pot_sherds"
   ],
-  "minecraft:waxed_copper": [
+  "minecraft:arrow": [
+    "minecraft:arrow"
   ],
-  "minecraft:white_wool": [
+  "minecraft:axolotl_spawn_egg": [
+    "minecraft:spawn_egg"
+  ],
+  "minecraft:baked_potato": [
+    "minecraft:is_food"
+  ],
+  "minecraft:bamboo_chest_raft": [
+    "minecraft:boat",
+    "minecraft:boats"
+  ],
+  "minecraft:bamboo_door": [
+    "minecraft:door"
+  ],
+  "minecraft:bamboo_hanging_sign": [
+    "minecraft:hanging_sign",
+    "minecraft:sign"
+  ],
+  "minecraft:bamboo_planks": [
+    "minecraft:planks"
+  ],
+  "minecraft:bamboo_raft": [
+    "minecraft:boat",
+    "minecraft:boats"
+  ],
+  "minecraft:bamboo_sign": [
+    "minecraft:sign"
+  ],
+  "minecraft:bamboo_slab": [
+    "minecraft:wooden_slabs"
+  ],
+  "minecraft:banner": [
+    "minecraft:banner"
+  ],
+  "minecraft:bat_spawn_egg": [
+    "minecraft:spawn_egg"
+  ],
+  "minecraft:bee_spawn_egg": [
+    "minecraft:spawn_egg"
+  ],
+  "minecraft:beef": [
+    "minecraft:is_food",
+    "minecraft:is_meat"
+  ],
+  "minecraft:beetroot": [
+    "minecraft:is_food"
+  ],
+  "minecraft:beetroot_soup": [
+    "minecraft:is_food"
+  ],
+  "minecraft:birch_boat": [
+    "minecraft:boat",
+    "minecraft:boats"
+  ],
+  "minecraft:birch_chest_boat": [
+    "minecraft:boat",
+    "minecraft:boats"
+  ],
+  "minecraft:birch_door": [
+    "minecraft:door"
+  ],
+  "minecraft:birch_hanging_sign": [
+    "minecraft:hanging_sign",
+    "minecraft:sign"
+  ],
+  "minecraft:birch_log": [
+    "minecraft:logs",
+    "minecraft:logs_that_burn"
+  ],
+  "minecraft:birch_planks": [
+    "minecraft:planks"
+  ],
+  "minecraft:birch_sign": [
+    "minecraft:sign"
+  ],
+  "minecraft:birch_slab": [
+    "minecraft:wooden_slabs"
+  ],
+  "minecraft:birch_wood": [
+    "minecraft:logs",
+    "minecraft:logs_that_burn"
+  ],
+  "minecraft:black_carpet": [
+    "minecraft:vibration_damper"
+  ],
+  "minecraft:black_wool": [
     "minecraft:vibration_damper",
     "minecraft:wool"
   ],
-  "minecraft:wooden_door": [
-    "minecraft:door"
+  "minecraft:blackstone": [
+    "minecraft:stone_crafting_materials",
+    "minecraft:stone_tool_materials"
   ],
-  "minecraft:oak_sign": [
-    "minecraft:sign"
+  "minecraft:blade_pottery_sherd": [
+    "minecraft:decorated_pot_sherds"
+  ],
+  "minecraft:blaze_spawn_egg": [
+    "minecraft:spawn_egg"
+  ],
+  "minecraft:blue_carpet": [
+    "minecraft:vibration_damper"
+  ],
+  "minecraft:blue_wool": [
+    "minecraft:vibration_damper",
+    "minecraft:wool"
+  ],
+  "minecraft:bogged_spawn_egg": [
+    "minecraft:spawn_egg"
   ],
   "minecraft:bolt_armor_trim_smithing_template": [
     "minecraft:trim_templates"
   ],
-  "minecraft:brown_mushroom": [
+  "minecraft:book": [
+    "minecraft:bookshelf_books"
   ],
-  "minecraft:cut_copper_stairs": [
+  "minecraft:bread": [
+    "minecraft:is_food"
   ],
-  "minecraft:blue_stained_glass_pane": [
+  "minecraft:breeze_spawn_egg": [
+    "minecraft:spawn_egg"
   ],
-  "minecraft:yellow_candle": [
+  "minecraft:brewer_pottery_sherd": [
+    "minecraft:decorated_pot_sherds"
   ],
-  "minecraft:shroomlight": [
+  "minecraft:brick": [
+    "minecraft:decorated_pot_sherds"
   ],
-  "minecraft:stripped_dark_oak_log": [
+  "minecraft:brown_carpet": [
+    "minecraft:vibration_damper"
+  ],
+  "minecraft:brown_wool": [
+    "minecraft:vibration_damper",
+    "minecraft:wool"
+  ],
+  "minecraft:burn_pottery_sherd": [
+    "minecraft:decorated_pot_sherds"
+  ],
+  "minecraft:camel_spawn_egg": [
+    "minecraft:spawn_egg"
+  ],
+  "minecraft:carrot": [
+    "minecraft:is_food"
+  ],
+  "minecraft:cat_spawn_egg": [
+    "minecraft:spawn_egg"
+  ],
+  "minecraft:cave_spider_spawn_egg": [
+    "minecraft:spawn_egg"
+  ],
+  "minecraft:chainmail_boots": [
+    "minecraft:chainmail_tier",
+    "minecraft:is_armor",
+    "minecraft:trimmable_armors"
+  ],
+  "minecraft:chainmail_chestplate": [
+    "minecraft:chainmail_tier",
+    "minecraft:is_armor",
+    "minecraft:trimmable_armors"
+  ],
+  "minecraft:chainmail_helmet": [
+    "minecraft:chainmail_tier",
+    "minecraft:is_armor",
+    "minecraft:trimmable_armors"
+  ],
+  "minecraft:chainmail_leggings": [
+    "minecraft:chainmail_tier",
+    "minecraft:is_armor",
+    "minecraft:trimmable_armors"
+  ],
+  "minecraft:charcoal": [
+    "minecraft:coals"
+  ],
+  "minecraft:cherry_boat": [
+    "minecraft:boat",
+    "minecraft:boats"
+  ],
+  "minecraft:cherry_chest_boat": [
+    "minecraft:boat",
+    "minecraft:boats"
+  ],
+  "minecraft:cherry_door": [
+    "minecraft:door"
+  ],
+  "minecraft:cherry_hanging_sign": [
+    "minecraft:hanging_sign",
+    "minecraft:sign"
+  ],
+  "minecraft:cherry_log": [
     "minecraft:logs",
     "minecraft:logs_that_burn"
+  ],
+  "minecraft:cherry_planks": [
+    "minecraft:planks"
+  ],
+  "minecraft:cherry_sign": [
+    "minecraft:sign"
+  ],
+  "minecraft:cherry_slab": [
+    "minecraft:wooden_slabs"
+  ],
+  "minecraft:cherry_wood": [
+    "minecraft:logs",
+    "minecraft:logs_that_burn"
+  ],
+  "minecraft:chest_minecart": [
+    "minecraft:is_minecart"
+  ],
+  "minecraft:chicken": [
+    "minecraft:is_food",
+    "minecraft:is_meat"
+  ],
+  "minecraft:chicken_spawn_egg": [
+    "minecraft:spawn_egg"
+  ],
+  "minecraft:chiseled_stone_bricks": [
+    "minecraft:stone_bricks"
+  ],
+  "minecraft:coal": [
+    "minecraft:coals"
+  ],
+  "minecraft:coast_armor_trim_smithing_template": [
+    "minecraft:trim_templates"
+  ],
+  "minecraft:cobbled_deepslate": [
+    "minecraft:stone_crafting_materials",
+    "minecraft:stone_tool_materials"
+  ],
+  "minecraft:cobblestone": [
+    "minecraft:stone_crafting_materials",
+    "minecraft:stone_tool_materials"
+  ],
+  "minecraft:cod": [
+    "minecraft:is_fish"
+  ],
+  "minecraft:cod_spawn_egg": [
+    "minecraft:spawn_egg"
+  ],
+  "minecraft:command_block_minecart": [
+    "minecraft:is_minecart"
+  ],
+  "minecraft:cooked_beef": [
+    "minecraft:is_cooked",
+    "minecraft:is_food",
+    "minecraft:is_meat"
+  ],
+  "minecraft:cooked_chicken": [
+    "minecraft:is_cooked",
+    "minecraft:is_food",
+    "minecraft:is_meat"
+  ],
+  "minecraft:cooked_cod": [
+    "minecraft:is_cooked",
+    "minecraft:is_fish"
+  ],
+  "minecraft:cooked_mutton": [
+    "minecraft:is_cooked",
+    "minecraft:is_food",
+    "minecraft:is_meat"
+  ],
+  "minecraft:cooked_porkchop": [
+    "minecraft:is_cooked",
+    "minecraft:is_food",
+    "minecraft:is_meat"
+  ],
+  "minecraft:cooked_rabbit": [
+    "minecraft:is_cooked",
+    "minecraft:is_food",
+    "minecraft:is_meat"
+  ],
+  "minecraft:cooked_salmon": [
+    "minecraft:is_cooked",
+    "minecraft:is_fish"
+  ],
+  "minecraft:cookie": [
+    "minecraft:is_food"
+  ],
+  "minecraft:copper_door": [
+    "minecraft:door"
+  ],
+  "minecraft:copper_ingot": [
+    "minecraft:trim_materials"
+  ],
+  "minecraft:cow_spawn_egg": [
+    "minecraft:spawn_egg"
+  ],
+  "minecraft:cracked_stone_bricks": [
+    "minecraft:stone_bricks"
+  ],
+  "minecraft:creaking_spawn_egg": [
+    "minecraft:spawn_egg"
+  ],
+  "minecraft:creeper_spawn_egg": [
+    "minecraft:spawn_egg"
+  ],
+  "minecraft:crimson_door": [
+    "minecraft:door"
+  ],
+  "minecraft:crimson_hanging_sign": [
+    "minecraft:hanging_sign",
+    "minecraft:sign"
   ],
   "minecraft:crimson_hyphae": [
     "minecraft:crimson_stems",
     "minecraft:logs"
   ],
-  "minecraft:black_terracotta": [
+  "minecraft:crimson_planks": [
+    "minecraft:planks"
   ],
-  "minecraft:red_concrete": [
+  "minecraft:crimson_sign": [
+    "minecraft:sign"
   ],
-  "minecraft:iron_boots": [
-    "minecraft:is_armor",
-    "minecraft:iron_tier",
-    "minecraft:trimmable_armors"
+  "minecraft:crimson_slab": [
+    "minecraft:wooden_slabs"
   ],
-  "minecraft:yellow_stained_glass": [
+  "minecraft:crimson_stem": [
+    "minecraft:crimson_stems",
+    "minecraft:logs"
   ],
-  "minecraft:polished_blackstone_stairs": [
+  "minecraft:cyan_carpet": [
+    "minecraft:vibration_damper"
   ],
-  "minecraft:tuff_wall": [
+  "minecraft:cyan_wool": [
+    "minecraft:vibration_damper",
+    "minecraft:wool"
   ],
-  "minecraft:birch_fence": [
+  "minecraft:danger_pottery_sherd": [
+    "minecraft:decorated_pot_sherds"
   ],
-  "minecraft:turtle_egg": [
+  "minecraft:dark_oak_boat": [
+    "minecraft:boat",
+    "minecraft:boats"
   ],
-  "minecraft:stone_brick_wall": [
+  "minecraft:dark_oak_chest_boat": [
+    "minecraft:boat",
+    "minecraft:boats"
   ],
-  "minecraft:cobbled_deepslate_stairs": [
-  ],
-  "minecraft:bone": [
-  ],
-  "minecraft:oxidized_copper_bulb": [
-  ],
-  "minecraft:waxed_oxidized_copper": [
-  ],
-  "minecraft:brown_terracotta": [
-  ],
-  "minecraft:blaze_rod": [
-  ],
-  "minecraft:waxed_weathered_copper_door": [
+  "minecraft:dark_oak_door": [
     "minecraft:door"
   ],
-  "minecraft:pink_terracotta": [
-  ],
-  "minecraft:carved_pumpkin": [
-  ],
-  "minecraft:blaze_spawn_egg": [
-    "minecraft:spawn_egg"
-  ],
-  "minecraft:oak_planks": [
-    "minecraft:planks"
+  "minecraft:dark_oak_hanging_sign": [
+    "minecraft:hanging_sign",
+    "minecraft:sign"
   ],
   "minecraft:dark_oak_log": [
     "minecraft:logs",
     "minecraft:logs_that_burn"
   ],
-  "minecraft:redstone_ore": [
-  ],
-  "minecraft:axolotl_bucket": [
-  ],
-  "minecraft:hopper": [
-  ],
-  "minecraft:birch_planks": [
+  "minecraft:dark_oak_planks": [
     "minecraft:planks"
   ],
-  "minecraft:sea_pickle": [
+  "minecraft:dark_oak_sign": [
+    "minecraft:sign"
   ],
-  "minecraft:lead": [
-  ],
-  "minecraft:piglin_brute_spawn_egg": [
-    "minecraft:spawn_egg"
-  ],
-  "minecraft:end_brick_stairs": [
-  ],
-  "minecraft:tube_coral_block": [
-  ],
-  "minecraft:waxed_exposed_copper_grate": [
-  ],
-  "minecraft:acacia_planks": [
-    "minecraft:planks"
-  ],
-  "minecraft:cherry_slab": [
+  "minecraft:dark_oak_slab": [
     "minecraft:wooden_slabs"
   ],
-  "minecraft:polished_tuff": [
-  ],
-  "minecraft:stripped_mangrove_log": [
+  "minecraft:dark_oak_wood": [
     "minecraft:logs",
-    "minecraft:logs_that_burn",
-    "minecraft:mangrove_logs"
+    "minecraft:logs_that_burn"
   ],
-  "minecraft:fence_gate": [
+  "minecraft:diamond": [
+    "minecraft:trim_materials"
   ],
-  "minecraft:rotten_flesh": [
-    "minecraft:is_food",
-    "minecraft:is_meat"
+  "minecraft:diamond_axe": [
+    "minecraft:diamond_tier",
+    "minecraft:digger",
+    "minecraft:is_axe",
+    "minecraft:is_tool",
+    "minecraft:transformable_items"
+  ],
+  "minecraft:diamond_boots": [
+    "minecraft:diamond_tier",
+    "minecraft:is_armor",
+    "minecraft:transformable_items",
+    "minecraft:trimmable_armors"
+  ],
+  "minecraft:diamond_chestplate": [
+    "minecraft:diamond_tier",
+    "minecraft:is_armor",
+    "minecraft:transformable_items",
+    "minecraft:trimmable_armors"
+  ],
+  "minecraft:diamond_helmet": [
+    "minecraft:diamond_tier",
+    "minecraft:is_armor",
+    "minecraft:transformable_items",
+    "minecraft:trimmable_armors"
+  ],
+  "minecraft:diamond_hoe": [
+    "minecraft:diamond_tier",
+    "minecraft:digger",
+    "minecraft:is_hoe",
+    "minecraft:is_tool",
+    "minecraft:transformable_items"
+  ],
+  "minecraft:diamond_horse_armor": [
+    "minecraft:horse_armor"
+  ],
+  "minecraft:diamond_leggings": [
+    "minecraft:diamond_tier",
+    "minecraft:is_armor",
+    "minecraft:transformable_items",
+    "minecraft:trimmable_armors"
+  ],
+  "minecraft:diamond_pickaxe": [
+    "minecraft:diamond_tier",
+    "minecraft:digger",
+    "minecraft:is_pickaxe",
+    "minecraft:is_tool",
+    "minecraft:transformable_items"
+  ],
+  "minecraft:diamond_shovel": [
+    "minecraft:diamond_tier",
+    "minecraft:digger",
+    "minecraft:is_shovel",
+    "minecraft:is_tool",
+    "minecraft:transformable_items"
+  ],
+  "minecraft:diamond_sword": [
+    "minecraft:diamond_tier",
+    "minecraft:is_sword",
+    "minecraft:is_tool",
+    "minecraft:transformable_items"
+  ],
+  "minecraft:dolphin_spawn_egg": [
+    "minecraft:spawn_egg"
+  ],
+  "minecraft:donkey_spawn_egg": [
+    "minecraft:spawn_egg"
+  ],
+  "minecraft:dried_kelp": [
+    "minecraft:is_food"
+  ],
+  "minecraft:drowned_spawn_egg": [
+    "minecraft:spawn_egg"
+  ],
+  "minecraft:dune_armor_trim_smithing_template": [
+    "minecraft:trim_templates"
+  ],
+  "minecraft:elder_guardian_spawn_egg": [
+    "minecraft:spawn_egg"
+  ],
+  "minecraft:elytra": [
+    "minecraft:is_armor"
+  ],
+  "minecraft:emerald": [
+    "minecraft:trim_materials"
+  ],
+  "minecraft:enchanted_book": [
+    "minecraft:bookshelf_books"
+  ],
+  "minecraft:enchanted_golden_apple": [
+    "minecraft:is_food"
+  ],
+  "minecraft:ender_dragon_spawn_egg": [
+    "minecraft:spawn_egg"
+  ],
+  "minecraft:enderman_spawn_egg": [
+    "minecraft:spawn_egg"
+  ],
+  "minecraft:endermite_spawn_egg": [
+    "minecraft:spawn_egg"
+  ],
+  "minecraft:evoker_spawn_egg": [
+    "minecraft:spawn_egg"
+  ],
+  "minecraft:explorer_pottery_sherd": [
+    "minecraft:decorated_pot_sherds"
+  ],
+  "minecraft:exposed_copper_door": [
+    "minecraft:door"
   ],
   "minecraft:eye_armor_trim_smithing_template": [
     "minecraft:trim_templates"
   ],
-  "minecraft:blackstone_slab": [
+  "minecraft:flow_armor_trim_smithing_template": [
+    "minecraft:trim_templates"
+  ],
+  "minecraft:flow_pottery_sherd": [
+    "minecraft:decorated_pot_sherds"
+  ],
+  "minecraft:fox_spawn_egg": [
+    "minecraft:spawn_egg"
+  ],
+  "minecraft:friend_pottery_sherd": [
+    "minecraft:decorated_pot_sherds"
+  ],
+  "minecraft:frog_spawn_egg": [
+    "minecraft:spawn_egg"
+  ],
+  "minecraft:ghast_spawn_egg": [
+    "minecraft:spawn_egg"
+  ],
+  "minecraft:glow_squid_spawn_egg": [
+    "minecraft:spawn_egg"
+  ],
+  "minecraft:goat_spawn_egg": [
+    "minecraft:spawn_egg"
+  ],
+  "minecraft:gold_ingot": [
+    "minecraft:trim_materials"
+  ],
+  "minecraft:golden_apple": [
+    "minecraft:is_food"
+  ],
+  "minecraft:golden_axe": [
+    "minecraft:digger",
+    "minecraft:golden_tier",
+    "minecraft:is_axe",
+    "minecraft:is_tool"
+  ],
+  "minecraft:golden_boots": [
+    "minecraft:golden_tier",
+    "minecraft:is_armor",
+    "minecraft:transformable_items",
+    "minecraft:trimmable_armors"
+  ],
+  "minecraft:golden_carrot": [
+    "minecraft:is_food"
+  ],
+  "minecraft:golden_chestplate": [
+    "minecraft:golden_tier",
+    "minecraft:is_armor",
+    "minecraft:trimmable_armors"
+  ],
+  "minecraft:golden_helmet": [
+    "minecraft:golden_tier",
+    "minecraft:is_armor",
+    "minecraft:trimmable_armors"
+  ],
+  "minecraft:golden_hoe": [
+    "minecraft:digger",
+    "minecraft:golden_tier",
+    "minecraft:is_hoe",
+    "minecraft:is_tool"
+  ],
+  "minecraft:golden_horse_armor": [
+    "minecraft:horse_armor"
+  ],
+  "minecraft:golden_leggings": [
+    "minecraft:golden_tier",
+    "minecraft:is_armor",
+    "minecraft:trimmable_armors"
   ],
   "minecraft:golden_pickaxe": [
     "minecraft:digger",
+    "minecraft:golden_tier",
     "minecraft:is_pickaxe",
-    "minecraft:is_tool",
-    "minecraft:golden_tier"
+    "minecraft:is_tool"
   ],
-  "minecraft:light_gray_stained_glass_pane": [
+  "minecraft:golden_shovel": [
+    "minecraft:digger",
+    "minecraft:golden_tier",
+    "minecraft:is_shovel",
+    "minecraft:is_tool"
   ],
-  "minecraft:chest": [
+  "minecraft:golden_sword": [
+    "minecraft:golden_tier",
+    "minecraft:is_sword",
+    "minecraft:is_tool"
   ],
-  "minecraft:light_blue_dye": [
+  "minecraft:gray_carpet": [
+    "minecraft:vibration_damper"
   ],
-  "minecraft:cooked_porkchop": [
-    "minecraft:is_food",
-    "minecraft:is_meat",
-    "minecraft:is_cooked"
+  "minecraft:gray_wool": [
+    "minecraft:vibration_damper",
+    "minecraft:wool"
   ],
-  "minecraft:stone_stairs": [
+  "minecraft:green_carpet": [
+    "minecraft:vibration_damper"
   ],
-  "minecraft:beacon": [
+  "minecraft:green_wool": [
+    "minecraft:vibration_damper",
+    "minecraft:wool"
   ],
-  "minecraft:polished_blackstone_brick_wall": [
+  "minecraft:guardian_spawn_egg": [
+    "minecraft:spawn_egg"
   ],
-  "minecraft:sandstone_wall": [
+  "minecraft:guster_pottery_sherd": [
+    "minecraft:decorated_pot_sherds"
   ],
-  "minecraft:slime": [
+  "minecraft:heart_pottery_sherd": [
+    "minecraft:decorated_pot_sherds"
   ],
-  "minecraft:furnace": [
-  ],
-  "minecraft:warped_slab": [
-    "minecraft:wooden_slabs"
-  ],
-  "minecraft:trapdoor": [
-  ],
-  "minecraft:orange_dye": [
-  ],
-  "minecraft:pearlescent_froglight": [
-  ],
-  "minecraft:pink_tulip": [
-  ],
-  "minecraft:budding_amethyst": [
-  ],
-  "minecraft:detector_rail": [
-  ],
-  "minecraft:gravel": [
+  "minecraft:heartbreak_pottery_sherd": [
+    "minecraft:decorated_pot_sherds"
   ],
   "minecraft:hoglin_spawn_egg": [
     "minecraft:spawn_egg"
   ],
-  "minecraft:light_blue_concrete_powder": [
+  "minecraft:hopper_minecart": [
+    "minecraft:is_minecart"
+  ],
+  "minecraft:horse_spawn_egg": [
+    "minecraft:spawn_egg"
+  ],
+  "minecraft:host_armor_trim_smithing_template": [
+    "minecraft:trim_templates"
+  ],
+  "minecraft:howl_pottery_sherd": [
+    "minecraft:decorated_pot_sherds"
+  ],
+  "minecraft:husk_spawn_egg": [
+    "minecraft:spawn_egg"
+  ],
+  "minecraft:iron_axe": [
+    "minecraft:digger",
+    "minecraft:iron_tier",
+    "minecraft:is_axe",
+    "minecraft:is_tool"
+  ],
+  "minecraft:iron_boots": [
+    "minecraft:iron_tier",
+    "minecraft:is_armor",
+    "minecraft:trimmable_armors"
+  ],
+  "minecraft:iron_chestplate": [
+    "minecraft:iron_tier",
+    "minecraft:is_armor",
+    "minecraft:trimmable_armors"
+  ],
+  "minecraft:iron_door": [
+    "minecraft:door"
+  ],
+  "minecraft:iron_golem_spawn_egg": [
+    "minecraft:spawn_egg"
+  ],
+  "minecraft:iron_helmet": [
+    "minecraft:iron_tier",
+    "minecraft:is_armor",
+    "minecraft:trimmable_armors"
+  ],
+  "minecraft:iron_hoe": [
+    "minecraft:digger",
+    "minecraft:iron_tier",
+    "minecraft:is_hoe",
+    "minecraft:is_tool"
+  ],
+  "minecraft:iron_horse_armor": [
+    "minecraft:horse_armor"
+  ],
+  "minecraft:iron_ingot": [
+    "minecraft:trim_materials"
+  ],
+  "minecraft:iron_leggings": [
+    "minecraft:iron_tier",
+    "minecraft:is_armor",
+    "minecraft:trimmable_armors"
+  ],
+  "minecraft:iron_pickaxe": [
+    "minecraft:digger",
+    "minecraft:iron_tier",
+    "minecraft:is_pickaxe",
+    "minecraft:is_tool"
+  ],
+  "minecraft:iron_shovel": [
+    "minecraft:digger",
+    "minecraft:iron_tier",
+    "minecraft:is_shovel",
+    "minecraft:is_tool"
+  ],
+  "minecraft:iron_sword": [
+    "minecraft:iron_tier",
+    "minecraft:is_sword",
+    "minecraft:is_tool"
+  ],
+  "minecraft:jungle_boat": [
+    "minecraft:boat",
+    "minecraft:boats"
+  ],
+  "minecraft:jungle_chest_boat": [
+    "minecraft:boat",
+    "minecraft:boats"
+  ],
+  "minecraft:jungle_door": [
+    "minecraft:door"
+  ],
+  "minecraft:jungle_hanging_sign": [
+    "minecraft:hanging_sign",
+    "minecraft:sign"
+  ],
+  "minecraft:jungle_log": [
+    "minecraft:logs",
+    "minecraft:logs_that_burn"
   ],
   "minecraft:jungle_planks": [
     "minecraft:planks"
@@ -265,2713 +745,19 @@
   "minecraft:jungle_sign": [
     "minecraft:sign"
   ],
-  "minecraft:glistering_melon_slice": [
-  ],
-  "minecraft:carrot": [
-    "minecraft:is_food"
-  ],
-  "minecraft:wind_charge": [
-  ],
-  "minecraft:trial_spawner": [
-  ],
-  "minecraft:stripped_jungle_wood": [
-    "minecraft:logs",
-    "minecraft:logs_that_burn"
-  ],
-  "minecraft:iron_nugget": [
-  ],
-  "minecraft:bone_block": [
-  ],
-  "minecraft:warped_hanging_sign": [
-    "minecraft:sign",
-    "minecraft:hanging_sign"
-  ],
-  "minecraft:normal_stone_stairs": [
-  ],
-  "minecraft:light_blue_stained_glass": [
-  ],
-  "minecraft:fern": [
-  ],
-  "minecraft:packed_mud": [
-  ],
-  "minecraft:polished_granite": [
-  ],
-  "minecraft:iron_bars": [
-  ],
-  "minecraft:oxidized_cut_copper": [
-  ],
-  "minecraft:cut_copper_slab": [
-  ],
-  "minecraft:witch_spawn_egg": [
-    "minecraft:spawn_egg"
-  ],
-  "minecraft:prismarine_wall": [
-  ],
-  "minecraft:jungle_fence": [
-  ],
-  "minecraft:netherrack": [
-  ],
-  "minecraft:wither_skeleton_skull": [
-  ],
-  "minecraft:warped_stem": [
-    "minecraft:warped_stems",
-    "minecraft:logs"
-  ],
-  "minecraft:pale_oak_stairs": [
-  ],
-  "minecraft:warped_planks": [
-    "minecraft:planks"
-  ],
-  "minecraft:glass_bottle": [
-  ],
-  "minecraft:small_dripleaf_block": [
-  ],
-  "minecraft:warped_roots": [
-  ],
-  "minecraft:magenta_wool": [
-    "minecraft:vibration_damper",
-    "minecraft:wool"
-  ],
-  "minecraft:wolf_spawn_egg": [
-    "minecraft:spawn_egg"
-  ],
-  "minecraft:cyan_stained_glass_pane": [
-  ],
-  "minecraft:rabbit_spawn_egg": [
-    "minecraft:spawn_egg"
-  ],
-  "minecraft:horn_coral": [
-  ],
-  "minecraft:white_concrete_powder": [
-  ],
-  "minecraft:cherry_planks": [
-    "minecraft:planks"
-  ],
-  "minecraft:granite_slab": [
-  ],
-  "minecraft:stripped_pale_oak_log": [
-    "minecraft:logs",
-    "minecraft:logs_that_burn"
-  ],
-  "minecraft:cherry_fence": [
-  ],
-  "minecraft:infested_chiseled_stone_bricks": [
-  ],
-  "minecraft:stray_spawn_egg": [
-    "minecraft:spawn_egg"
-  ],
-  "minecraft:granite_stairs": [
-  ],
-  "minecraft:mangrove_planks": [
-    "minecraft:planks"
-  ],
-  "minecraft:purpur_stairs": [
-  ],
-  "minecraft:dragon_egg": [
-  ],
-  "minecraft:blue_bundle": [
-  ],
-  "minecraft:light_block_9": [
-  ],
-  "minecraft:beehive": [
-  ],
-  "minecraft:oxidized_cut_copper_slab": [
-  ],
-  "minecraft:water_bucket": [
-  ],
-  "minecraft:polished_granite_slab": [
-  ],
-  "minecraft:lapis_ore": [
-  ],
-  "minecraft:pig_spawn_egg": [
-    "minecraft:spawn_egg"
-  ],
-  "minecraft:pale_oak_planks": [
-    "minecraft:planks"
-  ],
-  "minecraft:birch_wood": [
-    "minecraft:logs",
-    "minecraft:logs_that_burn"
-  ],
-  "minecraft:oak_chest_boat": [
-    "minecraft:boat",
-    "minecraft:boats"
-  ],
-  "minecraft:mossy_stone_brick_slab": [
-  ],
-  "minecraft:brick_slab": [
-  ],
-  "minecraft:mushroom_stem": [
-  ],
-  "minecraft:end_stone_brick_wall": [
-  ],
-  "minecraft:spruce_trapdoor": [
-  ],
-  "minecraft:purple_glazed_terracotta": [
-  ],
-  "minecraft:music_disc_11": [
-    "minecraft:music_disc"
-  ],
-  "minecraft:iron_block": [
-  ],
-  "minecraft:quartz_bricks": [
-  ],
-  "minecraft:mangrove_log": [
-    "minecraft:logs",
-    "minecraft:logs_that_burn",
-    "minecraft:mangrove_logs"
-  ],
-  "minecraft:purple_concrete_powder": [
-  ],
-  "minecraft:bamboo_planks": [
-    "minecraft:planks"
-  ],
-  "minecraft:iron_trapdoor": [
-  ],
-  "minecraft:bamboo_mosaic": [
-  ],
-  "minecraft:birch_button": [
-  ],
-  "minecraft:crimson_planks": [
-    "minecraft:planks"
-  ],
-  "minecraft:spruce_button": [
-  ],
-  "minecraft:phantom_membrane": [
-  ],
-  "minecraft:fox_spawn_egg": [
-    "minecraft:spawn_egg"
-  ],
-  "minecraft:bamboo_raft": [
-    "minecraft:boat",
-    "minecraft:boats"
-  ],
-  "minecraft:glow_squid_spawn_egg": [
-    "minecraft:spawn_egg"
-  ],
-  "minecraft:ender_dragon_spawn_egg": [
-    "minecraft:spawn_egg"
-  ],
-  "minecraft:red_dye": [
-  ],
-  "minecraft:orange_stained_glass": [
-  ],
-  "minecraft:crimson_trapdoor": [
-  ],
-  "minecraft:blue_shulker_box": [
-  ],
-  "minecraft:birch_boat": [
-    "minecraft:boat",
-    "minecraft:boats"
-  ],
-  "minecraft:white_terracotta": [
-  ],
-  "minecraft:exposed_copper": [
-  ],
-  "minecraft:crossbow": [
-  ],
-  "minecraft:raiser_armor_trim_smithing_template": [
-    "minecraft:trim_templates"
-  ],
-  "minecraft:orange_carpet": [
-    "minecraft:vibration_damper"
-  ],
-  "minecraft:dead_bubble_coral_fan": [
-  ],
-  "minecraft:book": [
-    "minecraft:bookshelf_books"
-  ],
-  "minecraft:polished_blackstone_brick_stairs": [
-  ],
-  "minecraft:mossy_cobblestone_wall": [
-  ],
-  "minecraft:azure_bluet": [
-  ],
-  "minecraft:torch": [
-  ],
-  "minecraft:redstone_block": [
-  ],
-  "minecraft:polished_blackstone_wall": [
-  ],
-  "minecraft:golden_apple": [
-    "minecraft:is_food"
-  ],
-  "minecraft:granite_wall": [
-  ],
-  "minecraft:bed": [
-  ],
-  "minecraft:mud": [
-  ],
-  "minecraft:blue_dye": [
-  ],
-  "minecraft:deepslate_brick_slab": [
-  ],
-  "minecraft:light_weighted_pressure_plate": [
-  ],
-  "minecraft:golden_carrot": [
-    "minecraft:is_food"
-  ],
-  "minecraft:netherite_hoe": [
-    "minecraft:digger",
-    "minecraft:is_hoe",
-    "minecraft:is_tool",
-    "minecraft:netherite_tier"
-  ],
-  "minecraft:blackstone_wall": [
-  ],
-  "minecraft:weathered_cut_copper": [
-  ],
-  "minecraft:music_disc_mellohi": [
-    "minecraft:music_disc"
-  ],
-  "minecraft:diamond_boots": [
-    "minecraft:is_armor",
-    "minecraft:diamond_tier",
-    "minecraft:transformable_items",
-    "minecraft:trimmable_armors"
-  ],
-  "minecraft:mangrove_boat": [
-    "minecraft:boat",
-    "minecraft:boats"
-  ],
-  "minecraft:tube_coral_fan": [
-  ],
-  "minecraft:tuff": [
-  ],
-  "minecraft:diorite_wall": [
-  ],
-  "minecraft:light_block_13": [
-  ],
-  "minecraft:acacia_hanging_sign": [
-    "minecraft:sign",
-    "minecraft:hanging_sign"
-  ],
-  "minecraft:piglin_banner_pattern": [
-  ],
-  "minecraft:iron_golem_spawn_egg": [
-    "minecraft:spawn_egg"
-  ],
-  "minecraft:bamboo_mosaic_slab": [
-  ],
-  "minecraft:bamboo_fence": [
-  ],
-  "minecraft:dark_prismarine_slab": [
-  ],
-  "minecraft:prismarine_bricks_stairs": [
-  ],
-  "minecraft:mushroom_stew": [
-    "minecraft:is_food"
-  ],
-  "minecraft:grass_block": [
-  ],
-  "minecraft:andesite_wall": [
-  ],
-  "minecraft:cobbled_deepslate_slab": [
-  ],
-  "minecraft:emerald": [
-    "minecraft:trim_materials"
-  ],
-  "minecraft:stone_hoe": [
-    "minecraft:digger",
-    "minecraft:is_hoe",
-    "minecraft:is_tool",
-    "minecraft:stone_tier"
-  ],
-  "minecraft:beef": [
-    "minecraft:is_food",
-    "minecraft:is_meat"
-  ],
-  "minecraft:light_gray_terracotta": [
-  ],
-  "minecraft:burn_pottery_sherd": [
-    "minecraft:decorated_pot_sherds"
-  ],
-  "minecraft:ravager_spawn_egg": [
-    "minecraft:spawn_egg"
-  ],
-  "minecraft:beetroot_seeds": [
-  ],
-  "minecraft:noteblock": [
-  ],
-  "minecraft:dead_tube_coral_block": [
-  ],
-  "minecraft:weathered_copper_grate": [
-  ],
-  "minecraft:weathered_copper_trapdoor": [
-  ],
-  "minecraft:red_terracotta": [
-  ],
-  "minecraft:mangrove_fence": [
-  ],
-  "minecraft:wooden_shovel": [
-    "minecraft:digger",
-    "minecraft:is_shovel",
-    "minecraft:is_tool",
-    "minecraft:wooden_tier"
-  ],
-  "minecraft:dark_oak_trapdoor": [
-  ],
-  "minecraft:cobbled_deepslate_wall": [
-  ],
-  "minecraft:pointed_dripstone": [
-  ],
-  "minecraft:poisonous_potato": [
-  ],
-  "minecraft:prismarine_slab": [
-  ],
-  "minecraft:brown_bundle": [
-  ],
-  "minecraft:skeleton_horse_spawn_egg": [
-    "minecraft:spawn_egg"
-  ],
-  "minecraft:light_blue_wool": [
-    "minecraft:vibration_damper",
-    "minecraft:wool"
-  ],
-  "minecraft:clay_ball": [
-  ],
-  "minecraft:black_concrete": [
-  ],
-  "minecraft:waxed_oxidized_copper_trapdoor": [
-  ],
-  "minecraft:music_disc_mall": [
-    "minecraft:music_disc"
-  ],
-  "minecraft:red_sandstone_wall": [
-  ],
-  "minecraft:breeze_rod": [
-  ],
-  "minecraft:mud_brick_wall": [
-  ],
-  "minecraft:copper_trapdoor": [
-  ],
-  "minecraft:glow_lichen": [
-  ],
-  "minecraft:red_candle": [
-  ],
-  "minecraft:exposed_cut_copper": [
-  ],
-  "minecraft:music_disc_relic": [
-    "minecraft:music_disc"
-  ],
-  "minecraft:andesite_stairs": [
-  ],
-  "minecraft:mossy_stone_brick_wall": [
-  ],
-  "minecraft:snowball": [
-  ],
-  "minecraft:cracked_stone_bricks": [
-    "minecraft:stone_bricks"
-  ],
-  "minecraft:white_dye": [
-  ],
-  "minecraft:creeper_banner_pattern": [
-  ],
-  "minecraft:polished_deepslate": [
-  ],
-  "minecraft:infested_cracked_stone_bricks": [
-  ],
-  "minecraft:light_blue_terracotta": [
-  ],
-  "minecraft:light_blue_glazed_terracotta": [
-  ],
-  "minecraft:nether_wart_block": [
-  ],
-  "minecraft:acacia_door": [
-    "minecraft:door"
-  ],
-  "minecraft:deepslate_emerald_ore": [
-  ],
-  "minecraft:stripped_crimson_stem": [
-    "minecraft:crimson_stems",
-    "minecraft:logs"
-  ],
-  "minecraft:jungle_fence_gate": [
-  ],
-  "minecraft:cooked_chicken": [
-    "minecraft:is_food",
-    "minecraft:is_meat",
-    "minecraft:is_cooked"
-  ],
-  "minecraft:brown_shulker_box": [
-  ],
-  "minecraft:skeleton_skull": [
-  ],
-  "minecraft:pink_shulker_box": [
-  ],
-  "minecraft:soul_sand": [
-    "minecraft:soul_fire_base_blocks"
-  ],
-  "minecraft:brick_wall": [
-  ],
-  "minecraft:sugar": [
-  ],
-  "minecraft:waxed_copper_grate": [
-  ],
-  "minecraft:dead_brain_coral": [
-  ],
-  "minecraft:deepslate_redstone_ore": [
-  ],
-  "minecraft:ghast_spawn_egg": [
-    "minecraft:spawn_egg"
-  ],
-  "minecraft:dark_oak_fence_gate": [
-  ],
-  "minecraft:pale_hanging_moss": [
-  ],
-  "minecraft:deepslate_diamond_ore": [
-  ],
-  "minecraft:white_candle": [
-  ],
-  "minecraft:polished_deepslate_wall": [
-  ],
-  "minecraft:nether_brick_wall": [
-  ],
-  "minecraft:yellow_dye": [
-  ],
-  "minecraft:wooden_button": [
-  ],
-  "minecraft:wooden_axe": [
-    "minecraft:digger",
-    "minecraft:is_axe",
-    "minecraft:is_tool",
-    "minecraft:wooden_tier"
-  ],
-  "minecraft:cyan_candle": [
-  ],
-  "minecraft:red_nether_brick_wall": [
-  ],
-  "minecraft:guster_pottery_sherd": [
-    "minecraft:decorated_pot_sherds"
-  ],
-  "minecraft:music_disc_otherside": [
-    "minecraft:music_disc"
-  ],
-  "minecraft:leather_boots": [
-    "minecraft:is_armor",
-    "minecraft:leather_tier",
-    "minecraft:trimmable_armors"
-  ],
-  "minecraft:spider_spawn_egg": [
-    "minecraft:spawn_egg"
-  ],
-  "minecraft:lectern": [
-  ],
-  "minecraft:prismarine_bricks": [
-  ],
-  "minecraft:green_stained_glass": [
-  ],
-  "minecraft:cocoa_beans": [
-  ],
-  "minecraft:music_disc_wait": [
-    "minecraft:music_disc"
-  ],
-  "minecraft:deepslate_tile_wall": [
-  ],
-  "minecraft:bamboo_fence_gate": [
-  ],
-  "minecraft:purple_concrete": [
-  ],
-  "minecraft:wooden_hoe": [
-    "minecraft:digger",
-    "minecraft:is_hoe",
-    "minecraft:is_tool",
-    "minecraft:wooden_tier"
-  ],
-  "minecraft:endermite_spawn_egg": [
-    "minecraft:spawn_egg"
-  ],
-  "minecraft:pale_oak_trapdoor": [
-  ],
-  "minecraft:magenta_shulker_box": [
-  ],
-  "minecraft:creaking_spawn_egg": [
-    "minecraft:spawn_egg"
-  ],
-  "minecraft:blue_stained_glass": [
-  ],
-  "minecraft:mossy_cobblestone": [
-  ],
-  "minecraft:cake": [
-  ],
-  "minecraft:host_armor_trim_smithing_template": [
-    "minecraft:trim_templates"
-  ],
-  "minecraft:birch_trapdoor": [
-  ],
-  "minecraft:stripped_spruce_wood": [
-    "minecraft:logs",
-    "minecraft:logs_that_burn"
-  ],
-  "minecraft:cauldron": [
-  ],
-  "minecraft:deepslate_brick_wall": [
-  ],
-  "minecraft:name_tag": [
-  ],
-  "minecraft:fishing_rod": [
-  ],
-  "minecraft:arms_up_pottery_sherd": [
-    "minecraft:decorated_pot_sherds"
-  ],
-  "minecraft:dark_oak_fence": [
-  ],
-  "minecraft:iron_ore": [
-  ],
-  "minecraft:red_nether_brick_slab": [
-  ],
-  "minecraft:dark_oak_wood": [
-    "minecraft:logs",
-    "minecraft:logs_that_burn"
-  ],
-  "minecraft:tuff_brick_wall": [
-  ],
-  "minecraft:weathered_copper_door": [
-    "minecraft:door"
-  ],
-  "minecraft:music_disc_blocks": [
-    "minecraft:music_disc"
-  ],
-  "minecraft:crafting_table": [
-  ],
-  "minecraft:red_glazed_terracotta": [
-  ],
-  "minecraft:egg": [
-  ],
-  "minecraft:arrow": [
-    "minecraft:arrow"
-  ],
-  "minecraft:diorite_stairs": [
-  ],
-  "minecraft:birch_hanging_sign": [
-    "minecraft:sign",
-    "minecraft:hanging_sign"
-  ],
-  "minecraft:purple_dye": [
-  ],
-  "minecraft:polished_tuff_wall": [
-  ],
-  "minecraft:large_amethyst_bud": [
-  ],
-  "minecraft:cherry_fence_gate": [
-  ],
-  "minecraft:beetroot_soup": [
-    "minecraft:is_food"
-  ],
-  "minecraft:oxidized_copper_grate": [
-  ],
-  "minecraft:jungle_log": [
-    "minecraft:logs",
-    "minecraft:logs_that_burn"
-  ],
-  "minecraft:black_glazed_terracotta": [
-  ],
-  "minecraft:rabbit_stew": [
-    "minecraft:is_food",
-    "minecraft:is_meat",
-    "minecraft:is_cooked"
-  ],
-  "minecraft:cherry_chest_boat": [
-    "minecraft:boat",
-    "minecraft:boats"
-  ],
-  "minecraft:crimson_slab": [
-    "minecraft:wooden_slabs"
-  ],
-  "minecraft:exposed_cut_copper_stairs": [
-  ],
-  "minecraft:brush": [
-  ],
-  "minecraft:smooth_sandstone_slab": [
-  ],
-  "minecraft:dark_oak_door": [
-    "minecraft:door"
-  ],
-  "minecraft:gray_carpet": [
-    "minecraft:vibration_damper"
-  ],
-  "minecraft:wheat": [
-  ],
-  "minecraft:grindstone": [
-  ],
-  "minecraft:oak_fence": [
-  ],
-  "minecraft:polished_tuff_stairs": [
-  ],
-  "minecraft:light_blue_concrete": [
-  ],
-  "minecraft:mangrove_fence_gate": [
-  ],
-  "minecraft:spruce_fence": [
-  ],
-  "minecraft:magma_cream": [
-  ],
-  "minecraft:elder_guardian_spawn_egg": [
-    "minecraft:spawn_egg"
-  ],
-  "minecraft:light_blue_stained_glass_pane": [
-  ],
-  "minecraft:birch_log": [
-    "minecraft:logs",
-    "minecraft:logs_that_burn"
-  ],
-  "minecraft:cobbled_deepslate": [
-    "minecraft:stone_crafting_materials",
-    "minecraft:stone_tool_materials"
-  ],
-  "minecraft:snout_armor_trim_smithing_template": [
-    "minecraft:trim_templates"
-  ],
-  "minecraft:chainmail_leggings": [
-    "minecraft:is_armor",
-    "minecraft:chainmail_tier",
-    "minecraft:trimmable_armors"
-  ],
-  "minecraft:saddle": [
-  ],
-  "minecraft:raw_gold_block": [
-  ],
-  "minecraft:white_stained_glass": [
-  ],
-  "minecraft:copper_ore": [
-  ],
-  "minecraft:tnt_minecart": [
-    "minecraft:is_minecart"
-  ],
-  "minecraft:warped_fungus": [
-  ],
-  "minecraft:green_stained_glass_pane": [
-  ],
-  "minecraft:end_stone_brick_slab": [
-  ],
-  "minecraft:golden_leggings": [
-    "minecraft:is_armor",
-    "minecraft:golden_tier",
-    "minecraft:trimmable_armors"
-  ],
-  "minecraft:gray_stained_glass_pane": [
-  ],
-  "minecraft:acacia_fence": [
-  ],
-  "minecraft:writable_book": [
-    "minecraft:lectern_books",
-    "minecraft:bookshelf_books"
-  ],
-  "minecraft:waxed_exposed_cut_copper": [
-  ],
-  "minecraft:ladder": [
-  ],
-  "minecraft:chiseled_stone_bricks": [
-    "minecraft:stone_bricks"
-  ],
-  "minecraft:iron_chestplate": [
-    "minecraft:is_armor",
-    "minecraft:iron_tier",
-    "minecraft:trimmable_armors"
-  ],
-  "minecraft:diamond_helmet": [
-    "minecraft:is_armor",
-    "minecraft:diamond_tier",
-    "minecraft:transformable_items",
-    "minecraft:trimmable_armors"
-  ],
-  "minecraft:waxed_oxidized_cut_copper_slab": [
-  ],
-  "minecraft:netherite_block": [
-  ],
-  "minecraft:cod_spawn_egg": [
-    "minecraft:spawn_egg"
-  ],
-  "minecraft:pale_oak_fence": [
-  ],
-  "minecraft:spruce_leaves": [
-  ],
-  "minecraft:dirt_with_roots": [
-  ],
-  "minecraft:stripped_cherry_log": [
-    "minecraft:logs",
-    "minecraft:logs_that_burn"
-  ],
-  "minecraft:composter": [
-  ],
-  "minecraft:warped_stairs": [
-  ],
-  "minecraft:exposed_cut_copper_slab": [
-  ],
-  "minecraft:echo_shard": [
-  ],
-  "minecraft:spruce_fence_gate": [
-  ],
-  "minecraft:baked_potato": [
-    "minecraft:is_food"
-  ],
-  "minecraft:purple_bundle": [
-  ],
-  "minecraft:crimson_door": [
-    "minecraft:door"
-  ],
-  "minecraft:deny": [
-  ],
-  "minecraft:smooth_red_sandstone_stairs": [
-  ],
-  "minecraft:crimson_fence": [
-  ],
-  "minecraft:red_nether_brick_stairs": [
-  ],
-  "minecraft:sniffer_egg": [
-  ],
-  "minecraft:warped_fence": [
-  ],
-  "minecraft:stripped_jungle_log": [
-    "minecraft:logs",
-    "minecraft:logs_that_burn"
-  ],
-  "minecraft:pale_oak_fence_gate": [
-  ],
-  "minecraft:deepslate_copper_ore": [
-  ],
-  "minecraft:stone_brick_stairs": [
-  ],
-  "minecraft:tuff_stairs": [
-  ],
-  "minecraft:sugar_cane": [
-  ],
-  "minecraft:crimson_fence_gate": [
-  ],
-  "minecraft:purple_candle": [
-  ],
-  "minecraft:normal_stone_slab": [
-  ],
-  "minecraft:mace": [
-    "minecraft:is_sword",
-    "minecraft:is_tool",
-    "minecraft:diamond_tier"
-  ],
-  "minecraft:golden_axe": [
-    "minecraft:digger",
-    "minecraft:is_axe",
-    "minecraft:is_tool",
-    "minecraft:golden_tier"
-  ],
-  "minecraft:cherry_leaves": [
-  ],
-  "minecraft:pale_oak_boat": [
-    "minecraft:boat",
-    "minecraft:boats"
-  ],
-  "minecraft:basalt": [
-  ],
-  "minecraft:warped_fence_gate": [
-  ],
-  "minecraft:oxidized_copper_trapdoor": [
-  ],
-  "minecraft:light_gray_stained_glass": [
-  ],
-  "minecraft:red_stained_glass": [
-  ],
-  "minecraft:purple_shulker_box": [
-  ],
-  "minecraft:chorus_flower": [
-  ],
-  "minecraft:sentry_armor_trim_smithing_template": [
-    "minecraft:trim_templates"
-  ],
-  "minecraft:cherry_sign": [
-    "minecraft:sign"
-  ],
-  "minecraft:enchanted_golden_apple": [
-    "minecraft:is_food"
-  ],
-  "minecraft:mossy_cobblestone_stairs": [
-  ],
-  "minecraft:oak_stairs": [
-  ],
-  "minecraft:jungle_door": [
-    "minecraft:door"
-  ],
-  "minecraft:diorite": [
-  ],
-  "minecraft:coarse_dirt": [
-  ],
-  "minecraft:spruce_stairs": [
-  ],
-  "minecraft:allow": [
-  ],
-  "minecraft:gray_concrete_powder": [
-  ],
-  "minecraft:birch_stairs": [
-  ],
-  "minecraft:deepslate": [
-  ],
-  "minecraft:stripped_oak_wood": [
-    "minecraft:logs",
-    "minecraft:logs_that_burn"
-  ],
-  "minecraft:stripped_crimson_hyphae": [
-    "minecraft:crimson_stems",
-    "minecraft:logs"
-  ],
-  "minecraft:dark_oak_hanging_sign": [
-    "minecraft:sign",
-    "minecraft:hanging_sign"
-  ],
-  "minecraft:green_concrete": [
-  ],
-  "minecraft:birch_sapling": [
-  ],
-  "minecraft:torchflower": [
-  ],
-  "minecraft:brick": [
-    "minecraft:decorated_pot_sherds"
-  ],
-  "minecraft:black_dye": [
-  ],
-  "minecraft:crimson_nylium": [
-  ],
-  "minecraft:leather_horse_armor": [
-    "minecraft:horse_armor"
-  ],
-  "minecraft:jungle_stairs": [
-  ],
-  "minecraft:zombie_head": [
-  ],
-  "minecraft:sticky_piston": [
-  ],
-  "minecraft:bogged_spawn_egg": [
-    "minecraft:spawn_egg"
-  ],
-  "minecraft:campfire": [
-  ],
-  "minecraft:polished_andesite_stairs": [
-  ],
-  "minecraft:acacia_stairs": [
-  ],
-  "minecraft:iron_axe": [
-    "minecraft:digger",
-    "minecraft:is_axe",
-    "minecraft:is_tool",
-    "minecraft:iron_tier"
-  ],
-  "minecraft:emerald_ore": [
-  ],
-  "minecraft:birch_leaves": [
-  ],
-  "minecraft:silver_glazed_terracotta": [
-  ],
-  "minecraft:waxed_weathered_copper_grate": [
-  ],
-  "minecraft:waxed_weathered_copper_bulb": [
-  ],
-  "minecraft:verdant_froglight": [
-  ],
-  "minecraft:mossy_cobblestone_slab": [
-  ],
-  "minecraft:magenta_glazed_terracotta": [
-  ],
-  "minecraft:flow_pottery_sherd": [
-    "minecraft:decorated_pot_sherds"
-  ],
-  "minecraft:green_candle": [
-  ],
-  "minecraft:purple_stained_glass_pane": [
-  ],
-  "minecraft:dark_oak_stairs": [
-  ],
-  "minecraft:pink_dye": [
-  ],
-  "minecraft:brown_dye": [
-  ],
-  "minecraft:nether_gold_ore": [
-  ],
-  "minecraft:diamond_chestplate": [
-    "minecraft:is_armor",
-    "minecraft:diamond_tier",
-    "minecraft:transformable_items",
-    "minecraft:trimmable_armors"
-  ],
-  "minecraft:mangrove_stairs": [
-  ],
-  "minecraft:lime_bundle": [
-  ],
-  "minecraft:diorite_slab": [
-  ],
-  "minecraft:pale_oak_hanging_sign": [
-    "minecraft:sign",
-    "minecraft:hanging_sign"
-  ],
-  "minecraft:mycelium": [
-  ],
-  "minecraft:barrel": [
-  ],
-  "minecraft:quartz_slab": [
-  ],
-  "minecraft:big_dripleaf": [
-  ],
-  "minecraft:cherry_stairs": [
-  ],
-  "minecraft:dark_oak_slab": [
-    "minecraft:wooden_slabs"
-  ],
-  "minecraft:yellow_stained_glass_pane": [
-  ],
-  "minecraft:smooth_quartz_stairs": [
-  ],
-  "minecraft:frame": [
-  ],
-  "minecraft:smoker": [
-  ],
-  "minecraft:pink_carpet": [
-    "minecraft:vibration_damper"
-  ],
-  "minecraft:green_dye": [
-  ],
-  "minecraft:guster_banner_pattern": [
-  ],
-  "minecraft:brown_carpet": [
-    "minecraft:vibration_damper"
-  ],
-  "minecraft:deepslate_lapis_ore": [
-  ],
-  "minecraft:weathered_copper": [
-  ],
-  "minecraft:bamboo_stairs": [
-  ],
-  "minecraft:iron_horse_armor": [
-    "minecraft:horse_armor"
-  ],
-  "minecraft:pumpkin": [
-  ],
-  "minecraft:music_disc_creator": [
-    "minecraft:music_disc"
-  ],
-  "minecraft:polished_granite_stairs": [
-  ],
-  "minecraft:red_mushroom_block": [
-  ],
-  "minecraft:bowl": [
-  ],
-  "minecraft:warped_door": [
-    "minecraft:door"
-  ],
-  "minecraft:oxidized_cut_copper_stairs": [
-  ],
-  "minecraft:frog_spawn_egg": [
-    "minecraft:spawn_egg"
-  ],
-  "minecraft:redstone": [
-    "minecraft:trim_materials"
-  ],
-  "minecraft:warped_pressure_plate": [
-  ],
-  "minecraft:bone_meal": [
-  ],
-  "minecraft:prismarine_stairs": [
-  ],
-  "minecraft:iron_door": [
-    "minecraft:door"
-  ],
-  "minecraft:red_sandstone_slab": [
-  ],
-  "minecraft:dark_prismarine_stairs": [
-  ],
-  "minecraft:sculk_shrieker": [
-  ],
-  "minecraft:bamboo_mosaic_stairs": [
-  ],
-  "minecraft:end_bricks": [
-  ],
-  "minecraft:target": [
-  ],
-  "minecraft:scrape_pottery_sherd": [
-    "minecraft:decorated_pot_sherds"
-  ],
-  "minecraft:mossy_stone_brick_stairs": [
-  ],
-  "minecraft:cooked_salmon": [
-    "minecraft:is_fish",
-    "minecraft:is_cooked"
-  ],
-  "minecraft:bamboo_chest_raft": [
-    "minecraft:boat",
-    "minecraft:boats"
-  ],
-  "minecraft:panda_spawn_egg": [
-    "minecraft:spawn_egg"
-  ],
-  "minecraft:acacia_sign": [
-    "minecraft:sign"
-  ],
-  "minecraft:sandstone_stairs": [
-  ],
-  "minecraft:chicken": [
-    "minecraft:is_food",
-    "minecraft:is_meat"
-  ],
-  "minecraft:lime_glazed_terracotta": [
-  ],
-  "minecraft:friend_pottery_sherd": [
-    "minecraft:decorated_pot_sherds"
-  ],
-  "minecraft:daylight_detector": [
-  ],
-  "minecraft:stripped_warped_stem": [
-    "minecraft:warped_stems",
-    "minecraft:logs"
-  ],
-  "minecraft:smooth_sandstone_stairs": [
-  ],
-  "minecraft:cut_red_sandstone": [
-  ],
-  "minecraft:polished_blackstone_button": [
-  ],
-  "minecraft:stripped_birch_wood": [
-    "minecraft:logs",
-    "minecraft:logs_that_burn"
-  ],
-  "minecraft:smooth_sandstone": [
-  ],
-  "minecraft:pale_oak_sign": [
-    "minecraft:sign"
-  ],
-  "minecraft:archer_pottery_sherd": [
-    "minecraft:decorated_pot_sherds"
-  ],
-  "minecraft:polished_diorite_stairs": [
-  ],
-  "minecraft:black_stained_glass": [
-  ],
-  "minecraft:light_gray_dye": [
-  ],
-  "minecraft:sea_lantern": [
-  ],
-  "minecraft:light_blue_shulker_box": [
-  ],
-  "minecraft:diamond": [
-    "minecraft:trim_materials"
-  ],
-  "minecraft:dead_horn_coral_fan": [
-  ],
-  "minecraft:popped_chorus_fruit": [
-  ],
-  "minecraft:netherite_ingot": [
-    "minecraft:transform_materials",
-    "minecraft:trim_materials"
-  ],
-  "minecraft:gilded_blackstone": [
-  ],
-  "minecraft:brick_stairs": [
-  ],
-  "minecraft:gold_ore": [
-  ],
-  "minecraft:skeleton_spawn_egg": [
-    "minecraft:spawn_egg"
-  ],
-  "minecraft:waxed_cut_copper_stairs": [
-  ],
-  "minecraft:cornflower": [
-  ],
-  "minecraft:salmon_bucket": [
-  ],
-  "minecraft:green_glazed_terracotta": [
-  ],
-  "minecraft:cyan_stained_glass": [
-  ],
-  "minecraft:cyan_carpet": [
-    "minecraft:vibration_damper"
-  ],
-  "minecraft:netherbrick": [
-  ],
-  "minecraft:cobblestone_slab": [
-  ],
-  "minecraft:green_terracotta": [
-  ],
-  "minecraft:waxed_copper_trapdoor": [
-  ],
-  "minecraft:nether_brick_stairs": [
-  ],
-  "minecraft:blue_terracotta": [
-  ],
-  "minecraft:exposed_copper_trapdoor": [
-  ],
-  "minecraft:spire_armor_trim_smithing_template": [
-    "minecraft:trim_templates"
-  ],
-  "minecraft:waxed_exposed_cut_copper_stairs": [
-  ],
-  "minecraft:spruce_sign": [
-    "minecraft:sign"
-  ],
-  "minecraft:quartz_stairs": [
-  ],
-  "minecraft:copper_ingot": [
-    "minecraft:trim_materials"
-  ],
-  "minecraft:brown_concrete_powder": [
-  ],
-  "minecraft:flow_armor_trim_smithing_template": [
-    "minecraft:trim_templates"
-  ],
-  "minecraft:pink_concrete_powder": [
-  ],
-  "minecraft:cracked_deepslate_bricks": [
-  ],
-  "minecraft:light_gray_wool": [
-    "minecraft:vibration_damper",
-    "minecraft:wool"
-  ],
-  "minecraft:red_wool": [
-    "minecraft:vibration_damper",
-    "minecraft:wool"
-  ],
-  "minecraft:melon_block": [
-  ],
-  "minecraft:bamboo_pressure_plate": [
-  ],
-  "minecraft:enderman_spawn_egg": [
-    "minecraft:spawn_egg"
-  ],
-  "minecraft:exposed_copper_grate": [
-  ],
-  "minecraft:cobblestone": [
-    "minecraft:stone_crafting_materials",
-    "minecraft:stone_tool_materials"
-  ],
-  "minecraft:crimson_stairs": [
-  ],
-  "minecraft:moss_carpet": [
-  ],
-  "minecraft:calcite": [
-  ],
-  "minecraft:strider_spawn_egg": [
-    "minecraft:spawn_egg"
-  ],
-  "minecraft:gray_terracotta": [
-  ],
-  "minecraft:lapis_lazuli": [
-    "minecraft:trim_materials"
-  ],
-  "minecraft:blackstone_stairs": [
-  ],
-  "minecraft:brown_stained_glass_pane": [
-  ],
-  "minecraft:sculk_vein": [
-  ],
-  "minecraft:andesite": [
-  ],
-  "minecraft:pink_stained_glass_pane": [
-  ],
-  "minecraft:sculk_sensor": [
-  ],
-  "minecraft:light_blue_candle": [
-  ],
-  "minecraft:deepslate_tile_stairs": [
-  ],
-  "minecraft:ender_pearl": [
-  ],
-  "minecraft:chiseled_nether_bricks": [
-  ],
-  "minecraft:polished_deepslate_stairs": [
-  ],
-  "minecraft:brown_glazed_terracotta": [
-  ],
-  "minecraft:yellow_terracotta": [
-  ],
-  "minecraft:slime_spawn_egg": [
-    "minecraft:spawn_egg"
-  ],
-  "minecraft:pillager_spawn_egg": [
-    "minecraft:spawn_egg"
-  ],
-  "minecraft:observer": [
-  ],
-  "minecraft:pink_glazed_terracotta": [
-  ],
-  "minecraft:waxed_oxidized_copper_bulb": [
-  ],
-  "minecraft:deepslate_brick_stairs": [
-  ],
-  "minecraft:gold_nugget": [
-  ],
-  "minecraft:cracked_nether_bricks": [
-  ],
-  "minecraft:light_block_5": [
-  ],
-  "minecraft:waxed_oxidized_cut_copper_stairs": [
-  ],
-  "minecraft:ink_sac": [
-  ],
-  "minecraft:netherite_scrap": [
-  ],
-  "minecraft:tuff_brick_stairs": [
-  ],
-  "minecraft:enchanted_book": [
-    "minecraft:bookshelf_books"
-  ],
-  "minecraft:cut_sandstone": [
-  ],
-  "minecraft:red_tulip": [
-  ],
-  "minecraft:spruce_slab": [
-    "minecraft:wooden_slabs"
-  ],
-  "minecraft:mud_brick_stairs": [
-  ],
-  "minecraft:weathered_cut_copper_stairs": [
-  ],
-  "minecraft:music_disc_5": [
-    "minecraft:music_disc"
-  ],
-  "minecraft:bamboo_trapdoor": [
-  ],
-  "minecraft:copper_door": [
-    "minecraft:door"
-  ],
-  "minecraft:blue_orchid": [
-  ],
-  "minecraft:lily_of_the_valley": [
-  ],
-  "minecraft:smooth_red_sandstone": [
-  ],
-  "minecraft:netherite_pickaxe": [
-    "minecraft:digger",
-    "minecraft:is_pickaxe",
-    "minecraft:is_tool",
-    "minecraft:netherite_tier"
-  ],
-  "minecraft:exposed_copper_bulb": [
-  ],
-  "minecraft:diamond_block": [
-  ],
-  "minecraft:pitcher_pod": [
-  ],
-  "minecraft:iron_hoe": [
-    "minecraft:digger",
-    "minecraft:is_hoe",
-    "minecraft:is_tool",
-    "minecraft:iron_tier"
-  ],
-  "minecraft:weathered_copper_bulb": [
-  ],
-  "minecraft:magenta_stained_glass": [
-  ],
-  "minecraft:coal": [
-    "minecraft:coals"
-  ],
-  "minecraft:waxed_weathered_cut_copper_stairs": [
-  ],
-  "minecraft:flint_and_steel": [
-  ],
-  "minecraft:ominous_bottle": [
-  ],
-  "minecraft:pale_oak_sapling": [
-  ],
-  "minecraft:copper_bulb": [
-  ],
-  "minecraft:salmon_spawn_egg": [
-    "minecraft:spawn_egg"
-  ],
-  "minecraft:creeper_spawn_egg": [
-    "minecraft:spawn_egg"
-  ],
-  "minecraft:spruce_door": [
-    "minecraft:door"
-  ],
-  "minecraft:chiseled_sandstone": [
-  ],
-  "minecraft:frosted_ice": [
-  ],
-  "minecraft:pale_oak_slab": [
-    "minecraft:wooden_slabs"
-  ],
-  "minecraft:birch_door": [
-    "minecraft:door"
-  ],
-  "minecraft:quartz_ore": [
-  ],
-  "minecraft:calibrated_sculk_sensor": [
-  ],
-  "minecraft:snow": [
-  ],
-  "minecraft:mangrove_door": [
-    "minecraft:door"
-  ],
-  "minecraft:brown_wool": [
-    "minecraft:vibration_damper",
-    "minecraft:wool"
-  ],
-  "minecraft:pink_wool": [
-    "minecraft:vibration_damper",
-    "minecraft:wool"
-  ],
-  "minecraft:gold_block": [
-  ],
-  "minecraft:stripped_oak_log": [
-    "minecraft:logs",
-    "minecraft:logs_that_burn"
-  ],
-  "minecraft:blue_ice": [
-  ],
-  "minecraft:cherry_door": [
-    "minecraft:door"
-  ],
-  "minecraft:polished_blackstone_brick_slab": [
-  ],
-  "minecraft:acacia_slab": [
-    "minecraft:wooden_slabs"
-  ],
-  "minecraft:polished_andesite_slab": [
-  ],
-  "minecraft:pale_oak_door": [
-    "minecraft:door"
-  ],
-  "minecraft:jungle_trapdoor": [
-  ],
-  "minecraft:skull_banner_pattern": [
-  ],
-  "minecraft:black_concrete_powder": [
-  ],
-  "minecraft:bamboo_door": [
-    "minecraft:door"
-  ],
-  "minecraft:vine": [
-  ],
-  "minecraft:waxed_oxidized_chiseled_copper": [
-  ],
-  "minecraft:polar_bear_spawn_egg": [
-    "minecraft:spawn_egg"
-  ],
-  "minecraft:farmland": [
-  ],
-  "minecraft:yellow_shulker_box": [
-  ],
-  "minecraft:chiseled_copper": [
-  ],
-  "minecraft:oxidized_copper_door": [
-    "minecraft:door"
-  ],
-  "minecraft:waxed_weathered_copper": [
-  ],
-  "minecraft:chiseled_quartz_block": [
-  ],
-  "minecraft:bamboo_block": [
-  ],
-  "minecraft:deepslate_bricks": [
-  ],
-  "minecraft:stripped_spruce_log": [
-    "minecraft:logs",
-    "minecraft:logs_that_burn"
-  ],
-  "minecraft:dead_bubble_coral": [
-  ],
-  "minecraft:gray_glazed_terracotta": [
-  ],
-  "minecraft:exposed_copper_door": [
-    "minecraft:door"
-  ],
-  "minecraft:squid_spawn_egg": [
-    "minecraft:spawn_egg"
-  ],
-  "minecraft:waxed_exposed_copper_trapdoor": [
-  ],
-  "minecraft:waxed_copper_door": [
-    "minecraft:door"
-  ],
-  "minecraft:ghast_tear": [
-  ],
-  "minecraft:pink_concrete": [
-  ],
-  "minecraft:light_blue_bundle": [
-  ],
-  "minecraft:lit_pumpkin": [
-  ],
-  "minecraft:brown_concrete": [
-  ],
-  "minecraft:smooth_basalt": [
-  ],
-  "minecraft:yellow_glazed_terracotta": [
-  ],
-  "minecraft:jungle_pressure_plate": [
-  ],
-  "minecraft:cat_spawn_egg": [
-    "minecraft:spawn_egg"
-  ],
-  "minecraft:howl_pottery_sherd": [
-    "minecraft:decorated_pot_sherds"
-  ],
-  "minecraft:waxed_exposed_copper_door": [
-    "minecraft:door"
-  ],
-  "minecraft:pumpkin_seeds": [
-  ],
-  "minecraft:mud_brick_slab": [
-  ],
-  "minecraft:waxed_oxidized_cut_copper": [
-  ],
-  "minecraft:gray_concrete": [
-  ],
-  "minecraft:waxed_oxidized_copper_door": [
-    "minecraft:door"
-  ],
-  "minecraft:lantern": [
-  ],
-  "minecraft:netherite_sword": [
-    "minecraft:is_sword",
-    "minecraft:is_tool",
-    "minecraft:netherite_tier"
-  ],
-  "minecraft:slime_ball": [
-  ],
-  "minecraft:tube_coral": [
-  ],
-  "minecraft:stick": [
-  ],
-  "minecraft:chain_command_block": [
-  ],
-  "minecraft:light_block_12": [
-  ],
-  "minecraft:brown_candle": [
-  ],
-  "minecraft:acacia_trapdoor": [
-  ],
-  "minecraft:structure_block": [
-  ],
-  "minecraft:tinted_glass": [
-  ],
-  "minecraft:mangrove_trapdoor": [
-  ],
-  "minecraft:cherry_trapdoor": [
-  ],
-  "minecraft:glowstone_dust": [
-  ],
-  "minecraft:powder_snow_bucket": [
-  ],
-  "minecraft:blackstone": [
-    "minecraft:stone_crafting_materials",
-    "minecraft:stone_tool_materials"
-  ],
-  "minecraft:warped_wart_block": [
-  ],
-  "minecraft:warped_trapdoor": [
-  ],
-  "minecraft:llama_spawn_egg": [
-    "minecraft:spawn_egg"
-  ],
-  "minecraft:waxed_copper_bulb": [
-  ],
-  "minecraft:waxed_weathered_copper_trapdoor": [
-  ],
-  "minecraft:polished_diorite": [
-  ],
-  "minecraft:cyan_glazed_terracotta": [
-  ],
-  "minecraft:jigsaw": [
-  ],
-  "minecraft:acacia_pressure_plate": [
-  ],
-  "minecraft:smooth_red_sandstone_slab": [
-  ],
-  "minecraft:orange_bundle": [
-  ],
-  "minecraft:smooth_quartz": [
-  ],
-  "minecraft:packed_ice": [
-  ],
-  "minecraft:purple_terracotta": [
-  ],
-  "minecraft:leather_helmet": [
-    "minecraft:is_armor",
-    "minecraft:leather_tier",
-    "minecraft:trimmable_armors"
-  ],
-  "minecraft:wither_rose": [
-  ],
-  "minecraft:dark_oak_chest_boat": [
-    "minecraft:boat",
-    "minecraft:boats"
-  ],
-  "minecraft:copper_block": [
-  ],
-  "minecraft:splash_potion": [
-  ],
-  "minecraft:cactus": [
-  ],
-  "minecraft:glow_frame": [
-  ],
-  "minecraft:turtle_scute": [
-  ],
-  "minecraft:glass": [
-  ],
-  "minecraft:moss_block": [
-  ],
-  "minecraft:blast_furnace": [
-  ],
-  "minecraft:cut_sandstone_slab": [
-  ],
-  "minecraft:gray_stained_glass": [
-  ],
-  "minecraft:oxidized_chiseled_copper": [
-  ],
-  "minecraft:chainmail_helmet": [
-    "minecraft:is_armor",
-    "minecraft:chainmail_tier",
-    "minecraft:trimmable_armors"
-  ],
-  "minecraft:waxed_oxidized_copper_grate": [
-  ],
-  "minecraft:music_disc_stal": [
-    "minecraft:music_disc"
-  ],
-  "minecraft:brown_stained_glass": [
-  ],
-  "minecraft:pink_stained_glass": [
-  ],
-  "minecraft:coal_block": [
-  ],
-  "minecraft:end_crystal": [
-  ],
-  "minecraft:purple_carpet": [
-    "minecraft:vibration_damper"
-  ],
-  "minecraft:fire_coral_fan": [
-  ],
-  "minecraft:green_concrete_powder": [
-  ],
-  "minecraft:lime_stained_glass": [
-  ],
-  "minecraft:redstone_lamp": [
-  ],
-  "minecraft:polished_andesite": [
-  ],
-  "minecraft:purple_stained_glass": [
-  ],
-  "minecraft:oak_boat": [
-    "minecraft:boat",
-    "minecraft:boats"
-  ],
-  "minecraft:cherry_hanging_sign": [
-    "minecraft:sign",
-    "minecraft:hanging_sign"
-  ],
-  "minecraft:polished_blackstone": [
-  ],
-  "minecraft:oak_hanging_sign": [
-    "minecraft:sign",
-    "minecraft:hanging_sign"
-  ],
-  "minecraft:glass_pane": [
-  ],
-  "minecraft:shelter_pottery_sherd": [
-    "minecraft:decorated_pot_sherds"
-  ],
-  "minecraft:infested_deepslate": [
-  ],
-  "minecraft:podzol": [
-  ],
-  "minecraft:activator_rail": [
-  ],
-  "minecraft:white_stained_glass_pane": [
-  ],
-  "minecraft:frog_spawn": [
-  ],
-  "minecraft:red_stained_glass_pane": [
-  ],
-  "minecraft:polished_deepslate_slab": [
-  ],
-  "minecraft:oxidized_copper": [
-  ],
-  "minecraft:iron_shovel": [
-    "minecraft:digger",
-    "minecraft:is_shovel",
-    "minecraft:is_tool",
-    "minecraft:iron_tier"
-  ],
-  "minecraft:stone_bricks": [
-    "minecraft:stone_bricks"
-  ],
-  "minecraft:bamboo_slab": [
-    "minecraft:wooden_slabs"
-  ],
-  "minecraft:nether_wart": [
-  ],
-  "minecraft:orange_stained_glass_pane": [
-  ],
-  "minecraft:goat_spawn_egg": [
-    "minecraft:spawn_egg"
-  ],
-  "minecraft:stripped_mangrove_wood": [
-    "minecraft:logs",
-    "minecraft:logs_that_burn",
-    "minecraft:mangrove_logs"
-  ],
-  "minecraft:magenta_concrete_powder": [
-  ],
-  "minecraft:lime_stained_glass_pane": [
-  ],
-  "minecraft:trader_llama_spawn_egg": [
-    "minecraft:spawn_egg"
-  ],
-  "minecraft:light_blue_carpet": [
-    "minecraft:vibration_damper"
-  ],
-  "minecraft:orange_concrete_powder": [
-  ],
-  "minecraft:smooth_stone_slab": [
-  ],
-  "minecraft:chiseled_polished_blackstone": [
-  ],
-  "minecraft:azalea_leaves": [
-  ],
-  "minecraft:magenta_stained_glass_pane": [
-  ],
-  "minecraft:white_carpet": [
-    "minecraft:vibration_damper"
-  ],
-  "minecraft:prize_pottery_sherd": [
-    "minecraft:decorated_pot_sherds"
-  ],
-  "minecraft:black_candle": [
-  ],
-  "minecraft:bundle": [
-  ],
-  "minecraft:iron_sword": [
-    "minecraft:is_sword",
-    "minecraft:is_tool",
-    "minecraft:iron_tier"
-  ],
-  "minecraft:glow_ink_sac": [
-  ],
-  "minecraft:azalea": [
-  ],
-  "minecraft:music_disc_pigstep": [
-    "minecraft:music_disc"
-  ],
-  "minecraft:brick_block": [
-  ],
-  "minecraft:smooth_stone": [
-  ],
-  "minecraft:yellow_concrete_powder": [
-  ],
-  "minecraft:oak_slab": [
-    "minecraft:wooden_slabs"
-  ],
-  "minecraft:white_concrete": [
-  ],
-  "minecraft:pale_oak_chest_boat": [
-    "minecraft:boat",
-    "minecraft:boats"
-  ],
-  "minecraft:cherry_wood": [
-    "minecraft:logs",
-    "minecraft:logs_that_burn"
-  ],
-  "minecraft:golden_horse_armor": [
-    "minecraft:horse_armor"
-  ],
-  "minecraft:birch_slab": [
-    "minecraft:wooden_slabs"
-  ],
   "minecraft:jungle_slab": [
     "minecraft:wooden_slabs"
-  ],
-  "minecraft:magenta_dye": [
-  ],
-  "minecraft:charcoal": [
-    "minecraft:coals"
-  ],
-  "minecraft:light_gray_shulker_box": [
-  ],
-  "minecraft:horse_spawn_egg": [
-    "minecraft:spawn_egg"
-  ],
-  "minecraft:mangrove_slab": [
-    "minecraft:wooden_slabs"
-  ],
-  "minecraft:smooth_quartz_slab": [
-  ],
-  "minecraft:silverfish_spawn_egg": [
-    "minecraft:spawn_egg"
-  ],
-  "minecraft:sandstone_slab": [
-  ],
-  "minecraft:lime_concrete_powder": [
-  ],
-  "minecraft:green_carpet": [
-    "minecraft:vibration_damper"
-  ],
-  "minecraft:cut_red_sandstone_slab": [
-  ],
-  "minecraft:cherry_pressure_plate": [
-  ],
-  "minecraft:soul_soil": [
-    "minecraft:soul_fire_base_blocks"
-  ],
-  "minecraft:andesite_slab": [
-  ],
-  "minecraft:horn_coral_fan": [
-  ],
-  "minecraft:nether_brick_slab": [
-  ],
-  "minecraft:dripstone_block": [
-  ],
-  "minecraft:gunpowder": [
-  ],
-  "minecraft:purpur_slab": [
-  ],
-  "minecraft:magenta_carpet": [
-    "minecraft:vibration_damper"
-  ],
-  "minecraft:suspicious_gravel": [
-  ],
-  "minecraft:heavy_core": [
   ],
   "minecraft:jungle_wood": [
     "minecraft:logs",
     "minecraft:logs_that_burn"
   ],
-  "minecraft:oak_wood": [
-    "minecraft:logs",
-    "minecraft:logs_that_burn"
-  ],
-  "minecraft:acacia_chest_boat": [
-    "minecraft:boat",
-    "minecraft:boats"
-  ],
-  "minecraft:stone_axe": [
-    "minecraft:digger",
-    "minecraft:is_axe",
-    "minecraft:is_tool",
-    "minecraft:stone_tier"
-  ],
-  "minecraft:dandelion": [
-  ],
-  "minecraft:warped_nylium": [
-  ],
-  "minecraft:horn_coral_block": [
-  ],
-  "minecraft:prismarine_brick_slab": [
-  ],
-  "minecraft:cyan_concrete": [
-  ],
-  "minecraft:carrot_on_a_stick": [
-  ],
-  "minecraft:polished_blackstone_slab": [
-  ],
-  "minecraft:glow_berries": [
-  ],
-  "minecraft:bread": [
-    "minecraft:is_food"
-  ],
-  "minecraft:deepslate_tile_slab": [
-  ],
-  "minecraft:tuff_slab": [
-  ],
-  "minecraft:quartz_pillar": [
-  ],
-  "minecraft:creaking_heart": [
-  ],
-  "minecraft:polished_tuff_slab": [
-  ],
-  "minecraft:weathered_cut_copper_slab": [
-  ],
-  "minecraft:stone_sword": [
-    "minecraft:is_sword",
-    "minecraft:is_tool",
-    "minecraft:stone_tier"
-  ],
-  "minecraft:leather": [
-  ],
-  "minecraft:command_block_minecart": [
-    "minecraft:is_minecart"
-  ],
-  "minecraft:mangrove_roots": [
-  ],
-  "minecraft:feather": [
-  ],
-  "minecraft:waxed_cut_copper_slab": [
-  ],
-  "minecraft:waxed_exposed_cut_copper_slab": [
-  ],
-  "minecraft:dead_horn_coral": [
-  ],
-  "minecraft:fire_coral_block": [
-  ],
-  "minecraft:chicken_spawn_egg": [
-    "minecraft:spawn_egg"
-  ],
-  "minecraft:waxed_weathered_cut_copper_slab": [
-  ],
-  "minecraft:lime_concrete": [
-  ],
-  "minecraft:donkey_spawn_egg": [
-    "minecraft:spawn_egg"
-  ],
-  "minecraft:rib_armor_trim_smithing_template": [
-    "minecraft:trim_templates"
-  ],
-  "minecraft:dark_prismarine": [
-  ],
-  "minecraft:infested_cobblestone": [
-  ],
-  "minecraft:rabbit_hide": [
-  ],
-  "minecraft:mossy_stone_bricks": [
-    "minecraft:stone_bricks"
-  ],
-  "minecraft:polished_blackstone_bricks": [
-  ],
-  "minecraft:cracked_polished_blackstone_bricks": [
-  ],
-  "minecraft:allium": [
-  ],
-  "minecraft:copper_grate": [
-  ],
-  "minecraft:mob_spawner": [
-  ],
-  "minecraft:tropical_fish_spawn_egg": [
-    "minecraft:spawn_egg"
-  ],
-  "minecraft:deepslate_tiles": [
-  ],
-  "minecraft:cartography_table": [
-  ],
-  "minecraft:wayfinder_armor_trim_smithing_template": [
-    "minecraft:trim_templates"
-  ],
-  "minecraft:blue_candle": [
-  ],
-  "minecraft:polished_basalt": [
-  ],
-  "minecraft:cracked_deepslate_tiles": [
-  ],
-  "minecraft:jungle_chest_boat": [
-    "minecraft:boat",
-    "minecraft:boats"
-  ],
-  "minecraft:tuff_bricks": [
-  ],
-  "minecraft:acacia_sapling": [
-  ],
-  "minecraft:chiseled_deepslate": [
-  ],
-  "minecraft:orange_glazed_terracotta": [
-  ],
-  "minecraft:wooden_pressure_plate": [
-  ],
-  "minecraft:husk_spawn_egg": [
-    "minecraft:spawn_egg"
-  ],
-  "minecraft:chiseled_tuff": [
-  ],
-  "minecraft:emerald_block": [
-  ],
-  "minecraft:vex_spawn_egg": [
-    "minecraft:spawn_egg"
-  ],
-  "minecraft:obsidian": [
-  ],
-  "minecraft:crafter": [
-  ],
-  "minecraft:sheep_spawn_egg": [
-    "minecraft:spawn_egg"
-  ],
-  "minecraft:goat_horn": [
-  ],
-  "minecraft:granite": [
-  ],
-  "minecraft:petrified_oak_slab": [
-  ],
-  "minecraft:netherite_leggings": [
-    "minecraft:is_armor",
-    "minecraft:netherite_tier",
-    "minecraft:trimmable_armors"
-  ],
-  "minecraft:kelp": [
-  ],
-  "minecraft:red_mushroom": [
-  ],
-  "minecraft:melon_slice": [
-    "minecraft:is_food"
-  ],
-  "minecraft:chiseled_red_sandstone": [
-  ],
-  "minecraft:dried_kelp_block": [
-  ],
-  "minecraft:end_rod": [
-  ],
-  "minecraft:cobblestone_wall": [
-  ],
-  "minecraft:magenta_concrete": [
-  ],
-  "minecraft:waxed_exposed_copper": [
-  ],
-  "minecraft:stripped_acacia_wood": [
-    "minecraft:logs",
-    "minecraft:logs_that_burn"
-  ],
-  "minecraft:dried_kelp": [
-    "minecraft:is_food"
-  ],
-  "minecraft:cut_copper": [
-  ],
-  "minecraft:waxed_weathered_cut_copper": [
-  ],
-  "minecraft:oak_log": [
-    "minecraft:logs",
-    "minecraft:logs_that_burn"
-  ],
-  "minecraft:infested_stone": [
-  ],
-  "minecraft:dolphin_spawn_egg": [
-    "minecraft:spawn_egg"
-  ],
-  "minecraft:exposed_chiseled_copper": [
-  ],
-  "minecraft:weathered_chiseled_copper": [
-  ],
-  "minecraft:cherry_sapling": [
-  ],
-  "minecraft:waxed_chiseled_copper": [
-  ],
-  "minecraft:cooked_rabbit": [
-    "minecraft:is_food",
-    "minecraft:is_meat",
-    "minecraft:is_cooked"
-  ],
-  "minecraft:flint": [
-  ],
-  "minecraft:pale_oak_leaves": [
-  ],
-  "minecraft:trial_key": [
-  ],
-  "minecraft:waxed_exposed_chiseled_copper": [
-  ],
-  "minecraft:ender_chest": [
-  ],
-  "minecraft:waxed_weathered_chiseled_copper": [
-  ],
-  "minecraft:deepslate_coal_ore": [
-  ],
-  "minecraft:waxed_exposed_copper_bulb": [
-  ],
-  "minecraft:pink_petals": [
-  ],
-  "minecraft:brain_coral": [
-  ],
-  "minecraft:bee_spawn_egg": [
-    "minecraft:spawn_egg"
-  ],
-  "minecraft:short_grass": [
-  ],
-  "minecraft:lapis_block": [
-  ],
-  "minecraft:heartbreak_pottery_sherd": [
-    "minecraft:decorated_pot_sherds"
-  ],
-  "minecraft:jungle_hanging_sign": [
-    "minecraft:sign",
-    "minecraft:hanging_sign"
-  ],
-  "minecraft:blue_concrete_powder": [
-  ],
-  "minecraft:beetroot": [
-    "minecraft:is_food"
-  ],
-  "minecraft:raw_copper_block": [
-  ],
-  "minecraft:dispenser": [
-  ],
-  "minecraft:raw_iron_block": [
-  ],
-  "minecraft:crimson_roots": [
-  ],
-  "minecraft:creeper_head": [
-  ],
-  "minecraft:bat_spawn_egg": [
-    "minecraft:spawn_egg"
-  ],
-  "minecraft:spruce_wood": [
-    "minecraft:logs",
-    "minecraft:logs_that_burn"
-  ],
-  "minecraft:dragon_head": [
-  ],
-  "minecraft:end_portal_frame": [
-  ],
-  "minecraft:peony": [
-  ],
-  "minecraft:candle": [
-  ],
-  "minecraft:chainmail_chestplate": [
-    "minecraft:is_armor",
-    "minecraft:chainmail_tier",
-    "minecraft:trimmable_armors"
-  ],
-  "minecraft:structure_void": [
-  ],
-  "minecraft:tadpole_spawn_egg": [
-    "minecraft:spawn_egg"
-  ],
-  "minecraft:hardened_clay": [
-  ],
-  "minecraft:trident": [
-    "minecraft:is_trident"
-  ],
-  "minecraft:crimson_fungus": [
-  ],
-  "minecraft:villager_spawn_egg": [
-    "minecraft:spawn_egg"
-  ],
-  "minecraft:lime_dye": [
-  ],
-  "minecraft:honey_block": [
-  ],
-  "minecraft:turtle_spawn_egg": [
-    "minecraft:spawn_egg"
-  ],
-  "minecraft:honeycomb_block": [
-  ],
-  "minecraft:torchflower_seeds": [
-  ],
-  "minecraft:hay_block": [
-  ],
-  "minecraft:jungle_sapling": [
-  ],
-  "minecraft:ender_eye": [
-  ],
-  "minecraft:nether_brick": [
-  ],
-  "minecraft:red_carpet": [
-    "minecraft:vibration_damper"
-  ],
-  "minecraft:red_nether_brick": [
-  ],
-  "minecraft:purpur_block": [
-  ],
-  "minecraft:light_gray_carpet": [
-    "minecraft:vibration_damper"
-  ],
-  "minecraft:cherry_button": [
-  ],
-  "minecraft:lodestone": [
-  ],
-  "minecraft:amethyst_block": [
-  ],
-  "minecraft:cow_spawn_egg": [
-    "minecraft:spawn_egg"
-  ],
-  "minecraft:gray_wool": [
-    "minecraft:vibration_damper",
-    "minecraft:wool"
-  ],
-  "minecraft:stone_shovel": [
-    "minecraft:digger",
-    "minecraft:is_shovel",
-    "minecraft:is_tool",
-    "minecraft:stone_tier"
-  ],
-  "minecraft:black_wool": [
-    "minecraft:vibration_damper",
-    "minecraft:wool"
-  ],
-  "minecraft:stripped_birch_log": [
-    "minecraft:logs",
-    "minecraft:logs_that_burn"
-  ],
-  "minecraft:potato": [
-    "minecraft:is_food"
-  ],
-  "minecraft:orange_wool": [
-    "minecraft:vibration_damper",
-    "minecraft:wool"
-  ],
-  "minecraft:yellow_wool": [
-    "minecraft:vibration_damper",
-    "minecraft:wool"
-  ],
-  "minecraft:lime_wool": [
-    "minecraft:vibration_damper",
-    "minecraft:wool"
-  ],
-  "minecraft:skull_pottery_sherd": [
-    "minecraft:decorated_pot_sherds"
-  ],
-  "minecraft:green_wool": [
-    "minecraft:vibration_damper",
-    "minecraft:wool"
-  ],
-  "minecraft:acacia_boat": [
-    "minecraft:boat",
-    "minecraft:boats"
-  ],
-  "minecraft:fire_charge": [
-  ],
-  "minecraft:cyan_wool": [
-    "minecraft:vibration_damper",
-    "minecraft:wool"
-  ],
-  "minecraft:magenta_terracotta": [
-  ],
-  "minecraft:black_carpet": [
-    "minecraft:vibration_damper"
-  ],
-  "minecraft:blue_wool": [
-    "minecraft:vibration_damper",
-    "minecraft:wool"
-  ],
-  "minecraft:orange_concrete": [
-  ],
-  "minecraft:purple_wool": [
-    "minecraft:vibration_damper",
-    "minecraft:wool"
-  ],
-  "minecraft:gray_dye": [
-  ],
-  "minecraft:jukebox": [
-  ],
-  "minecraft:yellow_carpet": [
-    "minecraft:vibration_damper"
-  ],
-  "minecraft:lime_carpet": [
-    "minecraft:vibration_damper"
-  ],
-  "minecraft:golden_sword": [
-    "minecraft:is_sword",
-    "minecraft:is_tool",
-    "minecraft:golden_tier"
-  ],
-  "minecraft:sunflower": [
-  ],
-  "minecraft:music_disc_far": [
-    "minecraft:music_disc"
-  ],
-  "minecraft:music_disc_cat": [
-    "minecraft:music_disc"
-  ],
-  "minecraft:blue_carpet": [
-    "minecraft:vibration_damper"
-  ],
-  "minecraft:light_gray_concrete_powder": [
-  ],
-  "minecraft:red_concrete_powder": [
-  ],
-  "minecraft:dark_oak_leaves": [
-  ],
-  "minecraft:brain_coral_fan": [
-  ],
-  "minecraft:cyan_concrete_powder": [
-  ],
-  "minecraft:elytra": [
-    "minecraft:is_armor"
-  ],
-  "minecraft:bamboo": [
-  ],
-  "minecraft:light_gray_concrete": [
-  ],
-  "minecraft:yellow_concrete": [
-  ],
-  "minecraft:mud_bricks": [
-  ],
-  "minecraft:netherite_chestplate": [
-    "minecraft:is_armor",
-    "minecraft:netherite_tier",
-    "minecraft:trimmable_armors"
-  ],
-  "minecraft:orange_terracotta": [
-  ],
-  "minecraft:lime_terracotta": [
-  ],
-  "minecraft:command_block": [
-  ],
-  "minecraft:twisting_vines": [
-  ],
-  "minecraft:cyan_terracotta": [
-  ],
-  "minecraft:stripped_acacia_log": [
-    "minecraft:logs",
-    "minecraft:logs_that_burn"
-  ],
-  "minecraft:white_glazed_terracotta": [
-  ],
-  "minecraft:pale_oak_wood": [
-    "minecraft:logs",
-    "minecraft:logs_that_burn"
-  ],
-  "minecraft:blue_glazed_terracotta": [
-  ],
-  "minecraft:purpur_pillar": [
-  ],
-  "minecraft:grass_path": [
-  ],
-  "minecraft:warden_spawn_egg": [
-    "minecraft:spawn_egg"
-  ],
-  "minecraft:spruce_sapling": [
-  ],
-  "minecraft:light_block_8": [
-  ],
-  "minecraft:hanging_roots": [
-  ],
-  "minecraft:weeping_vines": [
-  ],
-  "minecraft:clay": [
-  ],
-  "minecraft:orange_tulip": [
-  ],
-  "minecraft:diamond_ore": [
-  ],
-  "minecraft:cave_spider_spawn_egg": [
-    "minecraft:spawn_egg"
-  ],
-  "minecraft:bubble_coral": [
-  ],
-  "minecraft:coal_ore": [
-  ],
-  "minecraft:jungle_boat": [
-    "minecraft:boat",
-    "minecraft:boats"
-  ],
-  "minecraft:empty_map": [
-  ],
-  "minecraft:poppy": [
-  ],
-  "minecraft:shulker_shell": [
-  ],
-  "minecraft:deepslate_iron_ore": [
-  ],
-  "minecraft:deepslate_gold_ore": [
-  ],
-  "minecraft:light_block_1": [
-  ],
-  "minecraft:brewer_pottery_sherd": [
-    "minecraft:decorated_pot_sherds"
-  ],
-  "minecraft:red_sand": [
-    "minecraft:sand"
-  ],
-  "minecraft:fermented_spider_eye": [
-  ],
-  "minecraft:spruce_log": [
-    "minecraft:logs",
-    "minecraft:logs_that_burn"
-  ],
-  "minecraft:gray_bundle": [
-  ],
-  "minecraft:chest_minecart": [
-    "minecraft:is_minecart"
-  ],
-  "minecraft:acacia_log": [
-    "minecraft:logs",
-    "minecraft:logs_that_burn"
-  ],
-  "minecraft:warped_hyphae": [
-    "minecraft:warped_stems",
-    "minecraft:logs"
-  ],
-  "minecraft:oxeye_daisy": [
-  ],
-  "minecraft:pitcher_plant": [
-  ],
-  "minecraft:mangrove_sign": [
-    "minecraft:sign"
-  ],
-  "minecraft:magma_cube_spawn_egg": [
-    "minecraft:spawn_egg"
-  ],
-  "minecraft:mangrove_wood": [
-    "minecraft:logs",
-    "minecraft:logs_that_burn",
-    "minecraft:mangrove_logs"
-  ],
-  "minecraft:zombie_pigman_spawn_egg": [
-    "minecraft:spawn_egg"
-  ],
-  "minecraft:cherry_log": [
-    "minecraft:logs",
-    "minecraft:logs_that_burn"
-  ],
-  "minecraft:pale_oak_log": [
-    "minecraft:logs",
-    "minecraft:logs_that_burn"
-  ],
-  "minecraft:crimson_stem": [
-    "minecraft:crimson_stems",
-    "minecraft:logs"
-  ],
-  "minecraft:acacia_wood": [
-    "minecraft:logs",
-    "minecraft:logs_that_burn"
-  ],
-  "minecraft:breeze_spawn_egg": [
-    "minecraft:spawn_egg"
-  ],
-  "minecraft:dead_fire_coral_fan": [
-  ],
-  "minecraft:iron_leggings": [
-    "minecraft:is_armor",
-    "minecraft:iron_tier",
-    "minecraft:trimmable_armors"
-  ],
-  "minecraft:explorer_pottery_sherd": [
-    "minecraft:decorated_pot_sherds"
-  ],
-  "minecraft:porkchop": [
-    "minecraft:is_food",
-    "minecraft:is_meat"
-  ],
-  "minecraft:pufferfish": [
-    "minecraft:is_fish"
-  ],
-  "minecraft:amethyst_shard": [
+  "minecraft:lapis_lazuli": [
     "minecraft:trim_materials"
   ],
-  "minecraft:stripped_dark_oak_wood": [
-    "minecraft:logs",
-    "minecraft:logs_that_burn"
-  ],
-  "minecraft:stripped_cherry_wood": [
-    "minecraft:logs",
-    "minecraft:logs_that_burn"
-  ],
-  "minecraft:stripped_warped_hyphae": [
-    "minecraft:warped_stems",
-    "minecraft:logs"
-  ],
-  "minecraft:stripped_bamboo_block": [
-  ],
-  "minecraft:flowering_azalea": [
-  ],
-  "minecraft:oak_leaves": [
-  ],
-  "minecraft:barrier": [
-  ],
-  "minecraft:acacia_leaves": [
-  ],
-  "minecraft:chipped_anvil": [
-  ],
-  "minecraft:netherite_boots": [
-    "minecraft:is_armor",
-    "minecraft:netherite_tier",
-    "minecraft:trimmable_armors"
-  ],
-  "minecraft:mangrove_leaves": [
-  ],
-  "minecraft:mangrove_propagule": [
-  ],
-  "minecraft:azalea_leaves_flowered": [
-  ],
-  "minecraft:vault": [
-  ],
-  "minecraft:oak_sapling": [
-  ],
-  "minecraft:white_tulip": [
-  ],
-  "minecraft:dark_oak_sapling": [
-  ],
-  "minecraft:experience_bottle": [
-  ],
-  "minecraft:suspicious_stew": [
-  ],
-  "minecraft:bee_nest": [
-  ],
-  "minecraft:tadpole_bucket": [
-  ],
-  "minecraft:wheat_seeds": [
-  ],
-  "minecraft:melon_seeds": [
-  ],
-  "minecraft:spruce_chest_boat": [
-    "minecraft:boat",
-    "minecraft:boats"
-  ],
-  "minecraft:cherry_boat": [
-    "minecraft:boat",
-    "minecraft:boats"
-  ],
-  "minecraft:mangrove_chest_boat": [
-    "minecraft:boat",
-    "minecraft:boats"
-  ],
-  "minecraft:cooked_cod": [
-    "minecraft:is_fish",
-    "minecraft:is_cooked"
-  ],
-  "minecraft:small_amethyst_bud": [
-  ],
-  "minecraft:apple": [
-    "minecraft:is_food"
-  ],
-  "minecraft:sweet_berries": [
-    "minecraft:is_food"
-  ],
-  "minecraft:large_fern": [
-  ],
-  "minecraft:black_bundle": [
-  ],
-  "minecraft:tall_grass": [
-  ],
-  "minecraft:pufferfish_spawn_egg": [
-    "minecraft:spawn_egg"
-  ],
-  "minecraft:nether_sprouts": [
-  ],
-  "minecraft:leather_leggings": [
+  "minecraft:leather_boots": [
     "minecraft:is_armor",
     "minecraft:leather_tier",
-    "minecraft:trimmable_armors"
-  ],
-  "minecraft:bubble_coral_fan": [
-  ],
-  "minecraft:fire_coral": [
-  ],
-  "minecraft:dead_fire_coral": [
-  ],
-  "minecraft:crying_obsidian": [
-  ],
-  "minecraft:ochre_froglight": [
-  ],
-  "minecraft:lilac": [
-  ],
-  "minecraft:dead_tube_coral": [
-  ],
-  "minecraft:light_gray_candle": [
-  ],
-  "minecraft:spyglass": [
-  ],
-  "minecraft:dead_brain_coral_fan": [
-  ],
-  "minecraft:dead_tube_coral_fan": [
-  ],
-  "minecraft:lingering_potion": [
-  ],
-  "minecraft:pale_oak_pressure_plate": [
-  ],
-  "minecraft:recovery_compass": [
-  ],
-  "minecraft:wandering_trader_spawn_egg": [
-    "minecraft:spawn_egg"
-  ],
-  "minecraft:dead_brain_coral_block": [
-  ],
-  "minecraft:spore_blossom": [
-  ],
-  "minecraft:waterlily": [
-  ],
-  "minecraft:seagrass": [
-  ],
-  "minecraft:diamond_pickaxe": [
-    "minecraft:digger",
-    "minecraft:is_pickaxe",
-    "minecraft:is_tool",
-    "minecraft:diamond_tier",
-    "minecraft:transformable_items"
-  ],
-  "minecraft:deadbush": [
-  ],
-  "minecraft:jungle_button": [
-  ],
-  "minecraft:ice": [
-  ],
-  "minecraft:cyan_shulker_box": [
-  ],
-  "minecraft:snow_layer": [
-  ],
-  "minecraft:light_block_0": [
-  ],
-  "minecraft:dark_oak_boat": [
-    "minecraft:boat",
-    "minecraft:boats"
-  ],
-  "minecraft:wet_sponge": [
-  ],
-  "minecraft:pale_moss_carpet": [
-  ],
-  "minecraft:honey_bottle": [
-  ],
-  "minecraft:pale_moss_block": [
-  ],
-  "minecraft:muddy_mangrove_roots": [
-  ],
-  "minecraft:tropical_fish": [
-    "minecraft:is_fish"
-  ],
-  "minecraft:respawn_anchor": [
-  ],
-  "minecraft:amethyst_cluster": [
-  ],
-  "minecraft:medium_amethyst_bud": [
-  ],
-  "minecraft:armadillo_scute": [
-  ],
-  "minecraft:chainmail_boots": [
-    "minecraft:is_armor",
-    "minecraft:chainmail_tier",
-    "minecraft:trimmable_armors"
-  ],
-  "minecraft:mutton": [
-    "minecraft:is_food",
-    "minecraft:is_meat"
-  ],
-  "minecraft:rabbit": [
-    "minecraft:is_food",
-    "minecraft:is_meat"
-  ],
-  "minecraft:cod": [
-    "minecraft:is_fish"
-  ],
-  "minecraft:salmon": [
-    "minecraft:is_fish"
-  ],
-  "minecraft:diamond_horse_armor": [
-    "minecraft:horse_armor"
-  ],
-  "minecraft:brown_mushroom_block": [
-  ],
-  "minecraft:spider_eye": [
-  ],
-  "minecraft:clock": [
-  ],
-  "minecraft:armor_stand": [
-  ],
-  "minecraft:infested_stone_bricks": [
-  ],
-  "minecraft:infested_mossy_stone_bricks": [
-  ],
-  "minecraft:sheaf_pottery_sherd": [
-    "minecraft:decorated_pot_sherds"
-  ],
-  "minecraft:ocelot_spawn_egg": [
-    "minecraft:spawn_egg"
-  ],
-  "minecraft:reinforced_deepslate": [
-  ],
-  "minecraft:mooshroom_spawn_egg": [
-    "minecraft:spawn_egg"
-  ],
-  "minecraft:brewing_stand": [
-  ],
-  "minecraft:parrot_spawn_egg": [
-    "minecraft:spawn_egg"
-  ],
-  "minecraft:mule_spawn_egg": [
-    "minecraft:spawn_egg"
-  ],
-  "minecraft:zombie_horse_spawn_egg": [
-    "minecraft:spawn_egg"
-  ],
-  "minecraft:soul_campfire": [
-  ],
-  "minecraft:wither_skeleton_spawn_egg": [
-    "minecraft:spawn_egg"
-  ],
-  "minecraft:sculk": [
-  ],
-  "minecraft:zombie_spawn_egg": [
-    "minecraft:spawn_egg"
-  ],
-  "minecraft:chorus_plant": [
-  ],
-  "minecraft:repeating_command_block": [
-  ],
-  "minecraft:drowned_spawn_egg": [
-    "minecraft:spawn_egg"
-  ],
-  "minecraft:music_disc_precipice": [
-    "minecraft:music_disc"
-  ],
-  "minecraft:guardian_spawn_egg": [
-    "minecraft:spawn_egg"
-  ],
-  "minecraft:damaged_anvil": [
-  ],
-  "minecraft:piglin_spawn_egg": [
-    "minecraft:spawn_egg"
-  ],
-  "minecraft:zoglin_spawn_egg": [
-    "minecraft:spawn_egg"
-  ],
-  "minecraft:loom": [
-  ],
-  "minecraft:axolotl_spawn_egg": [
-    "minecraft:spawn_egg"
-  ],
-  "minecraft:allay_spawn_egg": [
-    "minecraft:spawn_egg"
-  ],
-  "minecraft:shulker_spawn_egg": [
-    "minecraft:spawn_egg"
-  ],
-  "minecraft:netherite_axe": [
-    "minecraft:digger",
-    "minecraft:is_axe",
-    "minecraft:is_tool",
-    "minecraft:netherite_tier"
-  ],
-  "minecraft:vindicator_spawn_egg": [
-    "minecraft:spawn_egg"
-  ],
-  "minecraft:evoker_spawn_egg": [
-    "minecraft:spawn_egg"
-  ],
-  "minecraft:birch_pressure_plate": [
-  ],
-  "minecraft:zombie_villager_spawn_egg": [
-    "minecraft:spawn_egg"
-  ],
-  "minecraft:phantom_spawn_egg": [
-    "minecraft:spawn_egg"
-  ],
-  "minecraft:snow_golem_spawn_egg": [
-    "minecraft:spawn_egg"
-  ],
-  "minecraft:sniffer_spawn_egg": [
-    "minecraft:spawn_egg"
-  ],
-  "minecraft:armadillo_spawn_egg": [
-    "minecraft:spawn_egg"
-  ],
-  "minecraft:music_disc_13": [
-    "minecraft:music_disc"
-  ],
-  "minecraft:bedrock": [
-  ],
-  "minecraft:dirt": [
-  ],
-  "minecraft:magma": [
-  ],
-  "minecraft:end_stone": [
-  ],
-  "minecraft:chorus_fruit": [
-  ],
-  "minecraft:brain_coral_block": [
-  ],
-  "minecraft:bubble_coral_block": [
-  ],
-  "minecraft:gray_candle": [
-  ],
-  "minecraft:dead_bubble_coral_block": [
-  ],
-  "minecraft:dead_fire_coral_block": [
-  ],
-  "minecraft:dead_horn_coral_block": [
-  ],
-  "minecraft:iron_helmet": [
-    "minecraft:is_armor",
-    "minecraft:iron_tier",
-    "minecraft:trimmable_armors"
-  ],
-  "minecraft:golden_helmet": [
-    "minecraft:is_armor",
-    "minecraft:golden_tier",
-    "minecraft:trimmable_armors"
-  ],
-  "minecraft:string": [
-  ],
-  "minecraft:netherite_upgrade_smithing_template": [
-    "minecraft:transform_templates"
-  ],
-  "minecraft:netherite_helmet": [
-    "minecraft:is_armor",
-    "minecraft:netherite_tier",
     "minecraft:trimmable_armors"
   ],
   "minecraft:leather_chestplate": [
@@ -2979,81 +765,218 @@
     "minecraft:leather_tier",
     "minecraft:trimmable_armors"
   ],
-  "minecraft:yellow_bundle": [
-  ],
-  "minecraft:golden_chestplate": [
+  "minecraft:leather_helmet": [
     "minecraft:is_armor",
-    "minecraft:golden_tier",
+    "minecraft:leather_tier",
     "minecraft:trimmable_armors"
+  ],
+  "minecraft:leather_horse_armor": [
+    "minecraft:horse_armor"
+  ],
+  "minecraft:leather_leggings": [
+    "minecraft:is_armor",
+    "minecraft:leather_tier",
+    "minecraft:trimmable_armors"
+  ],
+  "minecraft:light_blue_carpet": [
+    "minecraft:vibration_damper"
+  ],
+  "minecraft:light_blue_wool": [
+    "minecraft:vibration_damper",
+    "minecraft:wool"
+  ],
+  "minecraft:light_gray_carpet": [
+    "minecraft:vibration_damper"
+  ],
+  "minecraft:light_gray_wool": [
+    "minecraft:vibration_damper",
+    "minecraft:wool"
+  ],
+  "minecraft:lime_carpet": [
+    "minecraft:vibration_damper"
+  ],
+  "minecraft:lime_wool": [
+    "minecraft:vibration_damper",
+    "minecraft:wool"
+  ],
+  "minecraft:llama_spawn_egg": [
+    "minecraft:spawn_egg"
+  ],
+  "minecraft:mace": [
+    "minecraft:diamond_tier",
+    "minecraft:is_sword",
+    "minecraft:is_tool"
+  ],
+  "minecraft:magenta_carpet": [
+    "minecraft:vibration_damper"
+  ],
+  "minecraft:magenta_wool": [
+    "minecraft:vibration_damper",
+    "minecraft:wool"
+  ],
+  "minecraft:magma_cube_spawn_egg": [
+    "minecraft:spawn_egg"
+  ],
+  "minecraft:mangrove_boat": [
+    "minecraft:boat",
+    "minecraft:boats"
+  ],
+  "minecraft:mangrove_chest_boat": [
+    "minecraft:boat",
+    "minecraft:boats"
+  ],
+  "minecraft:mangrove_door": [
+    "minecraft:door"
   ],
   "minecraft:mangrove_hanging_sign": [
-    "minecraft:sign",
-    "minecraft:hanging_sign"
+    "minecraft:hanging_sign",
+    "minecraft:sign"
   ],
-  "minecraft:diamond_leggings": [
-    "minecraft:is_armor",
-    "minecraft:diamond_tier",
-    "minecraft:transformable_items",
-    "minecraft:trimmable_armors"
+  "minecraft:mangrove_log": [
+    "minecraft:logs",
+    "minecraft:logs_that_burn",
+    "minecraft:mangrove_logs"
   ],
-  "minecraft:golden_boots": [
-    "minecraft:is_armor",
-    "minecraft:golden_tier",
-    "minecraft:transformable_items",
-    "minecraft:trimmable_armors"
+  "minecraft:mangrove_planks": [
+    "minecraft:planks"
   ],
-  "minecraft:wooden_sword": [
-    "minecraft:is_sword",
-    "minecraft:is_tool",
-    "minecraft:wooden_tier"
+  "minecraft:mangrove_sign": [
+    "minecraft:sign"
   ],
-  "minecraft:diamond_sword": [
-    "minecraft:is_sword",
-    "minecraft:is_tool",
-    "minecraft:diamond_tier",
-    "minecraft:transformable_items"
+  "minecraft:mangrove_slab": [
+    "minecraft:wooden_slabs"
   ],
-  "minecraft:diamond_axe": [
+  "minecraft:mangrove_wood": [
+    "minecraft:logs",
+    "minecraft:logs_that_burn",
+    "minecraft:mangrove_logs"
+  ],
+  "minecraft:melon_slice": [
+    "minecraft:is_food"
+  ],
+  "minecraft:minecart": [
+    "minecraft:is_minecart"
+  ],
+  "minecraft:miner_pottery_sherd": [
+    "minecraft:decorated_pot_sherds"
+  ],
+  "minecraft:mooshroom_spawn_egg": [
+    "minecraft:spawn_egg"
+  ],
+  "minecraft:mossy_stone_bricks": [
+    "minecraft:stone_bricks"
+  ],
+  "minecraft:mourner_pottery_sherd": [
+    "minecraft:decorated_pot_sherds"
+  ],
+  "minecraft:mule_spawn_egg": [
+    "minecraft:spawn_egg"
+  ],
+  "minecraft:mushroom_stew": [
+    "minecraft:is_food"
+  ],
+  "minecraft:music_disc_11": [
+    "minecraft:music_disc"
+  ],
+  "minecraft:music_disc_13": [
+    "minecraft:music_disc"
+  ],
+  "minecraft:music_disc_5": [
+    "minecraft:music_disc"
+  ],
+  "minecraft:music_disc_blocks": [
+    "minecraft:music_disc"
+  ],
+  "minecraft:music_disc_cat": [
+    "minecraft:music_disc"
+  ],
+  "minecraft:music_disc_chirp": [
+    "minecraft:music_disc"
+  ],
+  "minecraft:music_disc_creator": [
+    "minecraft:music_disc"
+  ],
+  "minecraft:music_disc_creator_music_box": [
+    "minecraft:music_disc"
+  ],
+  "minecraft:music_disc_far": [
+    "minecraft:music_disc"
+  ],
+  "minecraft:music_disc_mall": [
+    "minecraft:music_disc"
+  ],
+  "minecraft:music_disc_mellohi": [
+    "minecraft:music_disc"
+  ],
+  "minecraft:music_disc_otherside": [
+    "minecraft:music_disc"
+  ],
+  "minecraft:music_disc_pigstep": [
+    "minecraft:music_disc"
+  ],
+  "minecraft:music_disc_precipice": [
+    "minecraft:music_disc"
+  ],
+  "minecraft:music_disc_relic": [
+    "minecraft:music_disc"
+  ],
+  "minecraft:music_disc_stal": [
+    "minecraft:music_disc"
+  ],
+  "minecraft:music_disc_strad": [
+    "minecraft:music_disc"
+  ],
+  "minecraft:music_disc_wait": [
+    "minecraft:music_disc"
+  ],
+  "minecraft:music_disc_ward": [
+    "minecraft:music_disc"
+  ],
+  "minecraft:mutton": [
+    "minecraft:is_food",
+    "minecraft:is_meat"
+  ],
+  "minecraft:netherite_axe": [
     "minecraft:digger",
     "minecraft:is_axe",
     "minecraft:is_tool",
-    "minecraft:diamond_tier",
-    "minecraft:transformable_items"
+    "minecraft:netherite_tier"
   ],
-  "minecraft:ward_armor_trim_smithing_template": [
-    "minecraft:trim_templates"
+  "minecraft:netherite_boots": [
+    "minecraft:is_armor",
+    "minecraft:netherite_tier",
+    "minecraft:trimmable_armors"
   ],
-  "minecraft:dropper": [
+  "minecraft:netherite_chestplate": [
+    "minecraft:is_armor",
+    "minecraft:netherite_tier",
+    "minecraft:trimmable_armors"
   ],
-  "minecraft:stone_pickaxe": [
+  "minecraft:netherite_helmet": [
+    "minecraft:is_armor",
+    "minecraft:netherite_tier",
+    "minecraft:trimmable_armors"
+  ],
+  "minecraft:netherite_hoe": [
+    "minecraft:digger",
+    "minecraft:is_hoe",
+    "minecraft:is_tool",
+    "minecraft:netherite_tier"
+  ],
+  "minecraft:netherite_ingot": [
+    "minecraft:transform_materials",
+    "minecraft:trim_materials"
+  ],
+  "minecraft:netherite_leggings": [
+    "minecraft:is_armor",
+    "minecraft:netherite_tier",
+    "minecraft:trimmable_armors"
+  ],
+  "minecraft:netherite_pickaxe": [
     "minecraft:digger",
     "minecraft:is_pickaxe",
     "minecraft:is_tool",
-    "minecraft:stone_tier"
-  ],
-  "minecraft:iron_pickaxe": [
-    "minecraft:digger",
-    "minecraft:is_pickaxe",
-    "minecraft:is_tool",
-    "minecraft:iron_tier"
-  ],
-  "minecraft:bamboo_sign": [
-    "minecraft:sign"
-  ],
-  "minecraft:pink_candle": [
-  ],
-  "minecraft:golden_shovel": [
-    "minecraft:digger",
-    "minecraft:is_shovel",
-    "minecraft:is_tool",
-    "minecraft:golden_tier"
-  ],
-  "minecraft:diamond_shovel": [
-    "minecraft:digger",
-    "minecraft:is_shovel",
-    "minecraft:is_tool",
-    "minecraft:diamond_tier",
-    "minecraft:transformable_items"
+    "minecraft:netherite_tier"
   ],
   "minecraft:netherite_shovel": [
     "minecraft:digger",
@@ -3061,363 +984,602 @@
     "minecraft:is_tool",
     "minecraft:netherite_tier"
   ],
-  "minecraft:golden_hoe": [
-    "minecraft:digger",
-    "minecraft:is_hoe",
+  "minecraft:netherite_sword": [
+    "minecraft:is_sword",
     "minecraft:is_tool",
-    "minecraft:golden_tier"
+    "minecraft:netherite_tier"
   ],
-  "minecraft:diamond_hoe": [
-    "minecraft:digger",
-    "minecraft:is_hoe",
-    "minecraft:is_tool",
-    "minecraft:diamond_tier",
-    "minecraft:transformable_items"
+  "minecraft:netherite_upgrade_smithing_template": [
+    "minecraft:transform_templates"
   ],
-  "minecraft:nautilus_shell": [
+  "minecraft:oak_boat": [
+    "minecraft:boat",
+    "minecraft:boats"
   ],
-  "minecraft:bow": [
+  "minecraft:oak_chest_boat": [
+    "minecraft:boat",
+    "minecraft:boats"
   ],
-  "minecraft:shield": [
-  ],
-  "minecraft:cooked_beef": [
-    "minecraft:is_food",
-    "minecraft:is_meat",
-    "minecraft:is_cooked"
-  ],
-  "minecraft:cooked_mutton": [
-    "minecraft:is_food",
-    "minecraft:is_meat",
-    "minecraft:is_cooked"
-  ],
-  "minecraft:compass": [
-  ],
-  "minecraft:pumpkin_pie": [
-    "minecraft:is_food"
-  ],
-  "minecraft:warped_fungus_on_a_stick": [
-  ],
-  "minecraft:wolf_armor": [
-  ],
-  "minecraft:dragon_breath": [
-  ],
-  "minecraft:white_bundle": [
-  ],
-  "minecraft:red_bundle": [
-  ],
-  "minecraft:light_gray_bundle": [
-  ],
-  "minecraft:green_bundle": [
-  ],
-  "minecraft:cyan_bundle": [
-  ],
-  "minecraft:magenta_bundle": [
-  ],
-  "minecraft:pink_bundle": [
-  ],
-  "minecraft:turtle_helmet": [
-    "minecraft:is_armor",
-    "minecraft:trimmable_armors"
-  ],
-  "minecraft:totem_of_undying": [
-  ],
-  "minecraft:potion": [
-  ],
-  "minecraft:soul_torch": [
-  ],
-  "minecraft:rail": [
-  ],
-  "minecraft:soul_lantern": [
-  ],
-  "minecraft:magenta_candle": [
-  ],
-  "minecraft:lime_candle": [
-  ],
-  "minecraft:fletching_table": [
-  ],
-  "minecraft:smithing_table": [
-  ],
-  "minecraft:music_disc_strad": [
-    "minecraft:music_disc"
-  ],
-  "minecraft:enchanting_table": [
-  ],
-  "minecraft:bookshelf": [
-  ],
-  "minecraft:chiseled_bookshelf": [
-  ],
-  "minecraft:trapped_chest": [
-  ],
-  "minecraft:rabbit_foot": [
-  ],
-  "minecraft:undyed_shulker_box": [
-  ],
-  "minecraft:white_shulker_box": [
-  ],
-  "minecraft:gray_shulker_box": [
-  ],
-  "minecraft:piglin_head": [
-  ],
-  "minecraft:black_shulker_box": [
-  ],
-  "minecraft:red_shulker_box": [
-  ],
-  "minecraft:orange_shulker_box": [
-  ],
-  "minecraft:lime_shulker_box": [
-  ],
-  "minecraft:green_shulker_box": [
-  ],
-  "minecraft:quartz": [
-    "minecraft:trim_materials"
-  ],
-  "minecraft:music_disc_chirp": [
-    "minecraft:music_disc"
-  ],
-  "minecraft:music_disc_ward": [
-    "minecraft:music_disc"
-  ],
-  "minecraft:lightning_rod": [
-  ],
-  "minecraft:music_disc_creator_music_box": [
-    "minecraft:music_disc"
-  ],
-  "minecraft:danger_pottery_sherd": [
-    "minecraft:decorated_pot_sherds"
-  ],
-  "minecraft:disc_fragment_5": [
-  ],
-  "minecraft:glowstone": [
-  ],
-  "minecraft:birch_sign": [
+  "minecraft:oak_hanging_sign": [
+    "minecraft:hanging_sign",
     "minecraft:sign"
   ],
-  "minecraft:dark_oak_sign": [
+  "minecraft:oak_log": [
+    "minecraft:logs",
+    "minecraft:logs_that_burn"
+  ],
+  "minecraft:oak_planks": [
+    "minecraft:planks"
+  ],
+  "minecraft:oak_sign": [
     "minecraft:sign"
   ],
-  "minecraft:crimson_sign": [
-    "minecraft:sign"
+  "minecraft:oak_slab": [
+    "minecraft:wooden_slabs"
   ],
-  "minecraft:warped_sign": [
-    "minecraft:sign"
+  "minecraft:oak_wood": [
+    "minecraft:logs",
+    "minecraft:logs_that_burn"
   ],
-  "minecraft:firework_star": [
+  "minecraft:ocelot_spawn_egg": [
+    "minecraft:spawn_egg"
   ],
-  "minecraft:spruce_hanging_sign": [
-    "minecraft:sign",
-    "minecraft:hanging_sign"
+  "minecraft:orange_carpet": [
+    "minecraft:vibration_damper"
   ],
-  "minecraft:bamboo_hanging_sign": [
-    "minecraft:sign",
-    "minecraft:hanging_sign"
+  "minecraft:orange_wool": [
+    "minecraft:vibration_damper",
+    "minecraft:wool"
   ],
-  "minecraft:crimson_hanging_sign": [
-    "minecraft:sign",
-    "minecraft:hanging_sign"
+  "minecraft:oxidized_copper_door": [
+    "minecraft:door"
   ],
   "minecraft:painting": [
     "minecraft:hanging_actor"
   ],
-  "minecraft:flower_pot": [
+  "minecraft:pale_oak_boat": [
+    "minecraft:boat",
+    "minecraft:boats"
   ],
-  "minecraft:lava_bucket": [
+  "minecraft:pale_oak_chest_boat": [
+    "minecraft:boat",
+    "minecraft:boats"
   ],
-  "minecraft:cod_bucket": [
+  "minecraft:pale_oak_door": [
+    "minecraft:door"
   ],
-  "minecraft:wither_spawn_egg": [
+  "minecraft:pale_oak_hanging_sign": [
+    "minecraft:hanging_sign",
+    "minecraft:sign"
+  ],
+  "minecraft:pale_oak_log": [
+    "minecraft:logs",
+    "minecraft:logs_that_burn"
+  ],
+  "minecraft:pale_oak_planks": [
+    "minecraft:planks"
+  ],
+  "minecraft:pale_oak_sign": [
+    "minecraft:sign"
+  ],
+  "minecraft:pale_oak_slab": [
+    "minecraft:wooden_slabs"
+  ],
+  "minecraft:pale_oak_wood": [
+    "minecraft:logs",
+    "minecraft:logs_that_burn"
+  ],
+  "minecraft:panda_spawn_egg": [
     "minecraft:spawn_egg"
   ],
-  "minecraft:pufferfish_bucket": [
+  "minecraft:parrot_spawn_egg": [
+    "minecraft:spawn_egg"
   ],
-  "minecraft:player_head": [
+  "minecraft:phantom_spawn_egg": [
+    "minecraft:spawn_egg"
   ],
-  "minecraft:heart_pottery_sherd": [
-    "minecraft:decorated_pot_sherds"
+  "minecraft:pig_spawn_egg": [
+    "minecraft:spawn_egg"
   ],
-  "minecraft:bell": [
+  "minecraft:piglin_brute_spawn_egg": [
+    "minecraft:spawn_egg"
   ],
-  "minecraft:anvil": [
+  "minecraft:piglin_spawn_egg": [
+    "minecraft:spawn_egg"
   ],
-  "minecraft:conduit": [
+  "minecraft:pillager_spawn_egg": [
+    "minecraft:spawn_egg"
   ],
-  "minecraft:stonecutter_block": [
+  "minecraft:pink_carpet": [
+    "minecraft:vibration_damper"
   ],
-  "minecraft:raw_iron": [
-  ],
-  "minecraft:raw_gold": [
-  ],
-  "minecraft:raw_copper": [
-  ],
-  "minecraft:iron_ingot": [
-    "minecraft:trim_materials"
-  ],
-  "minecraft:prismarine_shard": [
-  ],
-  "minecraft:banner": [
-    "minecraft:banner"
-  ],
-  "minecraft:prismarine_crystals": [
-  ],
-  "minecraft:heart_of_the_sea": [
-  ],
-  "minecraft:blaze_powder": [
-  ],
-  "minecraft:nether_star": [
-  ],
-  "minecraft:paper": [
-  ],
-  "minecraft:spruce_boat": [
-    "minecraft:boat",
-    "minecraft:boats"
-  ],
-  "minecraft:lodestone_compass": [
-  ],
-  "minecraft:firework_rocket": [
-  ],
-  "minecraft:birch_chest_boat": [
-    "minecraft:boat",
-    "minecraft:boats"
-  ],
-  "minecraft:golden_rail": [
-  ],
-  "minecraft:minecart": [
-    "minecraft:is_minecart"
-  ],
-  "minecraft:hopper_minecart": [
-    "minecraft:is_minecart"
-  ],
-  "minecraft:redstone_torch": [
-  ],
-  "minecraft:lever": [
-  ],
-  "minecraft:acacia_button": [
-  ],
-  "minecraft:dark_oak_button": [
-  ],
-  "minecraft:mangrove_button": [
-  ],
-  "minecraft:pale_oak_button": [
-  ],
-  "minecraft:bamboo_button": [
-  ],
-  "minecraft:stone_button": [
-  ],
-  "minecraft:crimson_button": [
-  ],
-  "minecraft:warped_button": [
-  ],
-  "minecraft:tripwire_hook": [
-  ],
-  "minecraft:spruce_pressure_plate": [
-  ],
-  "minecraft:dark_oak_pressure_plate": [
-  ],
-  "minecraft:mangrove_pressure_plate": [
-  ],
-  "minecraft:crimson_pressure_plate": [
-  ],
-  "minecraft:stone_pressure_plate": [
-  ],
-  "minecraft:heavy_weighted_pressure_plate": [
-  ],
-  "minecraft:polished_blackstone_pressure_plate": [
-  ],
-  "minecraft:repeater": [
-  ],
-  "minecraft:comparator": [
-  ],
-  "minecraft:piston": [
-  ],
-  "minecraft:flower_banner_pattern": [
-  ],
-  "minecraft:mojang_banner_pattern": [
-  ],
-  "minecraft:bordure_indented_banner_pattern": [
-  ],
-  "minecraft:globe_banner_pattern": [
-  ],
-  "minecraft:wild_armor_trim_smithing_template": [
-    "minecraft:trim_templates"
-  ],
-  "minecraft:flow_banner_pattern": [
-  ],
-  "minecraft:angler_pottery_sherd": [
-    "minecraft:decorated_pot_sherds"
-  ],
-  "minecraft:blade_pottery_sherd": [
-    "minecraft:decorated_pot_sherds"
-  ],
-  "minecraft:miner_pottery_sherd": [
-    "minecraft:decorated_pot_sherds"
-  ],
-  "minecraft:mourner_pottery_sherd": [
-    "minecraft:decorated_pot_sherds"
+  "minecraft:pink_wool": [
+    "minecraft:vibration_damper",
+    "minecraft:wool"
   ],
   "minecraft:plenty_pottery_sherd": [
     "minecraft:decorated_pot_sherds"
   ],
-  "minecraft:snort_pottery_sherd": [
+  "minecraft:polar_bear_spawn_egg": [
+    "minecraft:spawn_egg"
+  ],
+  "minecraft:porkchop": [
+    "minecraft:is_food",
+    "minecraft:is_meat"
+  ],
+  "minecraft:potato": [
+    "minecraft:is_food"
+  ],
+  "minecraft:prize_pottery_sherd": [
     "minecraft:decorated_pot_sherds"
   ],
-  "minecraft:vex_armor_trim_smithing_template": [
+  "minecraft:pufferfish": [
+    "minecraft:is_fish"
+  ],
+  "minecraft:pufferfish_spawn_egg": [
+    "minecraft:spawn_egg"
+  ],
+  "minecraft:pumpkin_pie": [
+    "minecraft:is_food"
+  ],
+  "minecraft:purple_carpet": [
+    "minecraft:vibration_damper"
+  ],
+  "minecraft:purple_wool": [
+    "minecraft:vibration_damper",
+    "minecraft:wool"
+  ],
+  "minecraft:quartz": [
+    "minecraft:trim_materials"
+  ],
+  "minecraft:rabbit": [
+    "minecraft:is_food",
+    "minecraft:is_meat"
+  ],
+  "minecraft:rabbit_spawn_egg": [
+    "minecraft:spawn_egg"
+  ],
+  "minecraft:rabbit_stew": [
+    "minecraft:is_cooked",
+    "minecraft:is_food",
+    "minecraft:is_meat"
+  ],
+  "minecraft:raiser_armor_trim_smithing_template": [
     "minecraft:trim_templates"
   ],
-  "minecraft:coast_armor_trim_smithing_template": [
+  "minecraft:ravager_spawn_egg": [
+    "minecraft:spawn_egg"
+  ],
+  "minecraft:red_carpet": [
+    "minecraft:vibration_damper"
+  ],
+  "minecraft:red_sand": [
+    "minecraft:sand"
+  ],
+  "minecraft:red_wool": [
+    "minecraft:vibration_damper",
+    "minecraft:wool"
+  ],
+  "minecraft:redstone": [
+    "minecraft:trim_materials"
+  ],
+  "minecraft:rib_armor_trim_smithing_template": [
     "minecraft:trim_templates"
   ],
-  "minecraft:dune_armor_trim_smithing_template": [
+  "minecraft:rotten_flesh": [
+    "minecraft:is_food",
+    "minecraft:is_meat"
+  ],
+  "minecraft:salmon": [
+    "minecraft:is_fish"
+  ],
+  "minecraft:salmon_spawn_egg": [
+    "minecraft:spawn_egg"
+  ],
+  "minecraft:sand": [
+    "minecraft:sand"
+  ],
+  "minecraft:scrape_pottery_sherd": [
+    "minecraft:decorated_pot_sherds"
+  ],
+  "minecraft:sentry_armor_trim_smithing_template": [
     "minecraft:trim_templates"
   ],
   "minecraft:shaper_armor_trim_smithing_template": [
     "minecraft:trim_templates"
   ],
+  "minecraft:sheaf_pottery_sherd": [
+    "minecraft:decorated_pot_sherds"
+  ],
+  "minecraft:shears": [
+    "minecraft:is_shears"
+  ],
+  "minecraft:sheep_spawn_egg": [
+    "minecraft:spawn_egg"
+  ],
+  "minecraft:shelter_pottery_sherd": [
+    "minecraft:decorated_pot_sherds"
+  ],
+  "minecraft:shulker_spawn_egg": [
+    "minecraft:spawn_egg"
+  ],
   "minecraft:silence_armor_trim_smithing_template": [
     "minecraft:trim_templates"
+  ],
+  "minecraft:silverfish_spawn_egg": [
+    "minecraft:spawn_egg"
+  ],
+  "minecraft:skeleton_horse_spawn_egg": [
+    "minecraft:spawn_egg"
+  ],
+  "minecraft:skeleton_spawn_egg": [
+    "minecraft:spawn_egg"
+  ],
+  "minecraft:skull_pottery_sherd": [
+    "minecraft:decorated_pot_sherds"
+  ],
+  "minecraft:slime_spawn_egg": [
+    "minecraft:spawn_egg"
+  ],
+  "minecraft:sniffer_spawn_egg": [
+    "minecraft:spawn_egg"
+  ],
+  "minecraft:snort_pottery_sherd": [
+    "minecraft:decorated_pot_sherds"
+  ],
+  "minecraft:snout_armor_trim_smithing_template": [
+    "minecraft:trim_templates"
+  ],
+  "minecraft:snow_golem_spawn_egg": [
+    "minecraft:spawn_egg"
+  ],
+  "minecraft:soul_sand": [
+    "minecraft:soul_fire_base_blocks"
+  ],
+  "minecraft:soul_soil": [
+    "minecraft:soul_fire_base_blocks"
+  ],
+  "minecraft:spider_spawn_egg": [
+    "minecraft:spawn_egg"
+  ],
+  "minecraft:spire_armor_trim_smithing_template": [
+    "minecraft:trim_templates"
+  ],
+  "minecraft:spruce_boat": [
+    "minecraft:boat",
+    "minecraft:boats"
+  ],
+  "minecraft:spruce_chest_boat": [
+    "minecraft:boat",
+    "minecraft:boats"
+  ],
+  "minecraft:spruce_door": [
+    "minecraft:door"
+  ],
+  "minecraft:spruce_hanging_sign": [
+    "minecraft:hanging_sign",
+    "minecraft:sign"
+  ],
+  "minecraft:spruce_log": [
+    "minecraft:logs",
+    "minecraft:logs_that_burn"
+  ],
+  "minecraft:spruce_planks": [
+    "minecraft:planks"
+  ],
+  "minecraft:spruce_sign": [
+    "minecraft:sign"
+  ],
+  "minecraft:spruce_slab": [
+    "minecraft:wooden_slabs"
+  ],
+  "minecraft:spruce_wood": [
+    "minecraft:logs",
+    "minecraft:logs_that_burn"
+  ],
+  "minecraft:squid_spawn_egg": [
+    "minecraft:spawn_egg"
+  ],
+  "minecraft:stone_axe": [
+    "minecraft:digger",
+    "minecraft:is_axe",
+    "minecraft:is_tool",
+    "minecraft:stone_tier"
+  ],
+  "minecraft:stone_bricks": [
+    "minecraft:stone_bricks"
+  ],
+  "minecraft:stone_hoe": [
+    "minecraft:digger",
+    "minecraft:is_hoe",
+    "minecraft:is_tool",
+    "minecraft:stone_tier"
+  ],
+  "minecraft:stone_pickaxe": [
+    "minecraft:digger",
+    "minecraft:is_pickaxe",
+    "minecraft:is_tool",
+    "minecraft:stone_tier"
+  ],
+  "minecraft:stone_shovel": [
+    "minecraft:digger",
+    "minecraft:is_shovel",
+    "minecraft:is_tool",
+    "minecraft:stone_tier"
+  ],
+  "minecraft:stone_sword": [
+    "minecraft:is_sword",
+    "minecraft:is_tool",
+    "minecraft:stone_tier"
+  ],
+  "minecraft:stray_spawn_egg": [
+    "minecraft:spawn_egg"
+  ],
+  "minecraft:strider_spawn_egg": [
+    "minecraft:spawn_egg"
+  ],
+  "minecraft:stripped_acacia_log": [
+    "minecraft:logs",
+    "minecraft:logs_that_burn"
+  ],
+  "minecraft:stripped_acacia_wood": [
+    "minecraft:logs",
+    "minecraft:logs_that_burn"
+  ],
+  "minecraft:stripped_birch_log": [
+    "minecraft:logs",
+    "minecraft:logs_that_burn"
+  ],
+  "minecraft:stripped_birch_wood": [
+    "minecraft:logs",
+    "minecraft:logs_that_burn"
+  ],
+  "minecraft:stripped_cherry_log": [
+    "minecraft:logs",
+    "minecraft:logs_that_burn"
+  ],
+  "minecraft:stripped_cherry_wood": [
+    "minecraft:logs",
+    "minecraft:logs_that_burn"
+  ],
+  "minecraft:stripped_crimson_hyphae": [
+    "minecraft:crimson_stems",
+    "minecraft:logs"
+  ],
+  "minecraft:stripped_crimson_stem": [
+    "minecraft:crimson_stems",
+    "minecraft:logs"
+  ],
+  "minecraft:stripped_dark_oak_log": [
+    "minecraft:logs",
+    "minecraft:logs_that_burn"
+  ],
+  "minecraft:stripped_dark_oak_wood": [
+    "minecraft:logs",
+    "minecraft:logs_that_burn"
+  ],
+  "minecraft:stripped_jungle_log": [
+    "minecraft:logs",
+    "minecraft:logs_that_burn"
+  ],
+  "minecraft:stripped_jungle_wood": [
+    "minecraft:logs",
+    "minecraft:logs_that_burn"
+  ],
+  "minecraft:stripped_mangrove_log": [
+    "minecraft:logs",
+    "minecraft:logs_that_burn",
+    "minecraft:mangrove_logs"
+  ],
+  "minecraft:stripped_mangrove_wood": [
+    "minecraft:logs",
+    "minecraft:logs_that_burn",
+    "minecraft:mangrove_logs"
+  ],
+  "minecraft:stripped_oak_log": [
+    "minecraft:logs",
+    "minecraft:logs_that_burn"
+  ],
+  "minecraft:stripped_oak_wood": [
+    "minecraft:logs",
+    "minecraft:logs_that_burn"
+  ],
+  "minecraft:stripped_pale_oak_log": [
+    "minecraft:logs",
+    "minecraft:logs_that_burn"
+  ],
+  "minecraft:stripped_pale_oak_wood": [
+    "minecraft:logs",
+    "minecraft:logs_that_burn"
+  ],
+  "minecraft:stripped_spruce_log": [
+    "minecraft:logs",
+    "minecraft:logs_that_burn"
+  ],
+  "minecraft:stripped_spruce_wood": [
+    "minecraft:logs",
+    "minecraft:logs_that_burn"
+  ],
+  "minecraft:stripped_warped_hyphae": [
+    "minecraft:logs",
+    "minecraft:warped_stems"
+  ],
+  "minecraft:stripped_warped_stem": [
+    "minecraft:logs",
+    "minecraft:warped_stems"
+  ],
+  "minecraft:sweet_berries": [
+    "minecraft:is_food"
+  ],
+  "minecraft:tadpole_spawn_egg": [
+    "minecraft:spawn_egg"
   ],
   "minecraft:tide_armor_trim_smithing_template": [
     "minecraft:trim_templates"
   ],
-  "minecraft:chain": [
+  "minecraft:tnt_minecart": [
+    "minecraft:is_minecart"
   ],
-  "minecraft:decorated_pot": [
+  "minecraft:trader_llama_spawn_egg": [
+    "minecraft:spawn_egg"
   ],
-  "minecraft:ominous_trial_key": [
+  "minecraft:trident": [
+    "minecraft:is_trident"
   ],
-  "minecraft:light_block_15": [
+  "minecraft:tropical_fish": [
+    "minecraft:is_fish"
   ],
-  "minecraft:filled_map": [
+  "minecraft:tropical_fish_spawn_egg": [
+    "minecraft:spawn_egg"
   ],
-  "minecraft:border_block": [
+  "minecraft:turtle_helmet": [
+    "minecraft:is_armor",
+    "minecraft:trimmable_armors"
   ],
-  "minecraft:light_block_2": [
+  "minecraft:turtle_spawn_egg": [
+    "minecraft:spawn_egg"
   ],
-  "minecraft:light_block_3": [
+  "minecraft:vex_armor_trim_smithing_template": [
+    "minecraft:trim_templates"
   ],
-  "minecraft:light_block_4": [
+  "minecraft:vex_spawn_egg": [
+    "minecraft:spawn_egg"
   ],
-  "minecraft:light_block_6": [
+  "minecraft:villager_spawn_egg": [
+    "minecraft:spawn_egg"
   ],
-  "minecraft:light_block_7": [
+  "minecraft:vindicator_spawn_egg": [
+    "minecraft:spawn_egg"
   ],
-  "minecraft:light_block_11": [
+  "minecraft:wandering_trader_spawn_egg": [
+    "minecraft:spawn_egg"
   ],
-  "minecraft:stone": [
+  "minecraft:ward_armor_trim_smithing_template": [
+    "minecraft:trim_templates"
   ],
-  "minecraft:sponge": [
+  "minecraft:warden_spawn_egg": [
+    "minecraft:spawn_egg"
   ],
-  "minecraft:sand": [
-    "minecraft:sand"
+  "minecraft:warped_door": [
+    "minecraft:door"
   ],
-  "minecraft:tnt": [
+  "minecraft:warped_hanging_sign": [
+    "minecraft:hanging_sign",
+    "minecraft:sign"
   ],
-  "minecraft:red_sandstone": [
+  "minecraft:warped_hyphae": [
+    "minecraft:logs",
+    "minecraft:warped_stems"
   ],
-  "minecraft:sandstone": [
+  "minecraft:warped_planks": [
+    "minecraft:planks"
   ],
-  "minecraft:quartz_block": [
+  "minecraft:warped_sign": [
+    "minecraft:sign"
   ],
-  "minecraft:prismarine": [
+  "minecraft:warped_slab": [
+    "minecraft:wooden_slabs"
   ],
-  "minecraft:bucket": [
+  "minecraft:warped_stem": [
+    "minecraft:logs",
+    "minecraft:warped_stems"
+  ],
+  "minecraft:waxed_copper_door": [
+    "minecraft:door"
+  ],
+  "minecraft:waxed_exposed_copper_door": [
+    "minecraft:door"
+  ],
+  "minecraft:waxed_oxidized_copper_door": [
+    "minecraft:door"
+  ],
+  "minecraft:waxed_weathered_copper_door": [
+    "minecraft:door"
+  ],
+  "minecraft:wayfinder_armor_trim_smithing_template": [
+    "minecraft:trim_templates"
+  ],
+  "minecraft:weathered_copper_door": [
+    "minecraft:door"
+  ],
+  "minecraft:white_carpet": [
+    "minecraft:vibration_damper"
+  ],
+  "minecraft:white_wool": [
+    "minecraft:vibration_damper",
+    "minecraft:wool"
+  ],
+  "minecraft:wild_armor_trim_smithing_template": [
+    "minecraft:trim_templates"
+  ],
+  "minecraft:witch_spawn_egg": [
+    "minecraft:spawn_egg"
+  ],
+  "minecraft:wither_skeleton_spawn_egg": [
+    "minecraft:spawn_egg"
+  ],
+  "minecraft:wither_spawn_egg": [
+    "minecraft:spawn_egg"
+  ],
+  "minecraft:wolf_spawn_egg": [
+    "minecraft:spawn_egg"
+  ],
+  "minecraft:wooden_axe": [
+    "minecraft:digger",
+    "minecraft:is_axe",
+    "minecraft:is_tool",
+    "minecraft:wooden_tier"
+  ],
+  "minecraft:wooden_door": [
+    "minecraft:door"
+  ],
+  "minecraft:wooden_hoe": [
+    "minecraft:digger",
+    "minecraft:is_hoe",
+    "minecraft:is_tool",
+    "minecraft:wooden_tier"
+  ],
+  "minecraft:wooden_pickaxe": [
+    "minecraft:digger",
+    "minecraft:is_pickaxe",
+    "minecraft:is_tool",
+    "minecraft:wooden_tier"
+  ],
+  "minecraft:wooden_shovel": [
+    "minecraft:digger",
+    "minecraft:is_shovel",
+    "minecraft:is_tool",
+    "minecraft:wooden_tier"
+  ],
+  "minecraft:wooden_sword": [
+    "minecraft:is_sword",
+    "minecraft:is_tool",
+    "minecraft:wooden_tier"
+  ],
+  "minecraft:writable_book": [
+    "minecraft:bookshelf_books",
+    "minecraft:lectern_books"
+  ],
+  "minecraft:yellow_carpet": [
+    "minecraft:vibration_damper"
+  ],
+  "minecraft:yellow_wool": [
+    "minecraft:vibration_damper",
+    "minecraft:wool"
+  ],
+  "minecraft:zoglin_spawn_egg": [
+    "minecraft:spawn_egg"
+  ],
+  "minecraft:zombie_horse_spawn_egg": [
+    "minecraft:spawn_egg"
+  ],
+  "minecraft:zombie_pigman_spawn_egg": [
+    "minecraft:spawn_egg"
+  ],
+  "minecraft:zombie_spawn_egg": [
+    "minecraft:spawn_egg"
+  ],
+  "minecraft:zombie_villager_spawn_egg": [
+    "minecraft:spawn_egg"
   ]
 }
