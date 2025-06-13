@@ -509,5 +509,11 @@
   "state_change": 552,
   "imitate.happy_ghast": 553,
   "armor.unequip_generic": 554,
-  "undefined": 555
+  "record.tears": 555,
+  "ambient.weather.the_end_light_flash":556,
+  "lead.leash": 557,
+  "lead.unleash": 558,
+  "lead.break": 559,
+  "unsaddle": 560,
+  "undefined": 561
 }
