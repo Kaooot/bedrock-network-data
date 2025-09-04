@@ -517,8 +517,8 @@
   "unsaddle": 560,
   "armor.equip_copper": 561,
   "record.lava_chicken": 562,
-  "single_item_swap": 563,
-  "multi_item_swap": 564,
-  "place_item": 565,
+  "place_item": 563,
+  "single_item_swap": 564,
+  "multi_item_swap": 565,
   "undefined": 566
 }
