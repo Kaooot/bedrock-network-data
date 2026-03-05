@@ -551,5 +551,7 @@
   "item.golden_spear.use": 594,
   "item.diamond_spear.use": 595,
   "item.netherite_spear.use": 596,
-  "undefined": 597
+  "pause_growth": 597,
+  "reset_growth": 598,
+  "undefined": 599
 }
