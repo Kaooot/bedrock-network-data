@@ -87,5 +87,7 @@
   "creakingcrumble": 94,
   "eyeblossomopen": 96,
   "eyeblossomclose": 97,
-  "greenflame": 98
+  "greenflame": 98,
+  "pausemobgrowth": 99,
+  "resetmobgrowth": 100
 }
