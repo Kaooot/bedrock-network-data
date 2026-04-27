@@ -5,5 +5,3 @@ This repository contains network protocol data that is essential for the operati
 ### Table of contents
 
 * [Releases](release/release-versions.md)
-
-* [Previews](preview/preview-versions.md)
